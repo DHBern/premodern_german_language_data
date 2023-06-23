@@ -7,7 +7,7 @@ All our tagger and our language models are published on Huggingface:
 [huggingface.co/dh-unibe](https://huggingface.co/dh-unibe).
 
 <h2>Mentions:</h2>
-For a specialized tagger for early modern German based on [FlairNLP](https://github.com/flairNLP/flair), see: (huggingface.co/dh-unibe/turmbuecher-ner-v1)[https://huggingface.co/dh-unibe/turmbuecher-ner-v1].
+For a specialized tagger for early modern German based on [FlairNLP](https://github.com/flairNLP/flair), see: [huggingface.co/dh-unibe/turmbuecher-ner-v1](https://huggingface.co/dh-unibe/turmbuecher-ner-v1).
 
 <h3>Using tagger in Transkribus:</h3>
 For FlairNLP taggers, a working python-script uses the Transkribus API for tagging:
