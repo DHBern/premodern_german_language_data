@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>P2PaLA-PRHLT</Creator>
+        <Created>2023-06-22T11:24:16</Created>
+        <LastChange>2023-06-22T11:24:56.678+02:00</LastChange>
+        <TranskribusMetadata docId="1336522" pageId="52421222" pageNr="73" tsid="127498299" status="IN_PROGRESS" userId="42748" imgUrl="https://files.transkribus.eu/Get?id=ADBYQPWXEFHPPXQYDURYAPKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ITFWEHOACPWQIKBUKCKQYKHV" imageId="30691874"/>
+    </Metadata>
+    <Page imageFilename="IMG_6114.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513533559" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rjGm1_2"/>
+                <RegionRefIndexed index="1" regionRef="r7QDS_4"/>
+                <RegionRefIndexed index="2" regionRef="r7VBd_3"/>
+                <RegionRefIndexed index="3" regionRef="rTkTk_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="rjGm1_2" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="1013,865 1207,865 1207,1978 1013,1978"/>
+        </TextRegion>
+        <TextRegion id="r7QDS_4" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1076,753 3412,753 3412,2268 1076,2268"/>
+        </TextRegion>
+        <TextRegion id="r7VBd_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="2226,750 2299,750 2299,797 2226,797"/>
+        </TextRegion>
+        <TextRegion id="rTkTk_1" custom="readingOrder {index:3;} structure {type:marginalia;}">
+            <Coords points="2084,900 2346,900 2346,2067 2084,2067"/>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>P2PaLA-PRHLT</Creator>
+        <Created>2023-06-22T11:22:33</Created>
+        <LastChange>2023-06-22T11:25:18.782+02:00</LastChange>
+        <TranskribusMetadata docId="1336522" pageId="52421629" pageNr="159" tsid="127498395" status="IN_PROGRESS" userId="42748" imgUrl="https://files.transkribus.eu/Get?id=PGONQXKNPMYCNRGVGXRIXEUH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SHLFMWCSVGPCMKTPMVNAALLL" imageId="30692200"/>
+    </Metadata>
+    <Page imageFilename="IMG_6200.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513535908" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rgbjr_4"/>
+                <RegionRefIndexed index="1" regionRef="rt5kz_2"/>
+                <RegionRefIndexed index="2" regionRef="rxeep_5"/>
+                <RegionRefIndexed index="3" regionRef="rltuZ_3"/>
+                <RegionRefIndexed index="4" regionRef="ruPS0_1"/>
+                <RegionRefIndexed index="5" regionRef="rpeyn_6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="rgbjr_4" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="1107,882 1155,882 1155,1216 1107,1216"/>
+        </TextRegion>
+        <TextRegion id="rt5kz_2" custom="readingOrder {index:1;} structure {type:marginalia;}">
+            <Coords points="1065,1255 1186,1255 1186,1777 1065,1777"/>
+        </TextRegion>
+        <TextRegion id="rxeep_5" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1118,800 2152,800 2152,2309 1118,2309"/>
+        </TextRegion>
+        <TextRegion id="rltuZ_3" custom="readingOrder {index:3;} structure {type:marginalia;}">
+            <Coords points="2173,930 2299,930 2299,1576 2173,1576"/>
+        </TextRegion>
+        <TextRegion id="ruPS0_1" custom="readingOrder {index:4;} structure {type:marginalia;}">
+            <Coords points="2189,1680 2304,1680 2304,2208 2189,2208"/>
+        </TextRegion>
+        <TextRegion id="rpeyn_6" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="2199,797 3307,797 3307,2350 2199,2350"/>
+        </TextRegion>
+    </Page>
+</PcGts>

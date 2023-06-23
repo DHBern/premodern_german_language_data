@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>P2PaLA-PRHLT</Creator>
+        <Created>2023-06-22T11:31:20</Created>
+        <LastChange>2023-06-22T11:31:24.501+02:00</LastChange>
+        <TranskribusMetadata docId="1334839" pageId="52361606" pageNr="9" tsid="127498844" status="IN_PROGRESS" userId="42748" imgUrl="https://files.transkribus.eu/Get?id=DUHUZIUNTWXOZVKWSPLYFENF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZQAGMAZJSJRHAFUJEYLEQBTO" imageId="19027385"/>
+    </Metadata>
+    <Page imageFilename="IMG_9584.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513686077" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="roc1B_2"/>
+                <RegionRefIndexed index="1" regionRef="rhCc0_3"/>
+                <RegionRefIndexed index="2" regionRef="rasaJ_1"/>
+                <RegionRefIndexed index="3" regionRef="ro6at_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="roc1B_2" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="401,500 1480,500 1480,1141 401,1141"/>
+        </TextRegion>
+        <TextRegion id="rhCc0_3" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="460,1051 1409,1051 1409,3232 460,3232"/>
+        </TextRegion>
+        <TextRegion id="rasaJ_1" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="1582,1956 2590,1956 2590,2071 1582,2071"/>
+        </TextRegion>
+        <TextRegion id="ro6at_4" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1594,531 2697,531 2697,2945 1594,2945"/>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M5.4(htr_id=38771)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-06-16T09:29:19.489+02:00</Created>
+        <LastChange>2022-09-12T15:42:48.678+02:00</LastChange>
+        <TranskribusMetadata docId="1334852" pageId="52364158" pageNr="262" tsid="114646296" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=ATADIJAMUOZXPTKQLGLLGMTY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PDBRECOWVWJTCSEJPVSNKYNW" imageId="35485878"/>
+    </Metadata>
+    <Page imageFilename="IMG_8016.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513616024" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="686,368 686,520 854,520 854,368"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="677,496 701,494 759,509 819,505 827,513 863,513 862,389 844,383 820,389 788,367 761,395 745,395 715,421 677,420"/>
+                <Baseline points="686,468 714,470 742,470 770,469 798,468 826,468 854,470"/>
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1800,376 1800,551 2090,551 2090,376"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1784,526 1855,533 1912,515 1930,529 1948,517 1973,540 2022,539 2090,591 2115,364 2042,373 1973,337 1945,352 1885,337 1801,369"/>
+                <Baseline points="1800,476 1826,476 1852,477 1879,482 1905,485 1931,489 1958,494 1984,497 2010,500 2037,501 2063,501 2090,498"/>
+                <TextEquiv>
+                    <Unicode>D</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>D</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

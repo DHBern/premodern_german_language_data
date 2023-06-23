@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:42:02.262+02:00</Created>
+        <LastChange>2022-09-12T15:35:31.337+02:00</LastChange>
+        <TranskribusMetadata docId="1334851" pageId="52363630" pageNr="195" tsid="114645664" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=MNHNHNISIFQCVPAUGSXITYOP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=POXYAFVXCJGWKILWOTZDYOCI" imageId="30691782"/>
+    </Metadata>
+    <Page imageFilename="IMG_7198.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513624514" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1595,496 1595,658 1824,658 1824,496"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:6; continued:true;}">
+                <Coords points="1597,554 1615,563 1635,557 1654,569 1671,553 1711,570 1759,546 1798,562 1830,554 1824,453 1753,455 1722,481 1667,460 1614,490 1593,492"/>
+                <Baseline points="1602,552 1629,548 1657,544 1685,540 1713,537 1740,536 1768,536 1796,538 1824,543"/>
+                <TextEquiv>
+                    <Unicode>Splfli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:5; continued:true;}">
+                <Coords points="1591,646 1618,648 1627,638 1638,642 1651,628 1689,637 1739,622 1765,631 1785,626 1779,576 1765,583 1745,577 1716,584 1638,559 1604,580 1582,577"/>
+                <Baseline points="1595,638 1621,634 1647,631 1673,626 1700,622 1726,619 1752,617 1779,618"/>
+                <TextEquiv>
+                    <Unicode>Simon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Splfli
+Simon</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1917,507 1917,705 2721,705 2721,507"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2354,541 2388,540 2399,552 2421,545 2434,559 2491,545 2640,552 2666,569 2689,560 2706,568 2709,541 2646,523 2615,535 2603,520 2574,516 2526,528 2507,508 2481,520 2411,492 2358,497"/>
+                <Baseline points="2360,528 2386,531 2412,532 2438,535 2465,538 2491,540 2517,543 2544,547 2570,549 2596,553 2623,555 2649,558 2675,560 2702,561"/>
+                <TextEquiv>
+                    <Unicode>söftighen Verbündung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} place {offset:13; length:5;}">
+                <Coords points="1919,541 2039,545 2078,578 2114,554 2214,556 2262,603 2324,574 2360,613 2420,582 2482,630 2662,613 2667,566 2505,544 2394,560 2280,496 2199,531 2136,470 2085,495 2054,466 1994,492 1925,477"/>
+                <Baseline points="1925,537 1961,538 1998,540 2034,542 2071,545 2108,547 2144,551 2181,554 2218,557 2254,560 2291,563 2328,567 2364,572 2401,575 2438,580 2474,583 2511,588 2548,592 2584,596 2621,601 2658,605"/>
+                <TextEquiv>
+                    <Unicode>Dendicht von Lyßag 2e. 38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} place {offset:20; length:6;}">
+                <Coords points="1910,633 2275,642 2363,672 2524,671 2642,727 2725,710 2730,650 2654,626 2603,646 2557,609 2499,635 2417,581 2364,616 2334,583 2265,607 2225,566 2134,575 2116,553 2072,580 2043,552 2001,573 1919,547"/>
+                <Baseline points="1917,615 1957,618 1997,621 2037,624 2077,627 2118,629 2158,633 2198,636 2238,641 2278,644 2319,647 2359,652 2399,656 2439,660 2479,664 2520,669 2560,674 2600,680 2640,685 2680,690 2721,695"/>
+                <TextEquiv>
+                    <Unicode>Jendich ab der Land Barben 291.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1921,660 2067,673 2091,688 2120,676 2179,687 2219,723 2325,722 2324,647 2221,653 2114,629 2041,636 2015,621 1976,649 1923,639"/>
+                <Baseline points="1926,657 1952,660 1978,661 2005,664 2031,666 2058,669 2084,671 2110,674 2137,677 2163,679 2190,681 2216,683 2242,686 2269,687 2295,690 2322,692"/>
+                <TextEquiv>
+                    <Unicode>im Sodotnit. u. Nothsucht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>söftighen Verbündung
+Dendicht von Lyßag 2e. 38.
+Jendich ab der Land Barben 291.
+im Sodotnit. u. Nothsucht.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2625,3065 2625,3597 2706,3597 2706,3065"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2662,3150 2677,3153 2685,3148 2691,3153 2696,3153 2696,3042 2684,3040 2675,3048 2662,3047"/>
+                <Baseline points="2667,3131 2691,3131"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="2652,3290 2662,3293 2672,3284 2693,3283 2693,3184 2685,3184 2677,3191 2665,3185 2659,3189 2652,3189"/>
+                <Baseline points="2658,3264 2688,3264"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="2642,3432 2649,3431 2657,3423 2666,3425 2698,3411 2682,3321 2675,3322 2672,3327 2665,3325 2660,3329 2638,3322 2624,3325"/>
+                <Baseline points="2642,3404 2690,3396"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="2619,3561 2635,3571 2662,3568 2666,3564 2671,3569 2674,3566 2678,3571 2689,3572 2704,3564 2711,3565 2719,3481 2697,3487 2686,3476 2627,3473"/>
+                <Baseline points="2625,3554 2652,3555 2679,3556 2706,3563"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

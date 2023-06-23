@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:21:57.339+02:00</Created>
+        <LastChange>2022-09-12T15:25:49.388+02:00</LastChange>
+        <TranskribusMetadata docId="1334850" pageId="52362464" pageNr="2" tsid="114644270" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=WBXZOLOQMIHCTLPHRFQVERON&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FZTPYPYDOCKDWERHSQMQYHFZ" imageId="30687496"/>
+    </Metadata>
+    <Page imageFilename="IMG_6815.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513625013" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1212,0 1212,154 1623,154 1623,0"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1198,148 1238,175 1322,111 1398,111 1440,140 1525,92 1632,118 1637,20 1471,-7 1388,9 1245,-123 1212,-111"/>
+                <Baseline points="1212,81 1237,78 1263,75 1289,73 1314,71 1340,71 1366,71 1391,71 1417,72 1443,74 1468,76 1494,80 1520,83 1545,87 1571,92 1597,97 1623,104"/>
+                <TextEquiv>
+                    <Unicode>an. 1755.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>an. 1755.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1316,3547 1316,3800 1529,3800 1529,3547"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1305,3599 1327,3609 1345,3602 1369,3622 1399,3602 1441,3622 1461,3605 1479,3615 1539,3607 1539,3541 1497,3531 1469,3543 1441,3520 1415,3520 1393,3536 1371,3524 1355,3540 1343,3530 1331,3537 1305,3529"/>
+                <Baseline points="1316,3593 1342,3594 1369,3594 1395,3595 1422,3596 1449,3594 1475,3594 1502,3593 1529,3590"/>
+                <TextEquiv>
+                    <Unicode>St. A. 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1347,3723 1363,3723 1395,3707 1403,3713 1420,3697 1454,3695 1468,3701 1478,3695 1488,3702 1502,3690 1512,3690 1509,3612 1494,3614 1481,3607 1471,3613 1459,3607 1442,3624 1408,3633 1376,3620 1344,3625"/>
+                <Baseline points="1355,3686 1384,3687 1413,3686 1443,3684 1472,3683 1502,3683"/>
+                <TextEquiv>
+                    <Unicode>612</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1346,3813 1362,3817 1396,3797 1418,3812 1438,3800 1460,3818 1508,3775 1518,3781 1539,3772 1538,3692 1500,3691 1490,3701 1476,3695 1461,3712 1437,3714 1422,3702 1395,3721 1389,3715 1345,3721"/>
+                <Baseline points="1355,3779 1384,3774 1413,3774 1442,3774 1471,3774 1500,3774 1529,3773"/>
+                <TextEquiv>
+                    <Unicode>494</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>St. A. 8.
+612
+494</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

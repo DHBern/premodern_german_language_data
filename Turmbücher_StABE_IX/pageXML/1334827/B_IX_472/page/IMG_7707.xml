@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T11:30:00.518+02:00</Created>
+        <LastChange>2022-09-12T14:37:58.699+02:00</LastChange>
+        <TranskribusMetadata docId="1334827" pageId="52360373" pageNr="13" tsid="114642134" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=ZLNMYYSPELLKUKBJMCQNICMZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EBBIHYPCSAPAQKUQSHPTMUZA" imageId="16042888"/>
+    </Metadata>
+    <Page imageFilename="IMG_7707.JPG" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513746232" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1514,461 1514,976 2573,976 2573,461"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1510,633 1651,602 1820,618 1904,569 2242,511 2400,518 2389,440 2327,431 2256,491 2205,467 2069,507 1880,457 1790,525 1629,505 1566,459 1495,520"/>
+                <Baseline points="1514,614 1560,609 1606,605 1652,599 1699,594 1745,587 1791,579 1837,572 1884,563 1930,555 1976,548 2022,541 2069,534 2115,528 2161,524 2207,519 2254,516 2300,515 2346,515 2393,518"/>
+                <TextEquiv>
+                    <Unicode>Landtag folio12.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:7;} person {offset:9; length:19;} person {offset:34; length:8;}">
+                <Coords points="1576,824 1843,766 2011,790 2089,752 2173,773 2314,745 2371,769 2580,708 2575,660 2505,640 2279,680 2092,667 1759,746 1632,702 1569,748"/>
+                <Baseline points="1580,794 1629,789 1679,783 1728,778 1778,773 1828,767 1877,762 1927,757 1977,753 2026,747 2076,744 2126,739 2175,735 2225,730 2275,725 2324,722 2374,718 2424,714 2473,710 2523,705 2573,701"/>
+                <TextEquiv>
+                    <Unicode>Keemann, Anna Mathis Küchter, des Zieglens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1760,893 1883,849 1971,853 2037,895 2106,847 2231,875 2295,825 2472,828 2469,774 2339,748 2283,789 2217,758 2105,800 2038,775 1974,814 1932,780 1755,817"/>
+                <Baseline points="1764,855 1799,852 1834,849 1869,846 1904,843 1939,841 1974,837 2009,836 2044,833 2079,830 2114,828 2149,825 2184,824 2219,822 2254,821 2289,819 2324,818 2359,816 2394,815 2429,813 2465,812"/>
+                <TextEquiv>
+                    <Unicode>allhie Fran, wegen Inzug, de. 54.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1779,998 1875,958 1990,971 2066,928 2157,976 2244,925 2289,956 2384,952 2414,918 2568,908 2562,824 2391,883 2324,844 2266,881 2143,852 2039,895 1917,875 1888,904 1832,889 1773,917"/>
+                <Baseline points="1781,954 1820,949 1859,945 1898,941 1937,938 1976,934 2015,932 2054,929 2093,926 2132,923 2171,920 2210,918 2249,915 2288,914 2327,911 2366,908 2405,905 2444,902 2483,898 2522,894 2561,891"/>
+                <TextEquiv>
+                    <Unicode>Hans, allhie. Verhör als Jenge 66</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Landtag folio12.
+Keemann, Anna Mathis Küchter, des Zieglens
+allhie Fran, wegen Inzug, de. 54.
+Hans, allhie. Verhör als Jenge 66</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

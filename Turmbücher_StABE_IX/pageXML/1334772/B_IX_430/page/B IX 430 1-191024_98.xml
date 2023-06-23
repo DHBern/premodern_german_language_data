@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=TurmbÃ¼cher Anna Witschi V2(htr_id=27066)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T21:24:01.058+02:00</Created>
+        <LastChange>2022-09-09T15:54:52.826+02:00</LastChange>
+        <TranskribusMetadata docId="1334772" pageId="52353545" pageNr="98" tsid="114635103" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=VLUPJMEKKXIBDPQWOBHPSUDX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LKLSRFIGHYFNRKRESTZYBFDJ" imageId="16091253"/>
+    </Metadata>
+    <Page imageFilename="B IX 430 1-191024_98.jpg" imageWidth="595" imageHeight="1024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687514070473" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="32,64 32,128 279,128 279,64"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="27,97 46,91 70,99 87,86 100,97 111,90 147,97 157,88 210,84 223,97 277,109 277,84 203,63 178,75 167,67 148,74 137,63 73,70 65,78 27,75"/>
+                <Baseline points="32,86 58,87 85,87 112,86 138,85 165,84 192,84 218,85 245,89 272,94"/>
+                <TextEquiv>
+                    <Unicode>uff zinstag den lensten tag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="41,124 70,130 114,112 183,112 214,132 227,124 284,132 284,104 267,103 249,89 208,84 150,92 143,86 98,96 88,85 71,97 41,95"/>
+                <Baseline points="46,113 71,110 97,107 123,105 149,104 175,105 201,106 227,109 253,112 279,118"/>
+                <TextEquiv>
+                    <Unicode>herstamonas im 1567 jar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>uff zinstag den lensten tag
+herstamonas im 1567 jar</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="524,0 524,69 534,69 534,0"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="521,27 528,23 532,22 535,18 540,17 534,-2 528,-1 526,1 524,6 522,5 518,7 515,7"/>
+                <Baseline points="524,19 534,16"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

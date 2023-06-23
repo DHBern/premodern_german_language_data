@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T12:43:11.177+02:00</Created>
+        <LastChange>2022-09-09T16:31:44.025+02:00</LastChange>
+        <TranskribusMetadata docId="1334822" pageId="52360009" pageNr="11" tsid="114641765" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=HZEBLZDDJLPRUDJFZXZIGVDF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EDFWVMJUUSOWYZFINTJPAKXE" imageId="16048917"/>
+    </Metadata>
+    <Page imageFilename="IMG_3521.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513761001" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="177,366 177,557 1194,557 1194,366"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="602,408 632,424 645,424 661,411 701,427 745,413 751,319 732,316 705,299 667,294 638,303 622,316 608,314"/>
+                <Baseline points="609,407 634,409 660,410 686,411 712,413 738,416"/>
+                <TextEquiv>
+                    <Unicode>B</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:12;} place {offset:18; length:7;}">
+                <Coords points="169,507 778,504 897,575 1049,518 1200,550 1180,471 1034,492 916,423 867,452 602,425 512,448 412,390 285,423 178,358"/>
+                <Baseline points="177,470 227,473 278,474 329,477 380,479 431,482 482,485 532,488 583,490 634,494 685,497 736,500 787,504 838,507 888,510 939,515 990,518 1041,523 1092,527 1143,533 1194,537"/>
+                <TextEquiv>
+                    <Unicode>Nigli Burger vond Seedorf 223</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>B
+Nigli Burger vond Seedorf 223</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1622,1887 1622,2589 2441,2589 2441,1887"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1887,1969 1904,1967 1927,1948 1944,1953 1971,1943 1971,1774 1949,1774 1937,1768 1925,1775 1915,1768 1887,1765"/>
+                <Baseline points="1893,1926 1929,1926 1965,1926"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2143,2113 2163,2105 2193,2116 2258,2096 2295,2105 2309,2118 2329,2114 2369,2086 2384,2085 2386,2020 2272,2013 2243,1997 2213,2001 2195,2016 2146,2007"/>
+                <Baseline points="2151,2069 2119,2069 2145,2069 2171,2069 2197,2070 2223,2071 2249,2073 2275,2075 2301,2075 2327,2075 2353,2073 2379,2070"/>
+                <TextEquiv>
+                    <Unicode>sol 59.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} person {offset:0; length:13; continued:true;}">
+                <Coords points="1619,2136 1720,2087 1787,2094 1808,2078 1839,2093 1852,2078 1929,2077 1963,2055 1989,2057 1983,1984 1958,1978 1881,2038 1792,2007 1765,2032 1709,2026 1666,2000 1609,2013"/>
+                <Baseline points="1622,2090 1647,2087 1673,2086 1699,2083 1725,2081 1750,2079 1776,2076 1802,2074 1828,2071 1854,2069 1879,2067 1905,2065 1931,2064 1957,2063 1983,2061"/>
+                <TextEquiv>
+                    <Unicode>Peter Schreck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="1635,2168 1757,2166 1775,2150 1806,2160 1919,2137 1973,2151 2028,2137 2025,2096 1878,2111 1825,2085 1769,2122 1717,2099 1658,2112 1632,2133"/>
+                <Baseline points="1640,2159 1665,2158 1690,2155 1716,2154 1741,2151 1767,2149 1792,2147 1817,2145 1843,2143 1868,2141 1894,2138 1919,2136 1944,2135 1970,2134 1995,2133 2021,2132"/>
+                <TextEquiv>
+                    <Unicode>ßeter anner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;} person {offset:0; length:15; continued:true;}">
+                <Coords points="1630,2251 1803,2238 1828,2261 1909,2235 2013,2243 2045,2228 2141,2262 2174,2244 2172,2183 1948,2210 1849,2180 1812,2194 1777,2169 1742,2194 1629,2185"/>
+                <Baseline points="1637,2240 1662,2238 1687,2237 1712,2235 1737,2235 1762,2234 1787,2234 1812,2232 1837,2232 1862,2231 1887,2231 1912,2230 1937,2228 1962,2226 2167,2225"/>
+                <TextEquiv>
+                    <Unicode>Peter Betzet177</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;} person {offset:0; length:15;}">
+                <Coords points="1632,2337 2132,2297 2205,2347 2271,2307 2270,2267 2201,2250 2040,2280 1867,2254 1773,2288 1721,2248 1630,2272"/>
+                <Baseline points="1637,2307 1668,2309 1699,2309 1731,2309 1762,2309 1794,2307 1825,2307 1856,2306 1888,2304 1919,2304 1951,2302 1982,2301 2013,2300 2045,2298 2076,2297 2108,2296 2139,2295 2170,2295 2202,2294 2233,2294 2265,2295"/>
+                <TextEquiv>
+                    <Unicode>Baulus Stettler 199</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:6;} person {offset:0; length:13;}">
+                <Coords points="1639,2387 1780,2407 1973,2402 2021,2372 2449,2384 2447,2331 2318,2357 2183,2334 2028,2361 1944,2322 1714,2361 1638,2348"/>
+                <Baseline points="1646,2393 1671,2391 1697,2391 1722,2390 1748,2389 1773,2388 1799,2388 1824,2387 1850,2387 1875,2385 1901,2385 1926,2385 1952,2385 1977,2384 2442,2369"/>
+                <TextEquiv>
+                    <Unicode>Peter Stoller 202 212</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:7;}">
+                <Coords points="1661,2500 1808,2500 1831,2478 1953,2499 2061,2473 2102,2498 2203,2481 2296,2507 2368,2490 2368,2406 2343,2391 2289,2439 2163,2466 1970,2430 1916,2444 1852,2412 1661,2464"/>
+                <Baseline points="1667,2484 1692,2484 1718,2484 1744,2484 1769,2484 1795,2483 1821,2483 1847,2481 1872,2481 1898,2481 1924,2481 1949,2481 1975,2481 2001,2482 2362,2479"/>
+                <TextEquiv>
+                    <Unicode>aterre Janum 236.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:8;} person {offset:0; length:12;}">
+                <Coords points="1667,2600 1703,2612 1784,2573 1878,2621 1924,2598 1971,2614 2065,2560 2301,2576 2292,2523 2070,2543 1962,2506 1914,2528 1839,2480 1783,2517 1667,2495"/>
+                <Baseline points="1674,2565 1699,2564 1725,2562 1750,2561 1776,2560 1801,2559 1827,2558 1852,2556 1878,2555 1903,2554 1929,2553 2295,2561"/>
+                <TextEquiv>
+                    <Unicode>Ceter Schoni 235</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8
+sol 59.
+Peter Schreck
+ßeter anner
+Peter Betzet177
+Baulus Stettler 199
+Peter Stoller 202 212
+aterre Janum 236.
+Ceter Schoni 235</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

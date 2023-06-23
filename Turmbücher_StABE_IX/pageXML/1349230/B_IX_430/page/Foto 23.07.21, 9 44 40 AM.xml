@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-08-09T22:34:20.786+02:00</Created>
+        <LastChange>2023-02-28T11:05:02.950+01:00</LastChange>
+        <TranskribusMetadata docId="1349230" pageId="52966557" pageNr="53" tsid="115951073" status="IN_PROGRESS" userId="141590" imgUrl="https://files.transkribus.eu/Get?id=CORFTDGHFQQXTYQZKWAPGINM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZVCMPTUVFJNVZKDGOIQTAFTH" imageId="22030281"/>
+    </Metadata>
+    <Page imageFilename="Foto 23.07.21, 9 44 40 AM.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513515406" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1000,271 998,470 1754,474 1756,275"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1036,368 1126,379 1176,343 1221,373 1312,363 1365,391 1415,358 1537,358 1693,402 1695,352 1634,353 1515,298 1483,322 1433,296 1369,324 1318,283 1275,309 1249,292 1191,313 1040,300"/>
+                <Baseline points="1047,347 1078,348 1110,348 1142,348 1174,348 1206,348 1237,347 1269,347 1301,347 1333,347 1365,348 1396,349 1428,350 1460,352 1492,355 1524,359 1555,363 1587,369 1619,376 1651,383 1683,392"/>
+                <TextEquiv>
+                    <Unicode>vff Zinstag den letzsten teg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1039,451 1194,465 1323,412 1395,442 1493,420 1699,498 1706,377 1636,394 1539,358 1432,356 1241,380 1178,344 1119,381 1044,370"/>
+                <Baseline points="1052,411 1085,408 1119,407 1152,405 1186,404 1220,404 1253,402 1287,402 1321,403 1354,404 1388,405 1421,408 1455,410 1489,414 1522,418 1556,424 1590,431 1623,438 1657,447 1691,456"/>
+                <TextEquiv>
+                    <Unicode>herpstmonats im 1567 ju</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vff Zinstag den letzsten teg
+herpstmonats im 1567 ju</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

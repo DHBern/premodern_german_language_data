@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_11:04
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_11:04
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6</Creator>
+        <Created>2020-10-10T09:26:35.522+02:00</Created>
+        <LastChange>2022-09-09T15:23:05.774+02:00</LastChange>
+        <TranskribusMetadata docId="1334826" pageId="52360336" pageNr="14" tsid="114642096" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=VJYYKYAGSISREVGSZMGVXRPN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LVHDULPSYBIYOROFUQOEMQPL" imageId="16417147"/>
+    </Metadata>
+    <Page imageFilename="471_07.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513750716" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1806,363 1806,685 2969,685 2969,363"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:13;}">
+                <Coords points="1802,626 2023,629 2172,541 2355,559 2402,509 2659,464 2744,497 2976,413 2969,372 2790,359 2558,442 2312,427 2070,506 1775,466"/>
+                <Baseline points="1806,605 1864,595 1922,586 1980,575 2038,565 2096,554 2154,545 2213,534 2271,524 2329,514 2387,504 2445,494 2503,484 2561,474 2620,464 2678,455 2736,445 2794,437 2852,427 2910,418 2969,410"/>
+                <TextEquiv>
+                    <Unicode>Fürstenberger, darbel, die Hebamme, als Urstacherm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2031,698 2114,653 2174,681 2202,658 2284,674 2315,646 2387,657 2463,623 2527,628 2654,565 2725,567 2710,476 2610,480 2580,519 2525,508 2480,540 2416,522 2349,566 2192,553 2021,638"/>
+                <Baseline points="2033,662 2067,656 2101,650 2135,644 2169,639 2203,633 2237,627 2271,621 2305,615 2339,610 2373,605 2407,599 2441,593 2475,589 2509,583 2543,577 2577,571 2611,566 2645,560 2679,554 2714,548"/>
+                <TextEquiv>
+                    <Unicode>hrdtheschenlichen het de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fürstenberger, darbel, die Hebamme, als Urstacherm
+hrdtheschenlichen het de</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-04-27T18:46:24.967+02:00</Created>
+        <LastChange>2023-06-19T09:56:40.119+02:00</LastChange>
+        <TranskribusMetadata docId="1334845" pageId="52362106" pageNr="15" tsid="127236882" status="IN_PROGRESS" userId="68497" imgUrl="https://files.transkribus.eu/Get?id=THDMKDYORALXUSKKOKCUMMWO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PFCQIAGVKPDHSBKIRYVPUYPO" imageId="19734358"/>
+    </Metadata>
+    <Page imageFilename="IMG_5016.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513656021" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r2" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="450,1117 450,1506 1734,1506 1734,1117"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="493,1221 544,1240 652,1157 728,1227 820,1156 1023,1211 1431,1187 1727,1243 1745,1157 1487,1108 1407,1150 1298,1082 1228,1117 1074,1056 920,1124 618,1054 498,1118"/>
+                <Baseline points="504,1162 565,1160 627,1160 688,1158 750,1158 811,1158 873,1158 934,1160 996,1161 1057,1162 1119,1165 1180,1168 1242,1172 1303,1176 1365,1182 1426,1187 1488,1192 1549,1199 1611,1206 1672,1214 1734,1224"/>
+                <TextEquiv>
+                    <Unicode>esonderliche anstalt zu verfürgen, daß der solbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="489,1275 739,1313 872,1262 1088,1302 1260,1262 1393,1325 1472,1275 1727,1308 1729,1237 1619,1268 1405,1193 1318,1225 1160,1177 901,1236 774,1191 716,1229 617,1173 540,1246 490,1234"/>
+                <Baseline points="496,1270 557,1268 618,1264 679,1262 740,1262 802,1260 863,1260 924,1258 985,1260 1046,1260 1108,1260 1169,1262 1230,1264 1291,1266 1352,1268 1414,1273 1475,1276 1536,1281 1597,1286 1658,1291 1720,1296"/>
+                <TextEquiv>
+                    <Unicode>auf zuführen in das schellenwerdk geschmadet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="472,1386 700,1373 793,1439 992,1361 1272,1413 1383,1370 1426,1404 1491,1367 1675,1395 1675,1326 1574,1332 1472,1275 1331,1336 1206,1272 1160,1309 572,1276 472,1315"/>
+                <Baseline points="480,1372 539,1370 598,1369 658,1368 717,1366 777,1366 836,1364 895,1364 955,1364 1014,1364 1074,1364 1133,1364 1192,1364 1252,1364 1311,1366 1371,1366 1430,1368 1489,1369 1549,1372 1608,1373 1668,1376"/>
+                <TextEquiv>
+                    <Unicode>und Wolverbahrt zus Arkeit Angehalten werde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="443,1498 553,1477 627,1515 703,1478 759,1493 794,1468 882,1462 875,1371 800,1434 698,1375 647,1370 570,1394 529,1386 439,1447"/>
+                <Baseline points="450,1484 476,1484 503,1482 529,1480 556,1478 582,1477 609,1474 635,1474 662,1472 688,1470 715,1469 741,1466 768,1464 794,1460 821,1458 847,1455 874,1452"/>
+                <TextEquiv>
+                    <Unicode>Ot de Osiat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>esonderliche anstalt zu verfürgen, daß der solbe
+auf zuführen in das schellenwerdk geschmadet
+und Wolverbahrt zus Arkeit Angehalten werde
+Ot de Osiat</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:42:02.231+02:00</Created>
+        <LastChange>2022-09-12T15:35:29.937+02:00</LastChange>
+        <TranskribusMetadata docId="1334851" pageId="52363623" pageNr="193" tsid="114645656" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=PAGWKICQREUMFENMISXYOSND&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RKJUQYUDTNISBPDLAMWWJAVD" imageId="30691778"/>
+    </Metadata>
+    <Page imageFilename="IMG_7196.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513624466" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2645,2725 2645,2878 2696,2878 2696,2725"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2636,2842 2650,2841 2659,2844 2666,2838 2672,2837 2681,2843 2688,2838 2706,2839 2704,2795 2688,2796 2675,2785 2633,2788"/>
+                <Baseline points="2645,2828 2670,2828 2696,2825"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2640,3192 2640,3596 2718,3596 2718,3192"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2660,3284 2674,3284 2680,3278 2716,3280 2716,3186 2700,3184 2676,3192 2660,3192"/>
+                <Baseline points="2669,3264 2706,3264"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2638,3422 2650,3424 2654,3419 2660,3421 2664,3417 2670,3422 2676,3422 2688,3413 2694,3415 2706,3412 2702,3360 2690,3361 2670,3384 2661,3381 2644,3366 2634,3366"/>
+                <Baseline points="2646,3405 2694,3402"/>
+                <TextEquiv>
+                    <Unicode>W</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2628,3562 2638,3563 2653,3575 2660,3569 2672,3570 2675,3575 2686,3570 2695,3577 2715,3562 2728,3564 2736,3484 2718,3482 2707,3471 2699,3473 2687,3463 2671,3464 2662,3453 2656,3459 2638,3455"/>
+                <Baseline points="2640,3551 2666,3557 2692,3557 2718,3560"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+W
+2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

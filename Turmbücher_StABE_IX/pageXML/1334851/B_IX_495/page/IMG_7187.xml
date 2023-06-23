@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:42:02.080+02:00</Created>
+        <LastChange>2022-09-12T15:35:23.721+02:00</LastChange>
+        <TranskribusMetadata docId="1334851" pageId="52363578" pageNr="184" tsid="114645601" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=EPARTTGDBIVOAVIPDLWGRNBX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MZMYGVRHKRSKSSLEWNRTPXRR" imageId="30691767"/>
+    </Metadata>
+    <Page imageFilename="IMG_7187.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513624240" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1652,519 1652,686 2732,686 2732,519"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} place {offset:0; length:9;} person {offset:16; length:17;}">
+                <Coords points="1644,631 1940,554 2738,639 2741,542 2472,555 2306,496 2209,538 2081,471 1981,518 1920,474 1855,517 1648,530"/>
+                <Baseline points="1652,603 1706,587 1760,575 1814,564 1868,558 1922,553 1976,550 2030,549 2084,551 2138,554 2192,557 2246,562 2300,567 2354,573 2408,579 2462,587 2516,592 2570,599 2624,605 2678,609 2732,612"/>
+                <TextEquiv>
+                    <Unicode>Allenberg Herrn Hierommus Comerci Roht Se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1869,633 2005,652 2096,620 2281,666 2440,649 2591,714 2658,698 2663,631 2584,617 2519,644 2437,586 2327,598 2279,568 2177,586 2108,564 1968,582 1927,556 1873,580"/>
+                <Baseline points="1877,618 1915,618 1954,618 1993,618 2032,620 2071,621 2110,623 2148,624 2187,627 2226,630 2265,633 2304,635 2343,639 2382,642 2420,645 2459,650 2498,654 2537,658 2576,662 2615,666 2654,671"/>
+                <TextEquiv>
+                    <Unicode>Fegl. 167. ols zuellant bir erstochen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Allenberg Herrn Hierommus Comerci Roht Se
+Fegl. 167. ols zuellant bir erstochen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

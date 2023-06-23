@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_11:04
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_11:04
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6</Creator>
+        <Created>2020-10-10T09:26:36.169+02:00</Created>
+        <LastChange>2022-09-09T15:23:25.886+02:00</LastChange>
+        <TranskribusMetadata docId="1334826" pageId="52360434" pageNr="30" tsid="114642197" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=QGZYTTMHREEFUWIXOLVUGPPG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WRMKTNAYYSVTZQBJGSNELUIR" imageId="16417163"/>
+    </Metadata>
+    <Page imageFilename="471_015.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513751311" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1761,379 1761,883 2873,883 2873,379"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:11;}">
+                <Coords points="1767,680 1883,601 2086,550 2330,506 2400,541 2444,489 2507,509 2862,423 2856,389 2749,368 2552,396 2498,450 2407,406 2259,467 2043,464 1742,538"/>
+                <Baseline points="1764,623 1818,607 1873,594 1927,581 1982,568 2036,556 2091,545 2145,534 2200,524 2254,515 2309,506 2364,495 2418,487 2473,478 2527,469 2582,462 2636,454 2691,446 2745,438 2800,430 2855,422"/>
+                <TextEquiv>
+                    <Unicode>Josor Matte aus dem sundgen, bied als eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1997,677 2298,649 2424,584 2540,615 2663,546 2807,530 2790,449 2675,514 2605,481 2474,535 2433,510 2399,542 2293,512 2249,554 2176,539 1985,597"/>
+                <Baseline points="2001,656 2040,646 2080,636 2120,628 2160,620 2200,612 2240,605 2279,599 2319,593 2359,587 2399,581 2439,577 2479,571 2519,565 2558,561 2598,555 2638,549 2678,544 2718,537 2758,532 2798,524"/>
+                <TextEquiv>
+                    <Unicode>verdächtige Proston verbiesten. 20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:8;} person {offset:10; length:3;} place {offset:17; length:8;}">
+                <Coords points="1760,859 2032,759 2220,782 2281,719 2447,757 2553,683 2641,717 2704,669 2882,656 2870,576 2651,617 2580,580 2517,651 2313,634 2274,673 2049,665 1920,741 1808,700 1742,739"/>
+                <Baseline points="1761,818 1816,802 1872,789 1927,775 1983,765 2039,753 2094,745 2150,735 2205,727 2261,719 2317,712 2372,705 2428,698 2483,691 2539,685 2595,678 2650,671 2706,663 2761,656 2817,647 2873,638"/>
+                <TextEquiv>
+                    <Unicode>Nchannen, Uli u. Cappalen, wegen Trohworten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2006,895 2021,891 2040,893 2064,860 2073,862 2088,857 2068,766 2059,768 2050,780 2045,778 2034,784 2012,816 2004,813 2002,817 1989,816"/>
+                <Baseline points="2006,860 2042,857 2078,845"/>
+                <TextEquiv>
+                    <Unicode>17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Josor Matte aus dem sundgen, bied als eine
+verdächtige Proston verbiesten. 20
+Nchannen, Uli u. Cappalen, wegen Trohworten.
+17</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

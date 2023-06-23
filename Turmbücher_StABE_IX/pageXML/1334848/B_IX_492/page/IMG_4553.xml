@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=TurmbÃ¼cher 1(htr_id=38546)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-29T17:15:31.223+01:00</Created>
+        <LastChange>2022-09-09T14:41:44.925+02:00</LastChange>
+        <TranskribusMetadata docId="1334848" pageId="52362407" pageNr="1" tsid="114644212" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=NUMCTYVFXLPHDURUIUWXNQGV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NHMHCKDPMTXVRANLIDYJUMOM" imageId="17819416"/>
+    </Metadata>
+    <Page imageFilename="IMG_4553.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513641136" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1290,3465 1290,3771 1512,3771 1512,3465"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1279,3532 1459,3523 1520,3557 1525,3383 1497,3382 1420,3436 1398,3433 1365,3454 1305,3449 1282,3436"/>
+                <Baseline points="1290,3518 1317,3516 1345,3515 1373,3515 1401,3516 1428,3516 1456,3519 1484,3521 1512,3524"/>
+                <TextEquiv>
+                    <Unicode>St. A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1324,3637 1367,3638 1398,3620 1428,3635 1440,3627 1454,3635 1462,3628 1476,3634 1486,3626 1508,3634 1507,3544 1489,3550 1451,3537 1405,3546 1363,3538 1351,3551 1323,3539"/>
+                <Baseline points="1335,3621 1362,3620 1389,3620 1417,3620 1444,3620 1471,3618 1499,3617"/>
+                <TextEquiv>
+                    <Unicode>BX</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1326,3750 1356,3748 1374,3756 1402,3746 1418,3755 1440,3747 1452,3755 1474,3747 1492,3763 1522,3770 1523,3642 1499,3639 1453,3663 1421,3653 1395,3666 1367,3658 1345,3676 1327,3678"/>
+                <Baseline points="1335,3741 1360,3740 1385,3739 1410,3738 1436,3738 1461,3740 1486,3741 1512,3743"/>
+                <TextEquiv>
+                    <Unicode>4d2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>St. A.
+BX
+4d2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

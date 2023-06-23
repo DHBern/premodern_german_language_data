@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T11:31:01.526+02:00</Created>
+        <LastChange>2022-09-09T16:45:31.041+02:00</LastChange>
+        <TranskribusMetadata docId="1334780" pageId="52354296" pageNr="1" tsid="114635874" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=NDVYXCDFJITYEEAGTGNWHCYK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AWSCMBPEQHGTPYIXKHSIAYBM" imageId="16042674"/>
+    </Metadata>
+    <Page imageFilename="IMG_8214.JPG" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513985048" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1952,508 1952,734 2529,734 2529,508"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1939,631 1994,642 2104,574 2191,562 2494,621 2497,485 2422,478 2377,505 2309,506 2235,462 2202,483 2125,481 2104,462 2080,477 1943,451"/>
+                <Baseline points="1952,555 1978,555 2005,555 2031,557 2058,557 2084,557 2111,557 2137,557 2164,557 2190,557 2217,557 2244,558 2270,558 2297,558 2323,560 2350,561 2376,563 2403,563 2429,566 2456,569 2483,572"/>
+                <TextEquiv>
+                    <Unicode>1573. Octob. 9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2166,645 2182,646 2204,630 2213,626 2230,626 2234,622 2250,634 2267,634 2268,592 2249,592 2245,587 2224,591 2199,564 2180,550 2169,549"/>
+                <Baseline points="2178,623 2204,623 2230,623 2256,626"/>
+                <TextEquiv>
+                    <Unicode>bid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1944,703 1972,696 2111,777 2212,781 2340,709 2433,751 2524,753 2540,749 2543,641 2396,603 2285,652 2189,640 2162,616 2107,641 2030,620 1945,647"/>
+                <Baseline points="1956,699 1984,701 2013,701 2041,702 2070,702 2099,703 2127,704 2156,704 2185,704 2213,705 2242,705 2271,707 2299,707 2328,708 2357,708 2385,709 2414,710 2443,711 2471,711 2500,713 2529,714"/>
+                <TextEquiv>
+                    <Unicode>1574 August. 12.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1573. Octob. 9
+bid
+1574 August. 12.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

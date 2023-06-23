@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T16:14:04.038+02:00</Created>
+        <LastChange>2023-05-09T22:59:37.121+02:00</LastChange>
+        <TranskribusMetadata docId="1336519" pageId="52421702" pageNr="173" tsid="121359697" status="IN_PROGRESS" userId="68497" imgUrl="https://files.transkribus.eu/Get?id=BVSUIIVXYWCADRPRNIKZZQUO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QFLXKWHUEEONMRKCFSSDWVIG" imageId="30695311"/>
+    </Metadata>
+    <Page imageFilename="IMG_7375.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513563152" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1674121105409_1452"/>
+                <RegionRefIndexed index="1" regionRef="region_1674121117783_1459"/>
+                <RegionRefIndexed index="2" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1674121105409_1452" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2198,800 1999,800 1999,634 2198,634"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2050,771 2079,764 2086,768 2099,753 2115,746 2122,750 2133,740 2139,744 2159,731 2173,736 2167,673 2152,669 2140,680 2115,675 2093,691 2072,681 2052,693 2043,692"/>
+                <Baseline points="2054,743 2081,738 2109,737 2137,735 2165,731"/>
+                <TextEquiv>
+                    <Unicode>199</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>199</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1674121117783_1459" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="2958,889 2293,889 2293,647 2958,647"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} person {offset:0; length:11;}">
+                <Coords points="2394,842 2505,804 2539,826 2566,809 2681,808 2723,838 2806,814 2917,840 2931,777 2790,724 2671,750 2623,735 2572,772 2527,748 2397,768"/>
+                <Baseline points="2402,806 2428,803 2454,803 2480,803 2506,803 2532,803 2558,804 2584,805 2610,807 2636,809 2662,810 2688,812 2714,814 2740,816 2766,818 2792,819 2818,820 2844,821 2870,821 2896,821 2922,821"/>
+                <TextEquiv>
+                    <Unicode>Janns Stoll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} place {offset:4; length:6;}">
+                <Coords points="2446,892 2486,881 2504,890 2548,868 2607,908 2656,893 2769,920 2772,831 2723,837 2680,808 2568,812 2539,826 2506,804 2449,814"/>
+                <Baseline points="2454,866 2479,867 2505,867 2531,867 2557,869 2582,869 2608,870 2634,870 2660,872 2685,873 2711,875 2737,877 2763,881"/>
+                <TextEquiv>
+                    <Unicode>Von Scherl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Janns Stoll&#13;
+Von Scherl</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1974,905 1957,2126 3257,2122 3274,901"/>
+            <TextLine id="r1l4" custom="readingOrder {index:0;} person {offset:10; length:27; continued:true;}">
+                <Coords points="2159,974 2554,1011 2873,993 3141,1046 3264,1018 3266,966 3157,933 2992,970 2804,930 2690,953 2589,907 2500,954 2417,908 2330,937 2162,880"/>
+                <Baseline points="2166,966 2220,969 2275,971 2329,974 2384,977 2438,978 2493,980 2547,983 2602,984 2656,986 2711,987 2766,989 2820,991 2875,993 2929,995 2984,996 3038,999 3093,1001 3147,1002 3202,1005 3257,1008"/>
+                <TextEquiv>
+                    <Unicode>Nach deme Hanns Stoll von Scherliver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:1;} person {offset:0; length:8; continued:true;}">
+                <Coords points="2171,1020 2244,1051 2701,1042 3252,1095 3254,1038 3202,1012 3130,1042 3037,1006 2879,1031 2478,980 2173,994"/>
+                <Baseline points="2178,1017 2231,1022 2284,1026 2338,1029 2391,1031 2445,1034 2498,1037 2551,1039 2605,1041 2658,1043 2712,1046 2765,1047 2818,1049 2872,1051 2925,1053 2979,1055 3032,1058 3085,1061 3139,1062 3192,1067 3246,1070"/>
+                <TextEquiv>
+                    <Unicode>wichenen 20ten Decembris Wegen eines Verdächtigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="2164,1096 2547,1088 2836,1144 3177,1119 3060,1063 2657,1073 2328,1031 2249,1057 2167,1027"/>
+                <Baseline points="2172,1082 2224,1082 2277,1083 2329,1083 2382,1086 2434,1086 2487,1089 2540,1092 2592,1094 2645,1097 2697,1100 2750,1102 2802,1104 2855,1107 2908,1109 2960,1110 3013,1112 3065,1112 3118,1112 3171,1112"/>
+                <TextEquiv>
+                    <Unicode>Brandt Brieffs in die Oberkeitliche Gefangen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="2160,1176 2383,1180 2445,1138 2658,1187 2753,1161 3093,1196 3228,1178 3229,1138 2162,1095"/>
+                <Baseline points="2168,1148 2220,1146 2273,1146 2325,1146 2378,1148 2431,1149 2483,1149 2536,1152 2589,1154 2641,1156 2694,1158 2747,1161 2799,1164 2852,1166 2905,1169 2957,1170 3010,1173 3063,1175 3115,1176 3168,1176 3221,1178"/>
+                <TextEquiv>
+                    <Unicode>schafft gesetzt. Ist selbiger darauff den 26. Dito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="2149,1216 2287,1248 2330,1215 2402,1249 2728,1212 3031,1250 3238,1246 3239,1201 2725,1160 2624,1196 2327,1161 2149,1196"/>
+                <Baseline points="2156,1214 2209,1214 2263,1214 2317,1214 2371,1214 2424,1214 2478,1215 2532,1215 2586,1217 2639,1218 2693,1219 2747,1221 2801,1223 2854,1224 2908,1226 2962,1227 3016,1229 3069,1230 3123,1232 3177,1233 3231,1235"/>
+                <TextEquiv>
+                    <Unicode>durch Ihr Gnl. dienere M. Ahl. Großweibel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="2158,1280 3225,1314 3226,1246 3162,1239 2900,1260 2726,1213 2400,1250 2330,1215 2232,1248 2159,1216"/>
+                <Baseline points="2165,1275 2217,1274 2270,1274 2323,1274 2375,1274 2428,1274 2481,1274 2533,1274 2586,1275 2639,1276 2692,1277 2744,1278 2797,1280 2850,1281 2902,1283 2955,1285 3008,1287 3060,1289 3113,1291 3166,1294 3219,1296"/>
+                <TextEquiv>
+                    <Unicode>enhoost vnd den Grichtschreiber beyseyn Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;} person {offset:0; length:25;} organization {offset:30; length:13;}">
+                <Coords points="2138,1364 2344,1337 2520,1379 2735,1336 3219,1379 3220,1325 2139,1294"/>
+                <Baseline points="2145,1335 2198,1335 2251,1334 2305,1334 2358,1334 2411,1335 2465,1335 2518,1335 2571,1337 2625,1338 2678,1338 2731,1340 2785,1341 2838,1343 2891,1345 2945,1347 2998,1349 3051,1351 3105,1353 3158,1356 3212,1358"/>
+                <TextEquiv>
+                    <Unicode>Johann Rudolps Tscharners des großen Rahtsc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="2150,1403 3219,1431 3200,1371 2876,1352 2823,1382 2682,1339 2522,1380 2387,1344 2151,1361"/>
+                <Baseline points="2157,1392 2209,1392 2262,1392 2315,1394 2368,1394 2420,1395 2473,1396 2526,1397 2579,1398 2631,1400 2684,1401 2737,1401 2790,1403 2842,1404 2895,1405 2948,1406 3001,1407 3053,1407 3106,1407 3159,1407 3212,1407"/>
+                <TextEquiv>
+                    <Unicode>darüber Examiniert und von Ihmeolgende be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="2150,1451 2346,1453 2448,1496 2528,1460 2583,1483 2664,1457 2741,1481 2770,1472 2771,1427 2711,1405 2608,1429 2557,1404 2442,1424 2328,1394 2305,1414 2276,1396 2151,1403"/>
+                <Baseline points="2157,1445 2187,1445 2217,1445 2247,1446 2278,1446 2308,1448 2338,1448 2369,1449 2399,1451 2429,1452 2460,1452 2490,1454 2520,1455 2550,1455 2581,1455 2611,1457 2641,1456 2672,1455 2702,1455 2732,1454 2763,1452"/>
+                <TextEquiv>
+                    <Unicode>kandtnuß erhalten worden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683665970336_2456" custom="readingOrder {index:9;}">
+                <Coords points="1995,1494 2061,1455 2129,1445 3038,1480 3115,1494 3115,1540 2906,1569 2017,1570 1998,1568"/>
+                <Baseline points="2004,1536 2031,1536 2059,1536 2087,1535 2114,1533 2142,1532 2170,1530 2198,1532 2241,1529 2284,1530 2327,1532 2371,1533 2414,1533 2457,1534 2501,1535 2544,1535 2587,1535 2631,1535 2674,1535 2717,1535 2761,1535 2804,1535 2847,1533 2891,1533 2934,1533 2977,1533 3021,1533 3064,1535 3108,1535"/>
+                <TextEquiv>
+                    <Unicode>Befragis Wie Er heiße, und von wannen Er seye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683665973842_2460" custom="readingOrder {index:10;}">
+                <Coords points="2007,1571 2025,1565 2110,1559 2994,1551 3226,1600 3225,1669 2901,1667 2640,1663 2193,1645 2009,1631"/>
+                <Baseline points="2016,1617 2044,1614 2072,1612 2100,1611 2128,1610 2156,1610 2184,1611 2241,1613 2289,1611 2338,1610 2387,1610 2436,1610 2485,1610 2534,1611 2583,1611 2632,1613 2681,1614 2730,1616 2778,1617 2827,1619 2876,1620 2925,1622 2974,1623 3023,1625 3072,1625 3121,1626 3170,1626 3219,1626"/>
+                <TextEquiv>
+                    <Unicode>Antwort Hannß Stoll, vnn seye zu Scherli daheimb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:11;} person {offset:28; length:9;}">
+                <Coords points="2140,1735 2413,1737 2456,1702 2593,1741 2623,1713 2682,1742 3185,1727 3172,1662 3086,1692 2798,1642 2473,1683 2140,1659"/>
+                <Baseline points="2147,1712 2198,1710 2250,1708 2301,1707 2353,1706 2405,1706 2456,1706 2508,1706 2559,1706 2611,1706 2663,1707 2714,1707 2766,1709 2817,1709 2869,1709 2921,1710 2972,1710 3024,1710 3075,1710 3127,1710 3179,1709"/>
+                <TextEquiv>
+                    <Unicode>Warumb Er letstlich dem Ihr Tscharner als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:12;}">
+                <Coords points="2122,1788 2599,1764 2689,1811 2810,1786 2864,1813 2995,1775 3174,1786 3174,1740 3121,1721 2122,1732"/>
+                <Baseline points="2129,1779 2180,1773 2232,1770 2284,1766 2336,1764 2388,1763 2440,1761 2492,1761 2544,1763 2596,1763 2648,1764 2699,1766 2751,1767 2803,1767 2855,1769 2907,1769 2959,1770 3011,1769 3063,1768 3115,1766 3167,1763"/>
+                <TextEquiv>
+                    <Unicode>Er Ihne umb seinen Namen befragdt, vorgeben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:13;} person {offset:9; length:13;}">
+                <Coords points="2120,1864 2194,1851 2278,1874 2424,1834 2502,1869 2590,1839 2630,1850 2695,1827 2695,1808 2629,1775 2530,1797 2504,1779 2448,1809 2362,1765 2236,1803 2119,1785"/>
+                <Baseline points="2126,1829 2154,1830 2182,1830 2210,1830 2238,1830 2266,1830 2294,1829 2322,1829 2350,1829 2378,1829 2407,1829 2435,1827 2463,1827 2491,1827 2519,1827 2547,1826 2575,1826 2603,1826 2631,1826 2659,1826 2688,1826"/>
+                <TextEquiv>
+                    <Unicode>Er heiße Hannst Müller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:14;}">
+                <Coords points="2142,1930 2240,1957 2364,1933 2397,1964 2446,1929 2540,1955 2617,1923 3146,1960 3166,1904 3088,1876 2850,1912 2549,1853 2281,1871 2226,1908 2142,1877"/>
+                <Baseline points="2148,1931 2198,1929 2249,1929 2299,1928 2350,1928 2400,1928 2451,1928 2501,1928 2552,1929 2602,1929 2653,1929 2704,1931 2754,1931 2805,1932 2855,1932 2906,1934 2956,1934 3007,1934 3057,1934 3108,1934 3159,1934"/>
+                <TextEquiv>
+                    <Unicode>der Gunge Junckherr N: habe Ihme befohlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:15;}">
+                <Coords points="2122,2008 3168,1997 3168,1957 3062,1935 2802,1968 2718,1933 2123,1956"/>
+                <Baseline points="2129,1991 2180,1989 2232,1988 2283,1986 2335,1985 2387,1985 2438,1983 2490,1983 2541,1983 2593,1983 2645,1983 2696,1983 2748,1983 2799,1984 2851,1985 2903,1985 2954,1986 3006,1987 3057,1988 3109,1989 3161,1991"/>
+                <TextEquiv>
+                    <Unicode>Er solle seinen Namen also angeben, damit wein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:16;}">
+                <Coords points="2107,2094 2507,2058 2652,2089 2774,2042 3172,2073 3171,1994 2438,2026 2106,1995"/>
+                <Baseline points="2114,2051 2166,2049 2219,2048 2271,2047 2324,2046 2376,2045 2429,2045 2481,2043 2534,2042 2586,2042 2639,2042 2691,2040 2744,2040 2796,2040 2849,2040 2901,2040 2954,2040 3006,2040 3059,2040 3111,2040 3164,2042"/>
+                <TextEquiv>
+                    <Unicode>Er schreibe, sie ein anderen desto beßer kennen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:17;}">
+                <Coords points="2989,2102 3004,2105 3020,2121 3064,2116 3083,2134 3096,2130 3108,2137 3147,2115 3168,2116 3167,2079 3049,2080 3031,2067 3008,2079 2991,2074"/>
+                <Baseline points="2996,2100 3023,2098 3051,2097 3079,2098 3106,2100 3134,2104 3162,2108"/>
+                <TextEquiv>
+                    <Unicode>mögeg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nach deme Hanns Stoll von Scherliver¬&#13;
+wichenen 20ten Decembris Wegen eines Verdächtigen&#13;
+Brandt Brieffs in die Oberkeitliche Gefangen&#13;
+schafft gesetzt. Ist selbiger darauff den 26. Dito&#13;
+durch Ihr Gnl. dienere M. Ahl. Großweibel&#13;
+enhoost vnd den Grichtschreiber beyseyn Ihr&#13;
+Johann Rudolps Tscharners des großen Rahtsc.&#13;
+darüber Examiniert und von Ihmeolgende be¬&#13;
+kandtnuß erhalten worden&#13;
+Befragis Wie Er heiße, und von wannen Er seye&#13;
+Antwort Hannß Stoll, vnn seye zu Scherli daheimb&#13;
+Warumb Er letstlich dem Ihr Tscharner als&#13;
+Er Ihne umb seinen Namen befragdt, vorgeben&#13;
+Er heiße Hannst Müller&#13;
+der Gunge Junckherr N: habe Ihme befohlen&#13;
+Er solle seinen Namen also angeben, damit wein&#13;
+Er schreibe, sie ein anderen desto beßer kennen&#13;
+mögeg</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

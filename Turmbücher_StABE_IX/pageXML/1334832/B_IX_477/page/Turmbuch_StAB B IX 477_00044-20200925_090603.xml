@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T14:13:24.381+02:00</Created>
+        <LastChange>2022-09-09T16:21:58.789+02:00</LastChange>
+        <TranskribusMetadata docId="1334832" pageId="52361168" pageNr="44" tsid="114642946" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=QKILOHOMZNVASAKSSUYATVDM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UIAAUUPEUHTYOFGGAYIFAVZP" imageId="16059805"/>
+    </Metadata>
+    <Page imageFilename="Turmbuch_StAB B IX 477_00044-20200925_090603.jpg" imageWidth="5472" imageHeight="7296">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513719301" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="3062,2322 3062,2476 3102,2476 3102,2322"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="3054,2446 3069,2444 3075,2450 3086,2449 3087,2446 3104,2451 3115,2450 3102,2327 3088,2328 3077,2342 3069,2343 3060,2338 3044,2341"/>
+                <Baseline points="3062,2426 3102,2422"/>
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="3092,1514 3092,6335 4794,6335 4794,1514"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="4544,1618 4560,1617 4571,1607 4576,1611 4579,1606 4600,1605 4611,1593 4631,1606 4644,1593 4655,1598 4675,1590 4656,1475 4640,1481 4615,1517 4598,1513 4580,1518 4562,1536 4531,1537"/>
+                <Baseline points="4550,1586 4578,1583 4606,1578 4634,1572 4662,1570"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} person {offset:0; length:10;}">
+                <Coords points="3258,1818 3358,1841 3669,1795 3975,1853 4203,1816 4292,1852 4384,1832 4386,1655 4256,1703 4143,1624 3988,1717 3857,1646 3627,1710 3427,1671 3258,1760"/>
+                <Baseline points="3268,1806 3323,1802 3378,1798 3433,1797 3489,1796 3544,1796 3599,1796 3655,1797 3710,1798 3765,1800 3821,1802 3876,1803 3931,1804 3986,1806 4042,1808 4097,1808 4152,1808 4208,1807 4263,1805 4318,1803 4374,1800"/>
+                <TextEquiv>
+                    <Unicode>Acta Flach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} place {offset:4; length:7;}">
+                <Coords points="3428,1904 3547,1938 3576,1921 3635,1944 3689,1926 3732,1949 3820,1939 3882,1979 3944,1934 3991,1961 4100,1962 4100,1877 4031,1848 3897,1870 3788,1801 3700,1803 3646,1848 3591,1843 3546,1806 3498,1836 3428,1813"/>
+                <Baseline points="3438,1928 3470,1925 3503,1922 3535,1919 3568,1918 3601,1916 3633,1916 3666,1916 3698,1916 3731,1918 3764,1918 3796,1919 3829,1920 3861,1921 3894,1922 3927,1923 3959,1924 3992,1924 4024,1924 4057,1924 4090,1924"/>
+                <TextEquiv>
+                    <Unicode>von Hünigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;} person {offset:11; length:13;}">
+                <Coords points="3082,2190 3413,2183 3531,2254 3781,2180 4626,2231 4643,2097 4129,2117 3889,2039 3710,2073 3344,1995 3083,2012"/>
+                <Baseline points="3092,2190 3169,2186 3246,2182 3323,2180 3400,2180 3477,2180 3554,2180 3631,2182 3708,2184 3785,2186 3862,2188 3939,2191 4016,2192 4093,2194 4170,2196 4247,2196 4324,2196 4401,2194 4478,2192 4555,2188 4632,2182"/>
+                <TextEquiv>
+                    <Unicode>Gleich wie Gott der herr ist ein Gott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="3139,2315 3970,2291 4056,2355 4118,2299 4805,2308 4654,2202 4583,2247 4504,2202 4171,2243 3931,2201 3855,2250 3754,2189 3542,2263 3417,2187 3293,2263 3139,2210"/>
+                <Baseline points="3150,2306 3232,2302 3314,2298 3396,2296 3478,2294 3561,2292 3643,2292 3725,2290 3807,2290 3889,2290 3972,2290 4054,2292 4136,2292 4218,2294 4300,2294 4383,2294 4465,2296 4547,2296 4629,2296 4711,2296 4794,2294"/>
+                <TextEquiv>
+                    <Unicode>der Ordnung, der da haßet alles vnorden¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="3123,2439 3261,2460 3394,2404 3487,2449 3673,2381 3762,2434 4519,2398 4622,2442 4712,2417 4712,2355 4413,2364 4341,2303 4198,2369 3874,2296 3618,2359 3545,2296 3295,2364 3122,2318"/>
+                <Baseline points="3132,2416 3210,2410 3289,2406 3367,2403 3446,2399 3524,2396 3603,2394 3681,2394 3760,2392 3838,2392 3917,2392 3995,2392 4074,2392 4152,2392 4231,2392 4309,2394 4388,2394 4466,2396 4545,2396 4623,2398 4702,2398"/>
+                <TextEquiv>
+                    <Unicode>liches wesen deßhalben auch dem gantzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="3125,2555 3529,2567 3673,2498 3820,2554 3914,2511 4665,2521 4663,2441 4178,2448 4093,2400 3727,2416 3654,2472 3387,2405 3290,2471 3123,2473"/>
+                <Baseline points="3136,2534 3211,2529 3287,2523 3363,2518 3439,2516 3515,2512 3591,2509 3667,2506 3743,2504 3819,2502 3895,2500 3970,2498 4046,2498 4122,2496 4198,2496 4274,2496 4350,2496 4426,2496 4502,2496 4578,2498 4654,2498"/>
+                <TextEquiv>
+                    <Unicode>menschlichen Geschlecht gantz heitere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="3110,2733 3352,2624 3707,2669 3802,2617 3882,2660 4078,2611 4188,2657 4701,2614 4699,2550 4165,2557 4071,2508 3709,2583 3475,2542 3106,2587"/>
+                <Baseline points="3118,2660 3196,2650 3275,2642 3353,2634 3432,2628 3511,2623 3589,2618 3668,2616 3746,2612 3825,2610 3904,2609 3982,2608 4061,2608 4139,2606 4218,2606 4297,2606 4375,2606 4454,2606 4532,2604 4611,2604 4690,2602"/>
+                <TextEquiv>
+                    <Unicode>gesam ordnungen, vnd regeln einge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="3096,2806 3212,2837 3489,2737 3692,2787 3917,2731 4698,2769 4757,2743 4754,2644 4572,2682 4319,2619 4105,2685 4003,2630 3714,2675 3361,2627 3094,2740"/>
+                <Baseline points="3106,2772 3188,2764 3270,2757 3352,2751 3434,2745 3516,2741 3598,2736 3680,2732 3762,2730 3844,2728 3926,2726 4008,2724 4090,2722 4172,2722 4254,2720 4336,2720 4418,2720 4500,2720 4582,2720 4664,2720 4746,2720"/>
+                <TextEquiv>
+                    <Unicode>sezt, vnd vorgeschriben, dieselben auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="3136,2886 3357,2926 3603,2855 3881,2900 4429,2850 4615,2915 4742,2862 4741,2769 4326,2791 4200,2737 4079,2780 3922,2731 3840,2796 3504,2825 3330,2764 3136,2832"/>
+                <Baseline points="3146,2874 3225,2870 3304,2865 3383,2863 3463,2860 3542,2856 3621,2854 3701,2852 3780,2852 3859,2850 3939,2850 4018,2850 4097,2848 4176,2848 4256,2848 4335,2848 4414,2848 4494,2848 4573,2848 4652,2848 4732,2848"/>
+                <TextEquiv>
+                    <Unicode>täglichen gantz reychlich und ernsthafft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="3131,3052 3276,2981 3439,3015 3841,2954 3968,3020 4035,2973 4342,3009 4542,2960 4706,3033 4720,2870 4531,2919 4435,2851 4342,2904 4294,2859 4070,2907 3991,2865 3900,2920 3615,2858 3357,2926 3128,2910"/>
+                <Baseline points="3140,2992 3218,2985 3297,2978 3375,2975 3454,2970 3532,2967 3611,2964 3689,2962 3768,2961 3846,2960 3925,2958 4003,2958 4082,2958 4160,2958 4239,2958 4317,2957 4396,2956 4474,2956 4553,2955 4631,2954 4710,2952"/>
+                <TextEquiv>
+                    <Unicode>zu Statt, vnd landt offenlich verkundigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="3143,3121 3413,3084 3588,3143 3691,3080 3925,3073 3998,3122 4367,3066 4490,3118 4703,3083 4701,3026 4494,2964 4433,3009 4181,2975 3915,3022 3841,2954 3787,2995 3525,2974 3413,3070 3269,3002 3140,3041"/>
+                <Baseline points="3152,3108 3229,3104 3306,3096 3383,3090 3460,3085 3537,3082 3614,3076 3691,3073 3768,3069 3845,3066 3922,3064 3999,3062 4076,3060 4153,3060 4230,3058 4307,3058 4384,3058 4461,3059 4538,3060 4615,3062 4692,3064"/>
+                <TextEquiv>
+                    <Unicode>laßt. Also sind auch alle menschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="3131,3254 4682,3189 4680,3148 4359,3070 4295,3118 4153,3077 4003,3129 3844,3069 3759,3146 3662,3100 3512,3161 3333,3103 3128,3178"/>
+                <Baseline points="3140,3224 3216,3221 3293,3218 3369,3215 3446,3212 3523,3208 3599,3204 3676,3198 3752,3195 3829,3191 3906,3188 3982,3184 4059,3182 4135,3178 4212,3177 4289,3176 4365,3176 4442,3176 4518,3178 4595,3180 4672,3184"/>
+                <TextEquiv>
+                    <Unicode>als seine geschopff vnd Creaturen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="3127,3423 3279,3358 3747,3326 4212,3371 4328,3298 4760,3334 4772,3212 4658,3245 4520,3197 4401,3257 4268,3183 4115,3269 4026,3196 3918,3281 3859,3227 3121,3255"/>
+                <Baseline points="3136,3358 3217,3352 3298,3346 3380,3340 3461,3335 3543,3330 3624,3325 3705,3321 3787,3317 3868,3312 3950,3310 4031,3306 4112,3304 4194,3302 4275,3300 4357,3298 4438,3298 4519,3298 4601,3298 4682,3298 4764,3300"/>
+                <TextEquiv>
+                    <Unicode>Schuldig vnd verbunden, solchem lebens,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="3098,3491 3252,3542 3327,3472 3521,3488 3593,3437 4664,3448 4678,3313 4459,3373 4328,3299 4073,3389 3745,3327 3094,3423"/>
+                <Baseline points="3108,3476 3186,3472 3264,3467 3342,3464 3420,3458 3499,3452 3577,3448 3655,3442 3733,3438 3811,3433 3890,3427 3968,3424 4046,3420 4124,3416 4202,3414 4281,3412 4359,3410 4437,3410 4515,3411 4593,3413 4672,3416"/>
+                <TextEquiv>
+                    <Unicode>weglen, vnd Gottlichem willen vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="3126,3589 3536,3617 3705,3561 4187,3620 4324,3540 4650,3563 4648,3510 4425,3432 4322,3429 4244,3496 4187,3453 4057,3501 3849,3451 3749,3512 3673,3464 3276,3544 3122,3482"/>
+                <Baseline points="3136,3586 3211,3583 3286,3580 3361,3576 3436,3572 3511,3568 3586,3564 3661,3560 3736,3556 3811,3552 3887,3547 3962,3543 4037,3540 4112,3538 4187,3536 4262,3534 4337,3534 4412,3534 4487,3536 4562,3539 4638,3542"/>
+                <TextEquiv>
+                    <Unicode>bevelch gehorsamlich nachzukommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="3132,3727 3407,3758 3469,3707 3658,3704 3719,3751 3785,3697 3988,3737 4074,3664 4224,3704 4665,3673 4532,3581 4151,3634 4069,3576 3957,3621 3861,3583 3730,3656 3586,3593 3460,3633 3127,3590"/>
+                <Baseline points="3142,3712 3217,3709 3293,3706 3368,3703 3444,3699 3520,3696 3595,3692 3671,3688 3746,3684 3822,3680 3898,3678 3973,3674 4049,3671 4124,3668 4200,3666 4276,3664 4351,3664 4427,3662 4502,3662 4578,3664 4654,3664"/>
+                <TextEquiv>
+                    <Unicode>und zugeleben, wan sy nicht wollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="3133,3869 4198,3855 4265,3806 4535,3850 4769,3822 4768,3744 4685,3711 4605,3756 4453,3662 4214,3754 4092,3699 3982,3769 3823,3700 3727,3766 3529,3707 3415,3775 3276,3729 3131,3769"/>
+                <Baseline points="3142,3832 3222,3831 3303,3830 3384,3827 3465,3824 3546,3821 3626,3818 3707,3814 3788,3812 3869,3808 3950,3805 4030,3802 4111,3800 4192,3798 4273,3798 4354,3796 4434,3798 4515,3800 4596,3803 4677,3807 4758,3812"/>
+                <TextEquiv>
+                    <Unicode>wußentlich vnd mutwilligklich vber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="3143,4018 3477,3973 3529,4011 3618,3952 3743,4002 4333,3930 4672,3969 4762,3942 4760,3878 4371,3808 4202,3881 4085,3819 3886,3897 3668,3836 3545,3918 3360,3849 3281,3893 3138,3860"/>
+                <Baseline points="3152,3964 3231,3962 3311,3960 3391,3958 3471,3956 3551,3952 3631,3950 3711,3947 3791,3944 3871,3940 3951,3937 4030,3934 4110,3931 4190,3930 4270,3926 4350,3924 4430,3924 4510,3922 4590,3922 4670,3922 4750,3922"/>
+                <TextEquiv>
+                    <Unicode>sich zechen, den zorn straff und nach.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="3809,4100 3939,4055 4396,4070 4467,4039 4649,4066 4665,3981 4534,3927 4413,4006 4313,3971 4258,3991 4208,3945 4035,3962 3963,4007 3887,3960 3806,4001"/>
+                <Baseline points="3818,4060 3859,4059 3901,4056 3943,4053 3985,4050 4027,4049 4069,4046 4111,4044 4153,4043 4195,4042 4237,4040 4278,4040 4320,4038 4362,4038 4404,4038 4446,4038 4488,4038 4530,4038 4572,4038 4614,4038 4656,4040"/>
+                <TextEquiv>
+                    <Unicode>da dan Vnder allen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="3128,4122 3155,4125 3185,4095 3228,4106 3285,4090 3335,4101 3401,4095 3441,4059 3463,4061 3462,4015 3423,4006 3372,4034 3324,4001 3250,4024 3186,4005 3154,4018 3124,4007"/>
+                <Baseline points="3138,4086 3164,4086 3190,4084 3217,4083 3243,4082 3269,4081 3296,4080 3322,4080 3348,4078 3375,4078 3401,4078 3427,4078 3454,4078"/>
+                <TextEquiv>
+                    <Unicode>Gottes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="3553,4102 3565,4104 3579,4097 3594,4107 3600,4103 3604,4107 3618,4092 3633,4089 3641,4081 3665,4086 3664,4023 3649,4023 3639,4034 3627,4030 3613,4043 3588,4047 3574,4060 3552,4059"/>
+                <Baseline points="3562,4082 3592,4084 3623,4085 3654,4078"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="3126,4258 3356,4202 3432,4262 3891,4201 4763,4241 4762,4167 4631,4103 4487,4134 4302,4055 3894,4084 3707,4157 3635,4101 3378,4143 3296,4092 3126,4154"/>
+                <Baseline points="3136,4206 3216,4204 3297,4204 3378,4202 3459,4200 3540,4200 3620,4198 3701,4198 3782,4198 3863,4196 3944,4196 4024,4196 4105,4196 4186,4196 4267,4196 4348,4197 4428,4198 4509,4199 4590,4201 4671,4202 4752,4206"/>
+                <TextEquiv>
+                    <Unicode>großen, schweren und unordenlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="3143,4330 3665,4320 3787,4377 3990,4336 4077,4385 4150,4317 4385,4368 4508,4324 4708,4372 4707,4239 4609,4276 4444,4208 4298,4262 4226,4215 3142,4249"/>
+                <Baseline points="3154,4330 3231,4328 3308,4326 3385,4326 3462,4324 3540,4324 3617,4322 3694,4322 3771,4322 3848,4320 3926,4320 4003,4320 4080,4320 4157,4320 4234,4320 4312,4320 4389,4318 4466,4318 4543,4318 4620,4318 4698,4316"/>
+                <TextEquiv>
+                    <Unicode>Sunden vnd lasteren, der Ehebruch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;} person {offset:28; length:6;}">
+                <Coords points="3124,4494 3270,4440 3694,4512 3782,4446 4704,4464 4703,4372 4434,4346 4352,4396 4170,4321 4074,4387 3545,4330 3124,4359"/>
+                <Baseline points="3134,4442 3212,4441 3290,4440 3368,4439 3446,4438 3524,4438 3602,4436 3680,4436 3758,4436 3836,4436 3914,4436 3992,4434 4070,4434 4148,4434 4226,4434 4304,4434 4382,4434 4460,4434 4538,4434 4616,4434 4694,4434"/>
+                <TextEquiv>
+                    <Unicode>Vnd Zurey, Insonderheit vor Gottes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="3134,4589 3296,4582 3391,4647 3526,4570 3714,4628 3983,4563 4181,4623 4301,4542 4534,4613 4682,4571 4681,4480 4430,4447 4350,4490 4258,4444 4067,4499 3933,4456 3598,4524 3402,4443 3247,4531 3133,4499"/>
+                <Baseline points="3144,4570 3220,4568 3296,4566 3373,4566 3449,4564 3526,4562 3602,4562 3678,4560 3755,4560 3831,4560 3908,4558 3984,4558 4060,4558 4137,4558 4213,4558 4290,4558 4366,4558 4442,4558 4519,4558 4595,4558 4672,4560"/>
+                <TextEquiv>
+                    <Unicode>angesicht ein greuwel ist, welches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="3100,4693 4585,4722 4584,4632 4357,4571 4201,4634 3917,4568 3731,4657 3598,4588 3385,4647 3300,4586 3098,4588"/>
+                <Baseline points="3110,4702 3183,4701 3256,4699 3329,4697 3402,4696 3476,4694 3549,4692 3622,4690 3695,4690 3768,4688 3842,4686 3915,4686 3988,4685 4061,4684 4134,4684 4208,4684 4281,4684 4354,4684 4427,4684 4500,4686 4574,4686"/>
+                <TextEquiv>
+                    <Unicode>In der anderen Tafelen seiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="3124,4899 3285,4822 3433,4894 3970,4784 4189,4857 4248,4810 4688,4815 4674,4694 4533,4754 3641,4707 3542,4777 3121,4699"/>
+                <Baseline points="3134,4826 3211,4822 3288,4819 3365,4814 3442,4812 3520,4810 3597,4808 3674,4806 3751,4806 3828,4804 3906,4804 3983,4804 4060,4802 4137,4802 4214,4802 4292,4800 4369,4800 4446,4799 4523,4797 4600,4796 4678,4792"/>
+                <TextEquiv>
+                    <Unicode>heiligen gebotten ernstlich und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="3136,4951 3362,4940 3532,5012 3767,4929 4742,4940 4741,4849 4572,4818 4478,4867 4106,4871 3655,4823 3577,4882 3308,4850 3136,4900"/>
+                <Baseline points="3146,4940 3225,4938 3304,4936 3383,4936 3463,4934 3542,4932 3621,4932 3701,4930 3780,4930 3859,4928 3939,4928 4018,4926 4097,4926 4176,4925 4256,4924 4335,4924 4414,4922 4494,4922 4573,4922 4652,4920 4732,4920"/>
+                <TextEquiv>
+                    <Unicode>mit außgetrukten worten ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="3125,5084 3719,5035 3907,5121 4052,5058 4768,5050 4767,4976 4624,4939 4543,4985 4456,4932 3767,4929 3494,5020 3124,4967"/>
+                <Baseline points="3134,5060 3215,5060 3296,5058 3377,5057 3458,5056 3540,5054 3621,5052 3702,5052 3783,5050 3864,5048 3946,5047 4027,5046 4108,5045 4189,5044 4270,5044 4352,5044 4433,5044 4514,5044 4595,5046 4676,5046 4758,5048"/>
+                <TextEquiv>
+                    <Unicode>botten wirt die solt nit gebrechen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="3148,5205 4725,5207 4724,5107 4621,5076 4334,5117 4239,5054 4161,5110 4047,5061 3801,5155 3593,5071 3147,5073"/>
+                <Baseline points="3158,5184 3235,5184 3313,5184 3391,5184 3469,5184 3547,5184 3624,5184 3702,5185 3780,5186 3858,5186 3936,5186 4013,5186 4091,5186 4169,5186 4247,5184 4325,5184 4402,5182 4480,5180 4558,5177 4636,5173 4714,5170"/>
+                <TextEquiv>
+                    <Unicode>mit vilfaltiges anträwung zeitlicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="3133,5353 4413,5294 4652,5333 4700,5209 4507,5249 3746,5211 3504,5266 3250,5193 3131,5220"/>
+                <Baseline points="3142,5316 3219,5314 3296,5312 3374,5312 3451,5310 3529,5310 3606,5308 3683,5308 3761,5308 3838,5306 3916,5306 3993,5306 4070,5304 4148,5304 4225,5302 4303,5302 4380,5299 4457,5297 4535,5294 4612,5291 4690,5288"/>
+                <TextEquiv>
+                    <Unicode>und ewiger straffen, Ich will mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="3133,5501 3251,5530 3358,5455 3415,5491 3693,5445 3872,5520 3987,5435 4231,5484 4355,5430 4611,5450 4689,5436 4687,5329 4556,5371 4454,5315 4272,5380 4143,5317 3937,5364 3699,5328 3257,5404 3130,5347"/>
+                <Baseline points="3142,5446 3218,5444 3295,5442 3372,5440 3449,5438 3526,5436 3602,5436 3679,5434 3756,5432 3833,5432 3910,5430 3986,5429 4063,5428 4140,5426 4217,5424 4294,5423 4370,5422 4447,5420 4524,5418 4601,5416 4678,5414"/>
+                <TextEquiv>
+                    <Unicode>zn euch nachen zu richten, vnd will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:33;} person {offset:3; length:9;}">
+                <Coords points="3154,5572 3320,5564 3394,5626 3687,5571 3849,5646 4229,5558 4680,5568 4696,5465 4464,5481 4354,5432 4242,5500 4019,5463 3893,5527 3515,5458 3153,5527"/>
+                <Baseline points="3164,5572 3240,5572 3316,5570 3392,5569 3468,5568 3545,5566 3621,5564 3697,5562 3773,5560 3849,5558 3926,5556 4002,5553 4078,5551 4154,5549 4230,5548 4307,5546 4383,5544 4459,5542 4535,5542 4611,5540 4688,5540"/>
+                <TextEquiv>
+                    <Unicode>im Schneller zeug sein, wider die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:34;} person {offset:0; length:9;}">
+                <Coords points="3145,5708 3575,5720 3660,5669 3770,5758 4012,5673 4562,5697 4686,5667 4683,5569 4530,5615 4230,5558 3846,5648 3706,5583 3455,5646 3327,5572 3141,5616"/>
+                <Baseline points="3154,5690 3230,5693 3306,5694 3382,5696 3458,5696 3534,5694 3610,5692 3686,5690 3762,5687 3838,5683 3915,5680 3991,5677 4067,5672 4143,5668 4219,5664 4295,5661 4371,5658 4447,5654 4523,5652 4599,5650 4676,5650"/>
+                <TextEquiv>
+                    <Unicode>Gebrecher. Deßen alles Vngeacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:35;}">
+                <Coords points="3113,5827 3372,5889 3440,5827 3556,5871 3598,5826 4777,5816 4728,5702 4579,5742 4325,5663 4132,5740 3821,5708 3730,5779 3545,5698 3110,5733"/>
+                <Baseline points="3122,5822 3204,5824 3286,5824 3368,5824 3450,5824 3533,5822 3615,5820 3697,5817 3779,5814 3861,5811 3944,5808 4026,5803 4108,5800 4190,5796 4272,5792 4355,5790 4437,5787 4519,5786 4601,5784 4683,5784 4766,5784"/>
+                <TextEquiv>
+                    <Unicode>diß bose laster der Buren und ehebruchs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:36;}">
+                <Coords points="3126,5985 3447,5938 4045,5986 4237,5935 4384,5962 4585,5886 4582,5824 4456,5801 4355,5858 4022,5812 3968,5857 3636,5829 3375,5891 3290,5837 3121,5874"/>
+                <Baseline points="3134,5940 3206,5940 3278,5940 3350,5939 3422,5938 3494,5936 3566,5933 3638,5930 3710,5928 3782,5924 3854,5922 3926,5918 3998,5915 4070,5911 4142,5908 4214,5904 4286,5900 4358,5897 4430,5894 4502,5892 4574,5890"/>
+                <TextEquiv>
+                    <Unicode>zu Statt und landt im schwangh gehet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:37;}">
+                <Coords points="3133,6116 3489,6071 3960,6118 4393,6022 4559,6069 4764,6033 4762,5979 4615,5905 4338,5994 3128,5982"/>
+                <Baseline points="3142,6074 3222,6074 3303,6072 3383,6072 3464,6069 3545,6066 3625,6062 3706,6059 3786,6054 3867,6050 3948,6045 4028,6040 4109,6036 4189,6032 4270,6029 4351,6027 4431,6024 4512,6024 4592,6024 4673,6024 4754,6026"/>
+                <TextEquiv>
+                    <Unicode>Vnd haben wir abermahl ein leidiges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:38;}">
+                <Coords points="3131,6263 3210,6202 3346,6256 3502,6189 3845,6230 3952,6173 4106,6210 4366,6142 4699,6175 4776,6145 4773,6075 3124,6116"/>
+                <Baseline points="3138,6188 3219,6188 3300,6188 3382,6186 3463,6184 3545,6180 3626,6177 3707,6172 3789,6168 3870,6163 3952,6158 4033,6154 4114,6150 4196,6146 4277,6140 4359,6138 4440,6134 4521,6132 4603,6130 4684,6130 4766,6130"/>
+                <TextEquiv>
+                    <Unicode>exempel vor angen an gegenwürtiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:39;}">
+                <Coords points="3123,6346 3516,6299 3921,6343 4194,6267 4621,6289 4774,6265 4772,6208 4365,6144 4025,6227 3953,6173 3849,6235 3559,6194 3469,6256 3119,6261"/>
+                <Baseline points="3132,6308 3213,6306 3295,6302 3376,6300 3458,6296 3539,6293 3621,6289 3702,6286 3784,6282 3865,6278 3947,6274 4028,6270 4110,6266 4191,6261 4273,6258 4354,6254 4436,6251 4517,6248 4599,6244 4680,6242 4762,6240"/>
+                <TextEquiv>
+                    <Unicode>areinen weibsperson und übelthätern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4
+Acta Flach
+von Hünigen.
+Gleich wie Gott der herr ist ein Gott
+der Ordnung, der da haßet alles vnorden¬
+liches wesen deßhalben auch dem gantzen
+menschlichen Geschlecht gantz heitere
+gesam ordnungen, vnd regeln einge¬
+sezt, vnd vorgeschriben, dieselben auch
+täglichen gantz reychlich und ernsthafft
+zu Statt, vnd landt offenlich verkundigen
+laßt. Also sind auch alle menschen
+als seine geschopff vnd Creaturen¬
+Schuldig vnd verbunden, solchem lebens,
+weglen, vnd Gottlichem willen vnd
+bevelch gehorsamlich nachzukommen
+und zugeleben, wan sy nicht wollen
+wußentlich vnd mutwilligklich vber
+sich zechen, den zorn straff und nach.
+da dan Vnder allen
+Gottes.
+4
+großen, schweren und unordenlichen
+Sunden vnd lasteren, der Ehebruch
+Vnd Zurey, Insonderheit vor Gottes
+angesicht ein greuwel ist, welches
+In der anderen Tafelen seiner
+heiligen gebotten ernstlich und
+mit außgetrukten worten ver¬
+botten wirt die solt nit gebrechen
+mit vilfaltiges anträwung zeitlicher
+und ewiger straffen, Ich will mich
+zn euch nachen zu richten, vnd will
+im Schneller zeug sein, wider die
+Gebrecher. Deßen alles Vngeacht
+diß bose laster der Buren und ehebruchs
+zu Statt und landt im schwangh gehet,
+Vnd haben wir abermahl ein leidiges
+exempel vor angen an gegenwürtiger
+areinen weibsperson und übelthätern</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

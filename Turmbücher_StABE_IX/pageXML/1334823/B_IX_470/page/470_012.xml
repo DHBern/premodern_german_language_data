@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_10:18
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_10:18
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6</Creator>
+        <Created>2020-10-10T09:21:54.332+02:00</Created>
+        <LastChange>2022-09-09T15:25:14.679+02:00</LastChange>
+        <TranskribusMetadata docId="1334823" pageId="52360108" pageNr="23" tsid="114641865" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=ETLDWXWZVFYXQNVKOJMDVDKC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQXLHLOXUSMGZWTAOUHBHBLK" imageId="16416999"/>
+    </Metadata>
+    <Page imageFilename="470_012.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513756149" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1688,658 1688,937 2471,937 2471,658"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1692,940 1797,878 1941,871 2055,843 2089,808 2230,842 2477,762 2386,706 2342,758 2257,767 2160,751 2024,780 1945,739 1887,798 1835,792 1680,863"/>
+                <Baseline points="1688,887 1727,875 1766,864 1805,854 1844,847 1883,839 1922,832 1962,825 2001,818 2040,814 2079,807 2118,803 2157,798 2196,792 2236,788 2275,782 2314,778 2353,773 2392,768 2431,763 2471,758"/>
+                <TextEquiv>
+                    <Unicode>sulauß Dtenz 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>sulauß Dtenz 8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

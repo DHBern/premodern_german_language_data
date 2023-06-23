@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Kurrent_1515_ENHG_v3(htr_id=40510)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:17:48.594+02:00</Created>
+        <LastChange>2022-09-12T15:19:23.830+02:00</LastChange>
+        <TranskribusMetadata docId="1334849" pageId="52362412" pageNr="1" tsid="114644217" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=GTTCLHDJYIFJUYCARAOZZAED&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWQUNUSDYPZXOFWMGFOCIEWR" imageId="30686786"/>
+    </Metadata>
+    <Page imageFilename="IMG_5701.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513632081" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1881,211 1881,554 2271,554 2271,211"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1978,301 1996,304 2014,289 2050,307 2080,296 2125,317 2170,317 2171,209 2120,215 2102,197 2075,197 2069,190 2060,196 2015,178 1979,184"/>
+                <Baseline points="1992,272 2019,273 2046,273 2073,272 2100,272 2127,273 2154,275"/>
+                <TextEquiv>
+                    <Unicode>Okoss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1866,416 1929,437 1968,427 1998,445 2070,433 2118,405 2172,426 2190,417 2208,435 2232,417 2286,419 2285,344 2261,338 2240,351 2090,325 2036,346 1952,335 1931,317 1865,338"/>
+                <Baseline points="1881,404 1907,402 1933,401 1959,400 1985,398 2011,398 2037,397 2063,396 2089,396 2115,396 2141,396 2167,398 2193,398 2219,399 2245,400 2271,401"/>
+                <TextEquiv>
+                    <Unicode>TVRM-8VCh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="2001,551 2032,556 2084,529 2116,555 2149,553 2145,467 2124,470 2096,457 2085,469 2060,458 2037,471 2021,466 1998,470"/>
+                <Baseline points="2015,524 2044,521 2073,520 2102,519 2132,518"/>
+                <TextEquiv>
+                    <Unicode>1749</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Okoss
+TVRM-8VCh
+1749</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

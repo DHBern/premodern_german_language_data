@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:42:02.331+02:00</Created>
+        <LastChange>2022-09-12T15:35:35.057+02:00</LastChange>
+        <TranskribusMetadata docId="1334851" pageId="52363651" pageNr="199" tsid="114645688" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=YFTUOQYSMHEUHASCJDKBPVPL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TDCNHXOOZKXOQARKFKBQLZVT" imageId="30691789"/>
+    </Metadata>
+    <Page imageFilename="IMG_7202.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513624595" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1608,423 1608,569 2742,569 2742,423"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:15;} place {offset:20; length:10;}">
+                <Coords points="1604,595 1953,514 2005,467 2203,458 2269,506 2418,463 2571,505 2718,490 2745,400 2623,423 2509,379 2436,429 2370,382 2242,433 2013,391 1596,485"/>
+                <Baseline points="1608,554 1664,537 1721,522 1778,509 1834,497 1891,487 1948,480 2004,473 2061,467 2118,463 2175,460 2231,458 2288,456 2345,455 2401,455 2458,453 2515,453 2571,453 2628,455 2685,454 2742,453"/>
+                <TextEquiv>
+                    <Unicode>Hbhgarth Elbetz von Dreigarten Pagl: 141.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1942,554 1975,567 2015,542 2059,552 2158,527 2205,541 2231,530 2223,459 2184,463 2145,490 2123,490 2080,463 2036,485 2009,467 1937,501"/>
+                <Baseline points="1949,543 1976,539 2003,535 2030,532 2058,528 2085,525 2112,522 2140,520 2167,518 2194,516 2222,515"/>
+                <TextEquiv>
+                    <Unicode>Kindtmord.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hbhgarth Elbetz von Dreigarten Pagl: 141.
+Kindtmord.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2646,3425 2646,3575 2691,3575 2691,3425"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2639,3550 2647,3550 2652,3545 2659,3550 2672,3544 2687,3548 2698,3545 2698,3439 2684,3438 2672,3442 2659,3438 2649,3445 2639,3445"/>
+                <Baseline points="2646,3525 2691,3525"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

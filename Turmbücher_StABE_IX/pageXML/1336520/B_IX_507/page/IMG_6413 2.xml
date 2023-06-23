@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:58:43.820+02:00</Created>
+        <LastChange>2022-09-12T15:57:16.407+02:00</LastChange>
+        <TranskribusMetadata docId="1336520" pageId="52420865" pageNr="2" tsid="114799155" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=NUBRBPRYAJGVDGRKXJCQRPFR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IQFNUXSYIBJHVYOBWBIKVDRZ" imageId="30693289"/>
+    </Metadata>
+    <Page imageFilename="IMG_6413 2.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513545639" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2400,1173 2387,1510 3061,1510 3074,1173"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2437,1252 2499,1235 2658,1238 2767,1277 2797,1257 2843,1265 2893,1246 2909,1260 2945,1242 2946,1131 2888,1156 2828,1130 2786,1145 2745,1121 2601,1154 2526,1109 2476,1143 2438,1133"/>
+                <Baseline points="2447,1241 2472,1238 2498,1236 2524,1234 2549,1233 2575,1233 2601,1233 2627,1233 2652,1234 2678,1235 2704,1236 2730,1238 2755,1238 2781,1239 2807,1239 2833,1239 2858,1239 2884,1239 2910,1237 2936,1235"/>
+                <TextEquiv>
+                    <Unicode>Thurn-Buch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2390,1399 2457,1405 2554,1369 2619,1405 2653,1385 2957,1415 3026,1379 3083,1384 3085,1290 2899,1330 2745,1276 2667,1304 2550,1271 2392,1301"/>
+                <Baseline points="2400,1362 2433,1361 2467,1359 2501,1359 2534,1359 2568,1359 2602,1359 2635,1361 2669,1362 2703,1364 2737,1365 2770,1366 2804,1367 2838,1369 2871,1370 2905,1371 2939,1371 2972,1373 3006,1373 3040,1371 3074,1370"/>
+                <TextEquiv>
+                    <Unicode>Angefangen im 26. May 1706</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1661514554684_18" custom="readingOrder {index:2;}">
+                <Coords points="2442,1401 2896,1434 2893,1484 2439,1451"/>
+                <Baseline points="2439,1446 2893,1479"/>
+                <TextEquiv>
+                    <Unicode>11. März 1711</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Thurn-Buch
+Angefangen im 26. May 1706
+11. März 1711</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

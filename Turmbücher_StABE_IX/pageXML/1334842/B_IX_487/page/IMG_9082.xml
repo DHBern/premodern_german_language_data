@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-03-11T14:07:46.732+01:00</Created>
+        <LastChange>2022-09-12T15:06:56.807+02:00</LastChange>
+        <TranskribusMetadata docId="1334842" pageId="52361636" pageNr="1" tsid="114643424" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=CZHXVOSHQRKDUCJNVPCSORQI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYIRLMNGKVYNKKVNXOBRUPUI" imageId="19038834"/>
+    </Metadata>
+    <Page imageFilename="IMG_9082.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513669718" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1262,127 1262,637 1502,637 1502,127"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1253,231 1275,236 1322,220 1345,237 1376,221 1399,231 1426,221 1481,241 1513,232 1507,94 1417,104 1315,54 1246,63"/>
+                <Baseline points="1262,203 1288,205 1315,206 1342,205 1368,203 1395,200 1422,199 1448,197 1475,197 1502,200"/>
+                <TextEquiv>
+                    <Unicode>Annn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1264,379 1318,373 1382,400 1434,378 1506,386 1507,240 1477,242 1427,222 1373,248 1327,223 1311,231 1297,221 1265,237"/>
+                <Baseline points="1274,356 1301,349 1329,347 1357,345 1385,344 1412,345 1440,348 1468,351 1496,354"/>
+                <TextEquiv>
+                    <Unicode>Bucz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1259,653 1305,658 1321,641 1393,661 1444,612 1500,610 1496,482 1466,481 1446,492 1428,474 1400,491 1340,476 1316,479 1296,496 1276,484 1254,489"/>
+                <Baseline points="1268,599 1295,600 1323,602 1351,602 1379,602 1406,601 1434,599 1462,595 1490,593"/>
+                <TextEquiv>
+                    <Unicode>1772</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Annn.
+Bucz
+1772</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1370,3686 1370,3914 1487,3914 1487,3686"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1362,3772 1388,3767 1403,3751 1469,3749 1477,3757 1491,3752 1488,3650 1468,3651 1457,3663 1448,3657 1423,3678 1388,3659 1358,3662"/>
+                <Baseline points="1370,3725 1397,3725 1425,3723 1453,3723 1481,3722"/>
+                <TextEquiv>
+                    <Unicode>51. a 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1398,3804 1414,3804 1420,3798 1432,3796 1456,3814 1468,3806 1480,3806 1480,3754 1464,3756 1456,3750 1440,3752 1436,3748 1426,3752 1422,3750 1418,3754 1398,3752"/>
+                <Baseline points="1407,3797 1438,3797 1470,3797"/>
+                <TextEquiv>
+                    <Unicode>614</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1364,3924 1388,3926 1394,3920 1416,3932 1448,3908 1460,3906 1474,3916 1498,3913 1498,3791 1488,3791 1474,3806 1422,3836 1412,3828 1392,3838 1364,3832"/>
+                <Baseline points="1373,3888 1401,3893 1430,3891 1458,3890 1487,3891"/>
+                <TextEquiv>
+                    <Unicode>487</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>51. a 6.
+614
+487</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

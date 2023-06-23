@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:42:02.148+02:00</Created>
+        <LastChange>2022-09-12T15:35:26.537+02:00</LastChange>
+        <TranskribusMetadata docId="1334851" pageId="52363598" pageNr="188" tsid="114645626" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=TBFEFUJPDRQMAZFYRSMLWGHH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZDQEWMEWXDCXQNKPZMCOCALV" imageId="30691771"/>
+    </Metadata>
+    <Page imageFilename="IMG_7191.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513624326" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1632,449 1632,647 1911,647 1911,449"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:11;}">
+                <Coords points="1631,615 1696,597 1752,607 1801,567 1842,570 1871,587 1919,564 1907,495 1849,490 1809,534 1760,549 1695,512 1653,516 1617,535"/>
+                <Baseline points="1632,597 1657,592 1682,587 1708,581 1733,576 1758,572 1784,567 1809,563 1834,559 1860,555 1885,552 1911,549"/>
+                <TextEquiv>
+                    <Unicode>Kragenbuchl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kragenbuchl</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1937,521 1937,691 2675,691 2675,521"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} place {offset:17; length:10;}">
+                <Coords points="1927,596 2031,549 2164,592 2277,570 2570,614 2612,642 2679,633 2683,568 2565,549 2511,579 2435,535 2370,558 2330,518 2215,549 2141,489 2093,505 2064,484 2011,520 1973,488 1938,498"/>
+                <Baseline points="1937,549 1973,549 2010,549 2047,551 2084,552 2121,555 2158,558 2195,561 2232,565 2269,569 2306,573 2342,578 2379,583 2416,588 2453,593 2490,597 2527,602 2564,607 2601,610 2638,614 2675,618"/>
+                <TextEquiv>
+                    <Unicode>Haus Lag. A. von Laupersbyl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} place {offset:32; length:7;}">
+                <Coords points="1963,662 2070,641 2111,660 2166,624 2281,677 2358,653 2453,700 2573,716 2623,685 2673,696 2677,654 2540,616 2497,628 2471,602 2415,623 2231,569 2168,592 2089,557 1975,558"/>
+                <Baseline points="1974,606 2008,608 2043,611 2078,614 2113,617 2148,621 2182,625 2217,628 2252,633 2287,638 2322,642 2356,646 2391,651 2426,656 2461,660 2496,664 2530,666 2565,671 2600,674 2635,675 2670,677"/>
+                <TextEquiv>
+                    <Unicode>Einbruch u. diebstahl im Schloß Uthigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Haus Lag. A. von Laupersbyl
+Einbruch u. diebstahl im Schloß Uthigen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2652,3452 2652,3602 2688,3602 2688,3452"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2647,3555 2663,3557 2677,3565 2693,3564 2693,3492 2688,3492 2683,3496 2675,3496 2671,3493 2665,3499 2656,3491 2647,3492"/>
+                <Baseline points="2652,3552 2688,3552"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

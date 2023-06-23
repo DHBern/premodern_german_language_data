@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:58:45.967+02:00</Created>
+        <LastChange>2022-09-12T15:59:50.490+02:00</LastChange>
+        <TranskribusMetadata docId="1336520" pageId="52421505" pageNr="136" tsid="114799799" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=XZUADCZFAWTZEPIGLIJVFRBY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OBQYPXQOARHKVUPIYCPNWSZK" imageId="30694110"/>
+    </Metadata>
+    <Page imageFilename="IMG_6547.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513550754" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2081,1087 2081,1255 2591,1255 2591,1087"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:13;}">
+                <Coords points="2070,1246 2110,1258 2178,1242 2202,1260 2330,1231 2437,1272 2556,1227 2607,1241 2602,1128 2430,1161 2347,1120 2314,1155 2175,1169 2131,1128 2066,1144"/>
+                <Baseline points="2081,1205 2106,1205 2132,1205 2157,1205 2183,1204 2208,1203 2234,1203 2259,1202 2285,1200 2310,1200 2336,1199 2361,1197 2387,1196 2412,1196 2438,1194 2463,1193 2489,1191 2514,1191 2540,1189 2565,1188 2591,1187"/>
+                <TextEquiv>
+                    <Unicode>Rass Margreth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rass Margreth</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-10T21:47:50.724+01:00</Created>
+        <LastChange>2022-09-09T18:26:50.694+02:00</LastChange>
+        <TranskribusMetadata docId="1334803" pageId="52357694" pageNr="1" tsid="114639372" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=DFMJVNCXGCSWSNCORNQWTRGW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MDUUWXEGDSEIHDYWLLCANUUH" imageId="18544996"/>
+    </Metadata>
+    <Page imageFilename="IMG_9241.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513851475" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1385,775 1385,972 1502,972 1502,775"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1378,863 1398,865 1417,848 1432,856 1440,845 1449,846 1471,864 1487,862 1505,843 1515,842 1506,773 1486,773 1475,785 1452,789 1442,797 1423,789 1416,796 1401,790 1394,799 1371,804"/>
+                <Baseline points="1385,845 1414,839 1443,835 1472,832 1502,830"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1447,971 1468,972 1479,959 1485,964 1491,962 1495,966 1501,961 1511,961 1506,891 1496,892 1489,900 1481,901 1476,897 1469,901 1460,898 1442,899"/>
+                <Baseline points="1455,945 1500,942"/>
+                <TextEquiv>
+                    <Unicode>189</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+189</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1475,3186 1475,3299 1550,3299 1550,3186"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1464,3225 1488,3228 1494,3233 1500,3229 1514,3231 1525,3238 1556,3237 1558,3173 1548,3173 1538,3166 1526,3172 1510,3167 1502,3175 1490,3170 1484,3176 1478,3170 1466,3169"/>
+                <Baseline points="1475,3216 1511,3219 1547,3219"/>
+                <TextEquiv>
+                    <Unicode>31.fl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1485,3301 1497,3301 1501,3305 1508,3296 1518,3292 1533,3301 1542,3296 1549,3298 1560,3295 1557,3235 1529,3239 1501,3228 1497,3231 1481,3230"/>
+                <Baseline points="1493,3284 1521,3282 1550,3281"/>
+                <TextEquiv>
+                    <Unicode>12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>31.fl.
+12</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

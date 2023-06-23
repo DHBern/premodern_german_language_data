@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M5.4(htr_id=38771)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:22:00.174+02:00</Created>
+        <LastChange>2022-09-12T15:30:23.454+02:00</LastChange>
+        <TranskribusMetadata docId="1334850" pageId="52363476" pageNr="174" tsid="114645480" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=LMRXRQQEMJUAWDIGAMBMIPLA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OIZRGJNJKPCONTBLULEGHBYV" imageId="30688813"/>
+    </Metadata>
+    <Page imageFilename="IMG_6987.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513631409" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1500,415 1500,684 1640,684 1640,415"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1508,503 1514,503 1534,484 1541,484 1557,498 1586,479 1599,487 1634,484 1628,432 1607,434 1561,405 1554,407 1532,390 1508,411 1497,409"/>
+                <Baseline points="1511,473 1539,464 1568,458 1596,456 1625,461"/>
+                <TextEquiv>
+                    <Unicode>Juge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:4; continued:true;}">
+                <Coords points="1511,601 1526,601 1540,587 1568,594 1586,576 1605,567 1613,572 1634,554 1647,550 1642,505 1628,513 1619,508 1607,512 1600,506 1585,507 1565,494 1538,515 1532,509 1522,512 1516,508 1502,519"/>
+                <Baseline points="1512,558 1537,551 1563,546 1588,545 1614,543 1640,542"/>
+                <TextEquiv>
+                    <Unicode>guge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:7; continued:true;}">
+                <Coords points="1498,684 1510,682 1525,663 1541,665 1549,659 1591,667 1612,653 1622,658 1633,643 1647,643 1631,560 1613,571 1593,571 1569,597 1541,605 1520,598 1482,602"/>
+                <Baseline points="1500,663 1528,662 1556,657 1584,651 1612,644 1640,638"/>
+                <TextEquiv>
+                    <Unicode>pursche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Juge
+guge
+pursche</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1716,420 1716,693 2643,693 2643,420"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} place {offset:13; length:9;}">
+                <Coords points="1716,441 2028,461 2158,505 2455,489 2511,542 2577,518 2647,539 2653,472 2526,432 2443,471 2345,422 2153,429 2082,395 2008,428 1974,389 1723,367"/>
+                <Baseline points="1722,440 1768,442 1814,445 1860,448 1906,452 1952,455 1998,459 2044,464 2090,468 2136,473 2182,478 2228,482 2274,487 2320,492 2366,496 2412,501 2458,504 2504,509 2550,513 2596,515 2643,519"/>
+                <TextEquiv>
+                    <Unicode>Weil auf von Liebeweil Sigg. C. 3. tit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} person {offset:0; length:10;}">
+                <Coords points="1708,571 1766,533 1908,532 2045,557 2078,581 2126,558 2218,598 2276,576 2280,517 2217,491 2106,509 2059,470 2015,481 1990,465 1952,464 1878,511 1830,489 1799,502 1746,447 1716,442"/>
+                <Baseline points="1716,531 1743,531 1771,530 1799,528 1827,528 1854,530 1882,530 1910,531 1938,533 1965,535 1993,537 2021,539 2049,542 2076,544 2104,548 2132,550 2160,554 2187,556 2215,560 2243,562 2271,564"/>
+                <TextEquiv>
+                    <Unicode>Hieronimus. Tage. 69.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2290,548 2318,557 2346,540 2433,559 2553,559 2583,578 2587,541 2556,532 2512,539 2455,489 2430,505 2400,495 2362,511 2346,498 2327,503 2296,490"/>
+                <Baseline points="2298,527 2323,529 2349,532 2374,535 2400,539 2426,541 2451,544 2477,547 2503,550 2528,553 2554,554 2580,557"/>
+                <TextEquiv>
+                    <Unicode>liche Verkommnung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2452,625 2488,619 2497,612 2516,624 2532,627 2544,623 2551,631 2558,626 2596,627 2600,595 2592,594 2554,558 2527,570 2515,561 2479,570 2460,559"/>
+                <Baseline points="2459,609 2485,611 2511,615 2538,619 2564,621 2591,624"/>
+                <TextEquiv>
+                    <Unicode>Mödliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;} place {offset:14; length:10;}">
+                <Coords points="1730,628 1886,614 2135,678 2514,674 2635,714 2620,620 2523,634 2407,587 2329,615 2281,569 2206,618 2126,558 2046,604 1985,544 1916,577 1881,542 1737,545"/>
+                <Baseline points="1737,611 1781,612 1826,614 1871,615 1915,618 1960,619 2005,622 2049,626 2094,628 2139,632 2184,635 2228,639 2273,643 2318,647 2362,652 2407,656 2452,661 2496,665 2541,671 2586,675 2631,681"/>
+                <TextEquiv>
+                    <Unicode>Christen, von Guggisperg. 69. Verbindung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Weil auf von Liebeweil Sigg. C. 3. tit.
+Hieronimus. Tage. 69.
+liche Verkommnung.
+Mödliche
+Christen, von Guggisperg. 69. Verbindung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2550,3197 2550,3478 2631,3478 2631,3197"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2591,3295 2601,3291 2625,3298 2640,3294 2623,3192 2601,3192 2590,3205 2576,3203"/>
+                <Baseline points="2595,3282 2631,3276"/>
+                <TextEquiv>
+                    <Unicode>d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="2542,3449 2555,3448 2573,3463 2601,3457 2608,3462 2629,3461 2640,3353 2621,3351 2614,3346 2594,3347 2554,3340"/>
+                <Baseline points="2550,3431 2575,3436 2600,3437 2625,3440"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>d
+2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

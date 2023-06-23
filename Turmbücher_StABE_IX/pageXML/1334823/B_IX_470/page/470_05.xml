@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_10:18
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_10:18
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6</Creator>
+        <Created>2020-10-10T09:21:53.604+02:00</Created>
+        <LastChange>2022-09-09T15:24:57.438+02:00</LastChange>
+        <TranskribusMetadata docId="1334823" pageId="52360021" pageNr="9" tsid="114641777" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=IAARWBCGAAEJZUJDMPLXJYQO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NYVJVSLHUFIZIYKJJLNKOAMX" imageId="16416977"/>
+    </Metadata>
+    <Page imageFilename="470_05.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513753844" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1595,608 1595,2429 2658,2429 2658,608"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2339,689 2363,687 2374,671 2398,676 2424,656 2471,666 2485,661 2468,574 2432,584 2419,600 2381,620 2325,620"/>
+                <Baseline points="2343,675 2369,669 2396,662 2423,657 2450,651 2477,650"/>
+                <TextEquiv>
+                    <Unicode>9 b</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:20;} person {offset:21; length:3; continued:true;}">
+                <Coords points="1603,752 1705,752 1833,713 1931,740 1973,713 2137,711 2189,691 2184,631 2119,616 2090,638 1930,648 1863,691 1799,661 1733,696 1665,663 1596,665"/>
+                <Baseline points="1608,744 1636,739 1665,735 1694,730 1723,726 1752,722 1780,718 1809,715 1838,713 1867,709 1896,707 1924,704 1953,702 1982,700 2011,699 2040,698 2068,696 2097,695 2126,695 2155,694 2184,693"/>
+                <TextEquiv>
+                    <Unicode>Elßbet Kamerßtorffer Jo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:18; continued:true;}">
+                <Coords points="1641,869 1685,844 1752,852 1822,805 1922,807 1995,846 2041,800 2217,795 2214,751 2172,742 2116,767 1973,713 1938,746 1812,742 1770,770 1694,744 1634,767"/>
+                <Baseline points="1644,825 1672,822 1700,819 1728,816 1757,813 1785,810 1813,807 1842,805 1870,803 1898,801 1927,799 1955,797 1983,796 2011,794 2040,792 2068,791 2096,790 2125,789 2153,788 2181,788 2210,786"/>
+                <TextEquiv>
+                    <Unicode>Ellshet Buttikofer 22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2158,873 2171,874 2187,860 2199,860 2204,864 2214,855 2223,861 2237,852 2244,857 2253,857 2251,814 2244,815 2236,808 2228,810 2218,801 2209,807 2191,798 2177,797 2167,806 2155,804"/>
+                <Baseline points="2163,846 2190,845 2218,843 2246,842"/>
+                <TextEquiv>
+                    <Unicode>24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:0; length:13;}">
+                <Coords points="1606,940 1674,938 1684,926 1729,923 1747,904 1782,906 1818,889 1886,917 1923,883 1971,871 1968,850 1920,842 1892,820 1862,815 1845,830 1818,812 1751,852 1698,842 1644,868 1596,852"/>
+                <Baseline points="1608,911 1633,907 1658,903 1684,900 1709,896 1735,893 1760,891 1786,887 1811,884 1836,882 1862,879 1887,876 1913,874 1938,872 1964,869"/>
+                <TextEquiv>
+                    <Unicode>Rlßbet Hoffer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="2167,968 2196,966 2245,982 2282,975 2278,912 2264,913 2243,902 2222,905 2205,893 2197,894 2183,906 2173,899 2162,899"/>
+                <Baseline points="2171,938 2196,936 2222,934 2247,932 2273,932"/>
+                <TextEquiv>
+                    <Unicode>24.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} person {offset:0; length:17;}">
+                <Coords points="1627,1029 1655,1017 1689,1023 1722,988 1764,979 1822,1020 1960,997 2010,965 2005,913 1977,934 1915,922 1863,929 1814,904 1761,909 1713,934 1617,933"/>
+                <Baseline points="1628,986 1653,985 1678,984 1703,982 1728,980 1753,978 1778,975 1803,972 1828,970 1853,967 1878,964 1903,962 1928,959 1953,957 1978,955 2003,953"/>
+                <TextEquiv>
+                    <Unicode>Elsbet Pfenninger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="2195,1035 2203,1034 2213,1041 2226,1039 2232,1032 2239,1038 2243,1035 2252,1036 2248,978 2227,978 2213,974 2211,976 2200,967 2190,967"/>
+                <Baseline points="2199,1017 2244,1014"/>
+                <TextEquiv>
+                    <Unicode>34</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} person {offset:0; length:13;}">
+                <Coords points="1598,1087 1653,1080 1676,1094 1736,1067 1826,1052 1878,1078 1911,1077 1965,1047 1990,1048 1988,1014 1977,1011 1871,1012 1823,1033 1760,1002 1736,1018 1710,1000 1685,1024 1593,996"/>
+                <Baseline points="1602,1059 1627,1057 1652,1055 1678,1053 1703,1051 1729,1050 1754,1048 1779,1047 1805,1045 1830,1043 1856,1042 1881,1041 1906,1040 1932,1038 1957,1038 1983,1038"/>
+                <TextEquiv>
+                    <Unicode>Elßbet Wugger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="2087,1151 2101,1147 2118,1159 2131,1152 2145,1135 2158,1135 2154,1048 2142,1048 2133,1058 2117,1065 2104,1063 2098,1068 2083,1068"/>
+                <Baseline points="2091,1122 2121,1122 2151,1119"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1626,1184 1665,1156 1734,1143 1762,1158 1816,1138 1854,1153 1920,1136 1964,1146 1958,1079 1901,1085 1851,1062 1808,1086 1737,1076 1707,1105 1661,1086 1618,1085"/>
+                <Baseline points="1629,1152 1654,1150 1679,1147 1704,1145 1729,1143 1754,1140 1779,1138 1805,1136 1830,1134 1855,1132 1880,1130 1905,1128 1930,1127 1956,1125"/>
+                <TextEquiv>
+                    <Unicode>Stiene Caio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="2121,1214 2129,1216 2145,1202 2158,1201 2168,1193 2176,1200 2184,1199 2184,1153 2172,1152 2164,1158 2159,1154 2152,1155 2144,1147 2135,1152 2134,1150 2129,1153 2121,1152"/>
+                <Baseline points="2127,1181 2152,1182 2178,1181"/>
+                <TextEquiv>
+                    <Unicode>71</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1629,1225 1803,1210 1824,1226 1870,1226 1896,1204 1970,1198 1967,1148 1908,1168 1842,1151 1810,1171 1700,1155 1627,1185"/>
+                <Baseline points="1635,1218 1660,1215 1685,1211 1710,1208 1736,1206 1761,1204 1786,1203 1812,1202 1837,1201 1862,1200 1888,1199 1913,1197 1938,1196 1964,1193"/>
+                <TextEquiv>
+                    <Unicode>estiene Jenan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="2113,1281 2123,1276 2131,1279 2145,1268 2161,1279 2167,1275 2176,1277 2183,1272 2205,1268 2202,1232 2190,1234 2173,1222 2168,1229 2147,1241 2117,1221 2114,1225 2108,1225"/>
+                <Baseline points="2118,1269 2145,1266 2172,1263 2199,1263"/>
+                <TextEquiv>
+                    <Unicode>38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} person {offset:0; length:9;}">
+                <Coords points="1590,1325 1608,1329 1657,1303 1691,1306 1723,1294 1790,1330 1824,1296 1849,1302 1894,1274 1890,1232 1862,1223 1824,1228 1793,1213 1746,1251 1688,1223 1657,1256 1584,1260"/>
+                <Baseline points="1595,1313 1621,1306 1648,1302 1675,1297 1701,1295 1728,1292 1755,1290 1782,1289 1808,1287 1835,1285 1862,1283 1889,1280"/>
+                <TextEquiv>
+                    <Unicode>eda Visso.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="2086,1359 2093,1359 2102,1353 2106,1355 2116,1347 2133,1346 2142,1351 2154,1347 2163,1348 2158,1294 2148,1298 2141,1296 2135,1301 2124,1294 2115,1301 2100,1295 2090,1302 2081,1302"/>
+                <Baseline points="2091,1350 2124,1344 2157,1344"/>
+                <TextEquiv>
+                    <Unicode>38</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} person {offset:0; length:14;}">
+                <Coords points="1625,1414 1665,1422 1716,1373 1740,1380 1751,1368 1834,1364 1905,1396 1948,1355 2050,1358 2047,1318 2004,1331 1920,1289 1876,1308 1808,1309 1783,1332 1703,1302 1618,1320"/>
+                <Baseline points="1628,1376 1653,1373 1679,1371 1705,1369 1731,1367 1757,1365 1783,1363 1809,1361 1835,1359 1861,1357 1887,1355 1913,1353 1939,1352 1965,1350 1991,1349 2017,1349 2043,1347"/>
+                <TextEquiv>
+                    <Unicode>Elßbet Brocher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="2133,1467 2147,1466 2161,1477 2187,1477 2193,1473 2225,1481 2218,1395 2194,1395 2188,1399 2172,1390 2159,1392 2138,1379 2126,1380"/>
+                <Baseline points="2138,1451 2164,1448 2190,1446 2216,1445"/>
+                <TextEquiv>
+                    <Unicode>62.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;} person {offset:0; length:14;}">
+                <Coords points="1626,1526 1696,1521 1749,1482 1787,1475 1806,1475 1857,1514 1888,1483 1973,1458 1971,1429 1936,1432 1856,1395 1808,1427 1762,1408 1728,1425 1621,1432"/>
+                <Baseline points="1629,1476 1655,1475 1681,1473 1707,1472 1733,1470 1759,1468 1785,1466 1811,1464 1837,1463 1863,1461 1889,1460 1915,1459 1941,1458 1967,1457"/>
+                <TextEquiv>
+                    <Unicode>Elßbath Fipher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="2233,1558 2267,1547 2291,1557 2302,1544 2313,1542 2340,1553 2354,1552 2367,1541 2390,1548 2406,1541 2404,1508 2393,1510 2381,1500 2375,1502 2335,1468 2278,1476 2256,1491 2229,1486"/>
+                <Baseline points="2238,1545 2264,1543 2291,1541 2318,1539 2345,1538 2372,1536 2399,1535"/>
+                <TextEquiv>
+                    <Unicode>85 80.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="2023,1557 2032,1554 2046,1555 2050,1550 2060,1557 2072,1556 2061,1488 2052,1489 2049,1487 2048,1489 2031,1491 2018,1484 2011,1485"/>
+                <Baseline points="2031,1566 2067,1560"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;} person {offset:0; length:14;}">
+                <Coords points="1590,1619 1622,1626 1652,1612 1679,1631 1709,1602 1776,1598 1798,1578 1897,1601 1938,1579 2021,1570 2015,1510 1971,1531 1893,1491 1858,1514 1833,1501 1764,1516 1733,1506 1656,1541 1619,1532 1585,1562"/>
+                <Baseline points="1595,1605 1621,1602 1647,1599 1673,1596 1700,1593 1726,1591 1752,1588 1778,1585 1805,1584 1831,1582 1857,1579 1883,1577 1910,1574 1936,1572 1962,1570 1988,1566 2015,1562"/>
+                <TextEquiv>
+                    <Unicode>Resbats Joneli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="2232,1685 2253,1685 2288,1704 2302,1701 2321,1716 2354,1714 2391,1699 2406,1681 2420,1687 2450,1665 2472,1667 2468,1608 2414,1603 2370,1616 2350,1610 2330,1618 2321,1610 2312,1618 2277,1603 2256,1615 2228,1612"/>
+                <Baseline points="2237,1667 2262,1666 2287,1665 2313,1662 2338,1660 2363,1658 2389,1656 2414,1656 2439,1656 2465,1659"/>
+                <TextEquiv>
+                    <Unicode>54 30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;} person {offset:0; length:15;}">
+                <Coords points="1622,1706 1672,1721 1837,1691 1908,1703 1940,1730 1972,1709 2016,1728 2092,1673 2129,1676 2123,1596 2066,1569 2023,1588 2003,1574 1958,1616 1759,1622 1709,1659 1616,1639"/>
+                <Baseline points="1628,1709 1654,1706 1680,1704 1706,1701 1732,1699 1758,1695 1784,1694 1810,1691 1836,1689 1862,1687 1888,1685 1914,1683 1940,1681 1966,1679 1992,1677 2018,1676 2044,1673 2070,1671 2096,1671 2123,1668"/>
+                <TextEquiv>
+                    <Unicode>Aesbits bitigki per.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;} person {offset:0; length:14;}">
+                <Coords points="1629,1853 1692,1875 1797,1819 1921,1872 2075,1797 2184,1790 2344,1839 2397,1819 2395,1733 2122,1778 1904,1710 1722,1749 1673,1791 1627,1779"/>
+                <Baseline points="1634,1827 1671,1824 1709,1821 1747,1819 1785,1816 1823,1814 1861,1811 1898,1809 1936,1807 1974,1805 2012,1803 2050,1802 2088,1802 2126,1801 2163,1800 2201,1802 2239,1802 2277,1803 2315,1805 2353,1808 2391,1811"/>
+                <TextEquiv>
+                    <Unicode>Eeßbeth Gÿen74.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;} person {offset:0; length:21;}">
+                <Coords points="1600,2030 1862,1968 1955,1967 2005,2007 2080,1953 2204,1934 2438,1946 2423,1898 2216,1917 2093,1869 1997,1900 1940,1872 1863,1898 1796,1871 1656,1879 1596,1915"/>
+                <Baseline points="1604,1986 1645,1979 1686,1973 1728,1967 1769,1962 1811,1959 1852,1956 1893,1955 1935,1952 1976,1950 2018,1950 2059,1949 2100,1949 2142,1949 2183,1949 2225,1949 2266,1948 2307,1947 2349,1947 2390,1946 2432,1944"/>
+                <TextEquiv>
+                    <Unicode>Elßbeth Wiechßlerin52.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="1646,2193 1840,2148 2000,2191 2180,2143 2264,2188 2373,2143 2600,2177 2601,2069 2516,2057 2428,2100 2179,2057 2074,2118 1648,2048"/>
+                <Baseline points="1653,2138 1700,2139 1747,2139 1794,2141 1841,2141 1888,2141 1935,2141 1982,2141 2029,2141 2076,2141 2124,2141 2171,2141 2218,2141 2265,2141 2312,2142 2359,2142 2406,2144 2453,2145 2500,2147 2547,2150 2595,2153"/>
+                <TextEquiv>
+                    <Unicode>Eyger, Uns, wegen Verdacht von dieb,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="1836,2258 1867,2239 1893,2240 1904,2231 1918,2244 1968,2233 1999,2243 2015,2234 2038,2249 2051,2240 2069,2242 2069,2190 2018,2182 1979,2193 1946,2170 1913,2189 1879,2166 1835,2190"/>
+                <Baseline points="1841,2232 1868,2233 1896,2234 1924,2234 1952,2234 1979,2234 2007,2232 2035,2232 2063,2232"/>
+                <TextEquiv>
+                    <Unicode>stall 10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;} person {offset:0; length:15;}">
+                <Coords points="1836,2348 1872,2321 1977,2342 2055,2309 2260,2364 2328,2315 2450,2362 2581,2318 2648,2340 2664,2270 2616,2244 2561,2277 2475,2270 2417,2224 2317,2281 2163,2237 1960,2266 1904,2231 1837,2257"/>
+                <Baseline points="1842,2306 1882,2307 1923,2309 1964,2310 2005,2310 2046,2312 2086,2312 2127,2312 2168,2313 2209,2313 2250,2313 2290,2313 2331,2313 2372,2315 2413,2315 2454,2315 2494,2316 2535,2316 2576,2317 2617,2318 2658,2319"/>
+                <TextEquiv>
+                    <Unicode>Peter, v. Hndli, wegen zrohworten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="1836,2397 1876,2414 1907,2408 1919,2419 1959,2410 1975,2419 2008,2421 2025,2410 2066,2418 2093,2408 2097,2351 2071,2343 2040,2366 1980,2339 1962,2353 1949,2346 1910,2356 1883,2329 1838,2349"/>
+                <Baseline points="1842,2393 1869,2396 1896,2398 1924,2400 1951,2401 1978,2403 2006,2405 2033,2405 2060,2406 2088,2408"/>
+                <TextEquiv>
+                    <Unicode>A. 15 16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>9 b
+Elßbet Kamerßtorffer Jo¬
+Ellshet Buttikofer 22
+24
+Rlßbet Hoffer.
+24.
+Elsbet Pfenninger
+34
+Elßbet Wugger
+3.
+Stiene Caio
+71
+estiene Jenan
+38.
+eda Visso.
+38
+Elßbet Brocher
+62.
+Elßbath Fipher
+85 80.
+
+Resbats Joneli
+54 30.
+Aesbits bitigki per.
+Eeßbeth Gÿen74.
+Elßbeth Wiechßlerin52.
+Eyger, Uns, wegen Verdacht von dieb,
+stall 10.
+Peter, v. Hndli, wegen zrohworten
+A. 15 16.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2697,1476 2697,2431 2766,2431 2766,1476"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2701,1581 2723,1581 2729,1585 2739,1583 2743,1578 2750,1582 2752,1579 2762,1577 2755,1510 2743,1510 2723,1499 2717,1504 2711,1502 2700,1515 2694,1515"/>
+                <Baseline points="2705,1568 2754,1563"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2706,1772 2719,1771 2720,1773 2727,1772 2730,1775 2742,1774 2755,1681 2740,1677 2724,1685 2717,1684"/>
+                <Baseline points="2715,1751 2739,1754"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2706,2000 2719,2001 2743,1991 2754,1997 2762,1991 2770,1992 2776,1896 2768,1896 2744,1873 2728,1864 2714,1867"/>
+                <Baseline points="2715,1961 2740,1962 2766,1964"/>
+                <TextEquiv>
+                    <Unicode>d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2693,2243 2705,2245 2710,2240 2731,2236 2755,2249 2768,2250 2759,2158 2753,2158 2742,2166 2725,2156 2709,2167 2694,2158 2685,2158"/>
+                <Baseline points="2697,2229 2728,2226 2760,2223"/>
+                <TextEquiv>
+                    <Unicode>33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="2701,2403 2712,2405 2717,2402 2723,2405 2727,2401 2735,2404 2742,2401 2743,2403 2750,2395 2757,2394 2752,2327 2744,2329 2733,2319 2725,2316 2719,2322 2709,2320 2695,2324"/>
+                <Baseline points="2706,2391 2751,2388"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8
+3
+d.
+33
+1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2748,1301 2748,1451 2781,1451 2781,1301"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2742,1425 2762,1424 2765,1420 2774,1422 2778,1417 2787,1418 2787,1328 2776,1327 2770,1330 2764,1327 2748,1337 2742,1337"/>
+                <Baseline points="2748,1401 2781,1401"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

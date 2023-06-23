@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_10:18
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.3.1:model_id=26190:lm=none:date=10_10_2020_10:18
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6</Creator>
+        <Created>2020-10-10T09:21:54.412+02:00</Created>
+        <LastChange>2022-09-09T15:25:16.635+02:00</LastChange>
+        <TranskribusMetadata docId="1334823" pageId="52360120" pageNr="25" tsid="114641877" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=ILBUFWMYTGMPSCLYXUSJHQWQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MNWVHQGCAKIIEGEXMVWIAZIU" imageId="16417002"/>
+    </Metadata>
+    <Page imageFilename="470_013.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513756236" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1598,516 1598,814 2810,814 2810,516"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:3; length:6;}">
+                <Coords points="1591,737 1910,688 2052,709 2106,666 2199,694 2307,637 2414,689 2724,585 2822,595 2808,493 2772,491 1881,624 1703,603 1580,655"/>
+                <Baseline points="1598,728 1658,718 1719,709 1779,698 1840,689 1901,679 1961,670 2022,662 2082,653 2143,644 2204,636 2264,628 2325,621 2385,613 2446,605 2507,597 2567,590 2628,582 2688,576 2749,569 2810,563"/>
+                <TextEquiv>
+                    <Unicode>M. Cassar. 1. St. Mlästi begen verdächtigen Schläßetn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1798,839 1915,832 1960,790 2041,765 2113,776 2188,756 2242,779 2291,737 2320,738 2309,652 2192,699 2127,669 2053,709 2002,693 1981,708 1894,701 1873,724 1784,730"/>
+                <Baseline points="1800,791 1825,789 1851,788 1876,785 1902,782 1928,779 1953,775 1979,771 2004,768 2030,764 2056,760 2081,756 2107,752 2132,748 2158,744 2184,740 2209,738 2235,734 2260,731 2286,730 2312,728"/>
+                <TextEquiv>
+                    <Unicode>n Jestomenten. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>M. Cassar. 1. St. Mlästi begen verdächtigen Schläßetn
+n Jestomenten. 2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-08T09:53:17.142+02:00</Created>
+        <LastChange>2022-09-09T17:27:24.304+02:00</LastChange>
+        <TranskribusMetadata docId="1334768" pageId="52352989" pageNr="126" tsid="114634532" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=VGLTJMYYFQMUHVCGRHGJFSPU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PKNJZKXQOTQONHUUGNGORNZW" imageId="20183657"/>
+    </Metadata>
+    <Page imageFilename="IMG_4477.JPG" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687514114090" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1670,409 1670,564 2408,564 2408,409"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:5; length:15;} person {offset:29; length:3; continued:true;}">
+                <Coords points="1660,493 1712,462 1955,485 2065,450 2175,492 2243,456 2339,493 2418,467 2419,416 2369,380 2314,412 2173,374 2037,411 1987,377 1952,398 1664,359"/>
+                <Baseline points="1670,452 1706,450 1743,449 1780,447 1817,447 1854,446 1891,446 1928,446 1965,446 2002,446 2039,447 2075,447 2112,449 2149,450 2186,452 2223,455 2260,457 2297,459 2334,462 2371,466 2408,470"/>
+                <TextEquiv>
+                    <Unicode>Jold Peter Christman. Verhör Ott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:14; continued:true;}">
+                <Coords points="1666,572 1704,550 1858,568 1960,541 2098,560 2127,586 2184,543 2282,576 2406,548 2406,501 2375,482 2201,503 2112,466 2008,483 1983,465 1837,506 1695,472 1666,488"/>
+                <Baseline points="1674,539 1710,539 1746,539 1782,537 1818,537 1854,537 1890,537 1927,537 1963,537 1999,537 2035,537 2071,537 2107,537 2143,539 2180,539 2216,539 2252,540 2288,541 2324,542 2360,544 2397,545"/>
+                <TextEquiv>
+                    <Unicode>Zimerman Bladi. Verhör. 96 108.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jold Peter Christman. Verhör Ott
+Zimerman Bladi. Verhör. 96 108.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

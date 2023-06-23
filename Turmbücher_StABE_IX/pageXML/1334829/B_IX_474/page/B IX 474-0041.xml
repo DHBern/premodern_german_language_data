@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>P2PaLA-PRHLT</Creator>
+        <Created>2023-06-21T16:15:00</Created>
+        <LastChange>2023-06-21T16:17:44.331+02:00</LastChange>
+        <TranskribusMetadata docId="1334829" pageId="52361002" pageNr="41" tsid="127447023" status="IN_PROGRESS" userId="42748" imgUrl="https://files.transkribus.eu/Get?id=QNKRQXKSMTEQWGVEUVRCVUFE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OQQQXVTJYYRUIAKTHITMIUUE" imageId="16045498"/>
+    </Metadata>
+    <Page imageFilename="B IX 474-0041.jpg" imageWidth="2481" imageHeight="3308">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513739044" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rehfC_4"/>
+                <RegionRefIndexed index="1" regionRef="ryYG2_3"/>
+                <RegionRefIndexed index="2" regionRef="rNuee_2"/>
+                <RegionRefIndexed index="3" regionRef="rwmJc_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="rehfC_4" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="410,54 2241,54 2241,2939 410,2939"/>
+        </TextRegion>
+        <TextRegion id="ryYG2_3" custom="readingOrder {index:1;} structure {type:marginalia;}">
+            <Coords points="1269,500 1372,500 1372,633 1269,633"/>
+        </TextRegion>
+        <TextRegion id="rNuee_2" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="1308,109 2261,109 2261,491 1308,491"/>
+        </TextRegion>
+        <TextRegion id="rwmJc_1" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="2161,1941 2235,1941 2235,2054 2161,2054"/>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M5.4(htr_id=38771)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:22:00.206+02:00</Created>
+        <LastChange>2022-09-12T15:30:25.771+02:00</LastChange>
+        <TranskribusMetadata docId="1334850" pageId="52363487" pageNr="176" tsid="114645492" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=LDJKQCNELJYRETMTJBEQOUCB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AGHHDHLDTHWYFSZOKMIMVGBD" imageId="30688825"/>
+    </Metadata>
+    <Page imageFilename="IMG_6989.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513631452" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1491,439 1491,635 2670,635 2670,439"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:24;}">
+                <Coords points="1490,509 2046,486 2296,553 2517,528 2621,573 2676,552 2679,484 2474,440 2193,461 2136,421 2048,467 1880,402 1670,447 1494,411"/>
+                <Baseline points="1497,497 1555,489 1614,485 1672,483 1731,480 1790,480 1848,480 1907,483 1966,485 2024,489 2083,492 2142,497 2200,502 2259,506 2318,510 2376,516 2435,520 2494,523 2552,527 2611,530 2670,530"/>
+                <TextEquiv>
+                    <Unicode>Riener Christen von Groß Hochstenden Cagit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:6; continued:true;}">
+                <Coords points="1485,608 1522,611 1529,604 1559,614 1574,600 1591,603 1602,592 1622,604 1636,592 1669,587 1662,493 1640,487 1587,509 1552,495 1525,508 1508,504 1479,521"/>
+                <Baseline points="1491,585 1519,581 1547,578 1576,576 1604,574 1632,573 1661,572"/>
+                <TextEquiv>
+                    <Unicode>Köhler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:10; continued:true;} place {offset:15; length:8;}">
+                <Coords points="1731,611 1946,572 2277,641 2366,605 2601,621 2603,585 2536,544 2356,531 2268,571 2202,520 2120,543 2030,495 1853,536 1737,504"/>
+                <Baseline points="1740,570 1782,570 1825,570 1868,570 1910,571 1953,572 1996,574 2038,576 2081,578 2124,581 2167,583 2209,587 2252,590 2295,593 2337,596 2380,600 2423,603 2465,607 2508,610 2551,613 2594,615"/>
+                <TextEquiv>
+                    <Unicode>Hieronimus von Brügglen. 22. t.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Riener Christen von Groß Hochstenden Cagit.
+Köhler
+Hieronimus von Brügglen. 22. t.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2553,3197 2553,3473 2624,3473 2624,3197"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2568,3292 2580,3290 2589,3295 2603,3286 2615,3292 2631,3287 2631,3192 2618,3196 2612,3193 2603,3198 2600,3195 2593,3199 2587,3196 2568,3199"/>
+                <Baseline points="2576,3275 2624,3275"/>
+                <TextEquiv>
+                    <Unicode>d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2544,3461 2557,3463 2570,3455 2600,3460 2604,3456 2613,3459 2625,3456 2630,3338 2610,3334 2588,3338 2582,3333 2570,3339 2550,3330"/>
+                <Baseline points="2553,3431 2586,3431 2619,3434"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>d
+2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

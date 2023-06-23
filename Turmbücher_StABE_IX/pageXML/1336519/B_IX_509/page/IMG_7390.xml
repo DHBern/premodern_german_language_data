@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T16:14:04.249+02:00</Created>
+        <LastChange>2023-06-19T09:43:53.081+02:00</LastChange>
+        <TranskribusMetadata docId="1336519" pageId="52421727" pageNr="188" tsid="127236230" status="IN_PROGRESS" userId="68497" imgUrl="https://files.transkribus.eu/Get?id=BQGSHJXXCUNQBOSNMPTEJLRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYYUPPDHOUJOBTBHSJPYPWIB" imageId="30695418"/>
+    </Metadata>
+    <Page imageFilename="IMG_7390.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513564026" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1687160623211_797"/>
+                <RegionRefIndexed index="1" regionRef="region_1674124861077_2519"/>
+                <RegionRefIndexed index="2" regionRef="region_1674124863575_2522"/>
+                <RegionRefIndexed index="3" regionRef="region_1674124868157_2525"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="TextRegion_1687160623211_797" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="663,524 935,524 1558,535 1558,719 1149,719 663,716"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1674124861077_2519" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1451,1125 853,1125 853,719 1451,719"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1674124863575_2522" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="2686,726 2354,726 2354,651 2686,651"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1674124868157_2525" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="2738,995 2036,995 2036,729 2738,729"/>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-11T13:10:31.068+02:00</Created>
+        <LastChange>2022-09-09T15:18:32.962+02:00</LastChange>
+        <TranskribusMetadata docId="1334770" pageId="52352746" pageNr="2" tsid="114634286" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=XRPOSJVQSYEKUVNDCVWCVMGO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ACALQVCIMOTCQQLTHYABFUOR" imageId="16491283"/>
+    </Metadata>
+    <Page imageFilename="IMG_2231.JPG" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687514096352" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1386,3557 1386,3842 1542,3842 1542,3557"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1391,3645 1413,3643 1434,3628 1476,3630 1485,3625 1514,3659 1526,3661 1532,3585 1514,3583 1498,3570 1472,3563 1397,3567"/>
+                <Baseline points="1404,3617 1432,3620 1461,3623 1489,3626 1518,3626"/>
+                <TextEquiv>
+                    <Unicode>51. a 6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1406,3705 1428,3706 1446,3700 1505,3713 1508,3653 1496,3655 1468,3649 1450,3657 1438,3648 1430,3648 1424,3641 1408,3643"/>
+                <Baseline points="1415,3696 1442,3695 1469,3697 1496,3699"/>
+                <TextEquiv>
+                    <Unicode>612</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1376,3812 1438,3813 1458,3834 1474,3838 1502,3836 1517,3823 1552,3819 1558,3739 1537,3746 1507,3746 1497,3739 1479,3748 1467,3739 1437,3739 1382,3723"/>
+                <Baseline points="1386,3803 1412,3805 1438,3806 1464,3808 1490,3810 1516,3812 1542,3815"/>
+                <TextEquiv>
+                    <Unicode>428</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>51. a 6
+612
+428</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1596,380 1596,530 1611,530 1611,380"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1586,520 1598,520 1606,514 1622,514 1622,398 1610,398 1606,394 1602,396 1586,394"/>
+                <Baseline points="1596,480 1611,480"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
