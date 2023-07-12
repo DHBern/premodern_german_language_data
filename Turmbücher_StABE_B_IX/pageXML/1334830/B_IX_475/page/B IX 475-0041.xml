@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T10:49:39.068+02:00</Created>
+        <LastChange>2020-11-10T18:44:40.716+01:00</LastChange>
+        <TranskribusMetadata docId="1334830" pageId="52361032" pageNr="41" tsid="114642810" status="GT" userId="68485" imgUrl="https://files.transkribus.eu/Get?id=HYLECOGCGTZZBRMCZOZRHPFS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTEKOEVUEOVBEHGOSOAHHJII" imageId="16044348"/>
+    </Metadata>
+    <Page imageFilename="B IX 475-0041.jpg" imageWidth="2481" imageHeight="3308">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513735424" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="330,203 327,3042 1310,3042 1313,203"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} NN {offset:3; length:4;} unclear {offset:8; length:7;} NE {offset:8; length:7;} VFINAUX {offset:20; length:3;}">
+                <Coords points="571,282 632,277 662,315 711,289 750,326 807,311 834,355 908,377 975,355 1046,422 1112,401 1248,474 1257,391 1178,392 1114,332 1071,342 913,298 842,242 784,263 702,215 629,242 593,203"/>
+                <Baseline points="582,267 615,273 648,279 681,285 715,291 748,297 781,305 814,312 848,319 881,327 914,335 947,345 981,355 1014,364 1047,375 1080,388 1114,399 1147,413 1180,426 1213,441 1309,519"/>
+                <TextEquiv>
+                    <Unicode>Im Huss Zansche ... hat doch b¨keinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} PRON {offset:0; length:3;} unclear {offset:4; length:8;} VFINAUX {offset:12; length:8;} VFINAUX {offset:27; length:12;}">
+                <Coords points="576,363 637,379 682,356 733,400 773,376 883,394 920,433 1053,446 1185,507 1212,449 1128,437 1097,404 1052,421 961,362 919,378 847,362 807,319 750,326 709,288 655,316 595,279"/>
+                <Baseline points="585,347 615,350 646,351 677,354 707,358 738,362 769,368 799,373 830,380 861,386 892,392 922,400 953,408 984,417 1014,425 1045,434 1076,443 1106,453 1137,463 1168,472 1314,577"/>
+                <TextEquiv>
+                    <Unicode>des Schütten angeben, oder wüss wöllten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="380,746 400,748 419,764 446,753 478,755 481,704 466,702 464,705 455,699 439,699 433,694 420,702 403,699 389,708 382,707"/>
+                <Baseline points="386,737 415,743 444,744 473,743"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} person {offset:0; length:11;} NE {offset:0; length:11;}">
+                <Coords points="628,730 689,748 716,739 795,787 868,752 917,777 1024,788 1037,702 955,680 909,706 871,705 790,666 738,668 673,693 636,675"/>
+                <Baseline points="635,726 660,726 686,728 712,731 737,733 763,735 789,739 814,743 840,746 866,751 891,756 917,760 943,765 968,770 994,775 1020,779"/>
+                <TextEquiv>
+                    <Unicode>Caspar Lüti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} place {offset:4; length:12;} NE {offset:4; length:12;}">
+                <Coords points="644,775 681,772 731,814 763,796 789,818 812,809 878,823 909,806 935,827 987,826 1038,845 1042,813 1005,783 981,794 956,777 909,777 885,760 839,757 811,728 729,751 676,743 646,758"/>
+                <Baseline points="648,789 673,787 699,786 725,788 751,789 777,791 802,794 828,797 854,801 880,805 906,810 931,815 957,819 983,823 1009,826 1035,830"/>
+                <TextEquiv>
+                    <Unicode>von Bätterkinden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} VFINAUX {offset:0; length:3;} ADJ {offset:21; length:5;} NE {offset:27; length:14;}">
+                <Coords points="440,888 648,935 976,942 1099,1001 1165,982 1271,1019 1289,950 919,875 732,879 596,822 444,861"/>
+                <Baseline points="447,881 488,884 529,888 571,890 612,895 654,899 695,902 736,908 778,912 819,917 864,924 905,930 943,935 985,942 1026,949 1068,959 1109,966 1150,976 1192,985 1233,996 1312,1042"/>
+                <TextEquiv>
+                    <Unicode>Ist schon hinuon mit übrig Bätterkindnern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;} ADJ {offset:0; length:8;} ADV {offset:14; length:11;} VFINAUX {offset:26; length:4;} PRON {offset:36; length:2;} PRON {offset:39; length:4;}">
+                <Coords points="572,984 724,966 1026,1013 1079,1042 1131,1027 1172,1059 1277,1078 1300,1078 1307,1037 1182,987 1137,1008 903,941 829,960 707,923 580,928"/>
+                <Baseline points="582,953 617,956 653,961 689,965 724,969 760,973 796,977 831,981 867,986 903,990 939,996 974,1001 1010,1006 1046,1013 1081,1019 1117,1026 1153,1033 1188,1041 1224,1050 1260,1060 1315,1088"/>
+                <TextEquiv>
+                    <Unicode>yngelegt vndt bekandtlich gsin, daß er sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} PRON {offset:8; length:7;} place {offset:24; length:10;} NN {offset:24; length:10;} VFINAUX {offset:35; length:2; continued:true;}">
+                <Coords points="586,1026 751,1022 886,1060 955,1054 981,1079 1081,1065 1189,1118 1235,1106 1283,1131 1297,1080 1193,1079 1134,1030 1057,1040 998,1007 961,1028 877,1022 835,983 781,1006 724,968 591,992"/>
+                <Baseline points="594,1014 628,1017 663,1020 697,1022 732,1025 767,1029 801,1032 836,1035 870,1040 905,1044 940,1049 974,1053 1009,1060 1043,1065 1078,1071 1113,1078 1147,1086 1182,1094 1216,1101 1251,1110 1286,1119"/>
+                <TextEquiv>
+                    <Unicode>nebendt anderen auch im Tiergarten be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} VFINAUX {offset:0; length:6; continued:true;} VFINAUX {offset:11; length:5;} PRON {offset:21; length:9;} VFINAUX {offset:31; length:10;}">
+                <Coords points="564,1104 723,1075 751,1102 1180,1144 1295,1202 1310,1133 1207,1127 1089,1072 1004,1100 857,1047 759,1070 628,1022 574,1027"/>
+                <Baseline points="573,1074 609,1076 645,1078 681,1080 718,1083 754,1085 790,1089 827,1092 863,1096 899,1099 936,1105 972,1108 1008,1114 1044,1119 1081,1125 1117,1131 1153,1139 1190,1147 1226,1154 1262,1163 1316,1199"/>
+                <TextEquiv>
+                    <Unicode>funden vndt were mit denselben liberieren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} VFINAUX {offset:0; length:6;} PRON {offset:16; length:2;} NN {offset:22; length:8;} VINFZU {offset:31; length:6;}">
+                <Coords points="567,1143 668,1163 724,1136 1280,1223 1283,1191 1182,1144 1075,1155 882,1109 843,1133 790,1100 749,1118 695,1093 570,1115"/>
+                <Baseline points="573,1139 608,1139 643,1140 678,1142 713,1143 748,1145 783,1147 818,1152 853,1154 888,1159 924,1162 959,1167 994,1171 1029,1176 1064,1181 1099,1187 1134,1192 1169,1197 1204,1202 1239,1208 1275,1214"/>
+                <TextEquiv>
+                    <Unicode>worden, wan nit er in verdacht kommen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} VFINAUX {offset:3; length:5;} PRON {offset:9; length:2;} PRON {offset:12; length:3;} NN {offset:16; length:3;} NE {offset:20; length:11;} NE {offset:36; length:5; continued:true;}">
+                <Coords points="569,1210 805,1220 970,1269 1028,1245 1138,1250 1197,1291 1238,1267 1299,1297 1305,1240 1242,1252 1161,1207 986,1183 864,1197 797,1158 761,1182 574,1162"/>
+                <Baseline points="576,1200 612,1203 648,1206 684,1209 720,1212 756,1215 792,1217 828,1219 864,1222 900,1224 936,1228 972,1230 1008,1234 1044,1237 1080,1242 1116,1247 1152,1251 1188,1256 1224,1262 1260,1268 1296,1275"/>
+                <TextEquiv>
+                    <Unicode>ob hette er den her Wundinanten zuo Schü¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;} NE {offset:0; length:4; continued:true;} VFINAUX {offset:5; length:7;} VINFZU {offset:13; length:6;} ADJ {offset:30; length:4; continued:true;}">
+                <Coords points="562,1298 736,1281 834,1308 901,1292 952,1315 1286,1337 1288,1308 1239,1268 1202,1293 1085,1251 974,1268 794,1230 689,1251 638,1221 567,1230"/>
+                <Baseline points="570,1263 605,1266 641,1268 676,1271 712,1273 747,1274 783,1276 818,1277 854,1280 889,1282 925,1284 961,1286 996,1289 1032,1292 1067,1295 1103,1299 1138,1303 1174,1307 1209,1313 1245,1318 1281,1325"/>
+                <TextEquiv>
+                    <Unicode>pfen hertnen wollen: Vngeacht ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} ADJ {offset:0; length:5; continued:true;} NN {offset:6; length:8;} VFINAUX {offset:16; length:3;} PRON {offset:20; length:2;} VFINAUX {offset:34; length:2; continued:true;}">
+                <Coords points="566,1329 822,1340 933,1356 963,1382 1002,1356 1165,1386 1197,1363 1264,1397 1289,1356 1246,1327 1059,1337 1030,1310 568,1300"/>
+                <Baseline points="572,1322 607,1323 642,1325 678,1326 713,1328 749,1331 784,1332 820,1334 855,1337 891,1340 926,1343 961,1345 997,1348 1032,1351 1068,1355 1103,1359 1139,1361 1174,1366 1210,1370 1245,1373 1281,1379"/>
+                <TextEquiv>
+                    <Unicode>neren examinis. hat er anders nit ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;} VFINAUX {offset:0; length:7; continued:true;} VINFZU {offset:8; length:4;} VFINAUX {offset:13; length:6;} PRON {offset:28; length:2;} PRON {offset:31; length:3;} NN {offset:35; length:3;}">
+                <Coords points="568,1401 697,1428 739,1397 916,1414 995,1395 1058,1427 1127,1417 1276,1449 1280,1397 1203,1403 1126,1372 1096,1387 1009,1358 966,1385 902,1356 788,1374 741,1339 707,1367 653,1334 617,1360 573,1340"/>
+                <Baseline points="576,1379 610,1380 645,1380 680,1382 715,1383 750,1385 784,1387 819,1388 854,1392 889,1394 924,1397 958,1399 993,1402 1028,1405 1063,1409 1098,1413 1132,1417 1167,1422 1202,1425 1237,1431 1272,1434"/>
+                <TextEquiv>
+                    <Unicode>stendig sein wellen, so daß er den her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;} VFINAUX {offset:0; length:6;} PRON {offset:11; length:2;} ADJ {offset:14; length:4;} ADJ {offset:24; length:4;} ADJ {offset:29; length:4;}">
+                <Coords points="552,1481 638,1491 698,1458 725,1475 789,1460 859,1489 911,1461 1072,1490 1103,1475 1212,1510 1253,1495 1255,1456 1199,1432 1063,1441 1038,1423 1003,1443 976,1412 935,1437 900,1414 843,1428 738,1401 693,1428 621,1397 555,1427"/>
+                <Baseline points="560,1446 594,1448 628,1448 663,1449 697,1449 732,1451 766,1452 800,1453 835,1454 869,1456 904,1458 938,1460 972,1463 1007,1465 1041,1467 1076,1469 1110,1473 1144,1476 1179,1479 1213,1482 1248,1485"/>
+                <TextEquiv>
+                    <Unicode>gfragt, ob er hert oder lind sige?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;} VFINAUX {offset:0; length:5;} NN {offset:10; length:12;}">
+                <Coords points="557,1582 735,1576 824,1602 866,1582 915,1603 943,1582 1049,1610 1113,1595 1151,1630 1227,1607 1279,1627 1283,1543 1226,1508 1142,1557 1109,1540 1054,1568 731,1518 643,1544 560,1513"/>
+                <Baseline points="564,1566 599,1568 635,1568 670,1569 706,1569 741,1571 777,1571 812,1572 848,1574 883,1575 919,1577 955,1578 990,1581 1026,1583 1061,1584 1097,1587 1132,1589 1168,1592 1203,1595 1239,1597 1292,1609"/>
+                <TextEquiv>
+                    <Unicode>möcht inß Schallenwerck auf gnadhig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} NN {offset:0; length:5;} organization {offset:0; length:4;}">
+                <Coords points="334,1598 379,1612 397,1603 413,1607 427,1597 454,1600 463,1592 480,1604 500,1594 516,1603 513,1534 486,1533 470,1521 450,1526 436,1513 424,1515 398,1501 365,1536 332,1549"/>
+                <Baseline points="339,1586 367,1587 396,1586 424,1584 453,1582 481,1581 510,1581"/>
+                <TextEquiv>
+                    <Unicode>K. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;} VFINAUX {offset:0; length:8;} VFINAUX {offset:9; length:7;}">
+                <Coords points="560,1632 580,1623 609,1648 666,1621 798,1635 865,1628 909,1641 910,1606 873,1583 826,1607 785,1589 761,1601 743,1582 718,1579 686,1593 647,1582 623,1596 561,1600"/>
+                <Baseline points="566,1623 591,1621 617,1620 643,1619 669,1619 695,1619 721,1619 747,1620 773,1621 799,1623 825,1624 851,1626 877,1629 903,1631"/>
+                <TextEquiv>
+                    <Unicode>erkeendt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;} PRON {offset:3; length:3;} date {offset:7; length:12;} NN {offset:31; length:7;}">
+                <Coords points="549,1709 807,1682 929,1708 1001,1683 1149,1718 1209,1688 1274,1715 1274,1643 1021,1635 944,1670 872,1633 837,1653 753,1628 670,1660 550,1642"/>
+                <Baseline points="555,1685 590,1683 626,1682 661,1682 697,1682 733,1682 768,1682 804,1682 840,1682 875,1682 911,1683 947,1683 982,1683 1018,1685 1054,1685 1089,1686 1125,1686 1161,1687 1196,1688 1232,1688 1268,1689"/>
+                <TextEquiv>
+                    <Unicode>It den 5. july 1653 auf abtrag Costens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;} PRON {offset:5; length:3;} ADJ {offset:9; length:4;} NN {offset:14; length:5;} VFINAUX {offset:21; length:9;}">
+                <Coords points="548,1749 643,1746 697,1779 833,1733 863,1750 1188,1754 1199,1692 1159,1720 1001,1683 919,1707 843,1705 808,1681 549,1710"/>
+                <Baseline points="554,1737 587,1736 621,1734 654,1731 688,1730 722,1728 755,1728 789,1728 823,1728 856,1728 890,1728 923,1730 957,1730 991,1731 1024,1733 1058,1735 1092,1736 1125,1737 1159,1740 1193,1742"/>
+                <TextEquiv>
+                    <Unicode>vndt ein gute Censur Liberiert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="1093,1956 1106,1955 1108,1953 1115,1954 1120,1953 1116,1912 1111,1912 1110,1914 1104,1911 1089,1913"/>
+                <Baseline points="1098,1944 1113,1943"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;} person {offset:0; length:11;} NE {offset:0; length:11;}">
+                <Coords points="582,1943 781,1957 820,1990 896,1948 1070,1962 1072,1882 1015,1895 980,1883 869,1803 752,1756 657,1798 586,1792"/>
+                <Baseline points="588,1929 613,1933 638,1936 663,1940 688,1942 713,1944 738,1946 763,1947 788,1948 813,1949 839,1949 864,1949 889,1949 914,1949 939,1949 964,1949 989,1947 1014,1947 1039,1947 1065,1946"/>
+                <TextEquiv>
+                    <Unicode>Geörg Krebs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="322,2009 331,2005 348,2006 359,2017 376,2019 392,2006 408,2007 406,1951 391,1946 382,1952 372,1947 354,1951 346,1948 340,1954 335,1951 320,1955"/>
+                <Baseline points="327,1998 352,1998 377,1998 402,1995"/>
+                <TextEquiv>
+                    <Unicode>15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;} PRON {offset:0; length:3;} NN {offset:4; length:5;} PRON {offset:14; length:3;} NN {offset:18; length:7;}">
+                <Coords points="578,2000 633,2017 752,2005 784,2033 934,2000 1007,2005 1045,2031 1175,2017 1174,1948 1135,1972 1035,1952 944,1976 909,1953 875,1983 818,1989 744,1955 646,1988 578,1965"/>
+                <Baseline points="584,2000 613,2000 642,2001 671,2001 701,2001 730,2001 759,2001 788,2001 818,2001 847,2001 876,2000 905,2000 935,2000 964,2000 993,2000 1022,1998 1052,1998 1081,1998 1110,1998 1139,1998 1169,1998"/>
+                <TextEquiv>
+                    <Unicode>Ein Tagner in der haldten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;} PRON {offset:0; length:4;} DIWO {offset:4; length:8;} NN {offset:4; length:8;} place {offset:13; length:5;} NE {offset:13; length:5;}">
+                <Coords points="598,2075 775,2057 814,2071 875,2054 943,2089 976,2087 1052,2059 1051,2002 982,2022 949,2005 910,2020 837,2010 787,2033 749,2005 717,2025 651,2012 597,2032"/>
+                <Baseline points="603,2055 629,2054 655,2054 681,2054 707,2054 733,2054 759,2052 785,2052 811,2052 837,2051 863,2051 889,2051 915,2050 941,2049 967,2049 993,2049 1019,2048 1046,2048"/>
+                <TextEquiv>
+                    <Unicode>der kilchöni Belpp.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;} VFINAUX {offset:0; length:11;} PRON {offset:18; length:3;} NN {offset:34; length:9;}">
+                <Coords points="391,2174 556,2195 650,2161 762,2182 791,2153 823,2175 902,2146 1306,2145 1303,2084 1253,2074 1116,2125 1034,2089 979,2121 628,2096 515,2127 445,2092 389,2134"/>
+                <Baseline points="396,2174 441,2171 486,2169 531,2167 576,2165 621,2162 666,2160 712,2157 757,2154 802,2152 847,2148 892,2147 937,2144 982,2141 1028,2139 1073,2136 1118,2135 1163,2133 1208,2130 1253,2130 1299,2129"/>
+                <TextEquiv>
+                    <Unicode>Hat bekendt, Nach den Immer eineß zienstags</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;} PRON {offset:4; length:5;} NN {offset:10; length:7;} PRON {offset:27; length:3;} NN {offset:31; length:5;}">
+                <Coords points="535,2239 1293,2186 1282,2134 1156,2164 1035,2143 865,2187 784,2159 744,2196 649,2169 603,2210 532,2193"/>
+                <Baseline points="540,2229 577,2226 614,2222 651,2217 689,2214 726,2211 763,2208 801,2205 838,2201 875,2199 913,2196 950,2195 987,2192 1024,2190 1062,2187 1099,2186 1136,2183 1174,2180 1211,2178 1248,2177 1286,2174"/>
+                <TextEquiv>
+                    <Unicode>von synen frouwen anso auß der statt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;} VINFZU {offset:0; length:6;} ADJ {offset:16; length:6;} NN {offset:23; length:5;} PRON {offset:32; length:3;}">
+                <Coords points="532,2304 1094,2244 1187,2274 1226,2235 1278,2239 1275,2194 1203,2210 1085,2188 940,2232 890,2203 806,2244 751,2212 654,2261 597,2266 561,2236 528,2252"/>
+                <Baseline points="537,2292 573,2286 610,2282 647,2277 684,2273 720,2269 757,2266 794,2262 831,2259 867,2255 904,2253 941,2250 978,2247 1014,2246 1051,2242 1088,2240 1125,2238 1161,2235 1198,2233 1235,2230 1272,2228"/>
+                <TextEquiv>
+                    <Unicode>kommen, daß vil frombs volck by der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;} NE {offset:0; length:13;} place {offset:0; length:13;} VFINAUX {offset:14; length:3;}">
+                <Coords points="528,2393 590,2350 790,2330 871,2360 951,2303 1010,2329 1134,2310 1217,2336 1282,2294 1276,2238 1224,2236 1188,2274 1140,2247 1100,2273 847,2258 703,2322 629,2302 601,2333 521,2317"/>
+                <Baseline points="531,2358 568,2352 605,2348 642,2342 679,2337 717,2333 754,2328 791,2325 828,2321 865,2317 903,2315 940,2311 977,2308 1014,2306 1051,2303 1089,2300 1126,2297 1163,2295 1200,2292 1237,2289 1291,2286"/>
+                <TextEquiv>
+                    <Unicode>gümmenen brug sye anzeigt, undt gans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;} PRON {offset:15; length:5;} ADJ {offset:21; length:6;} NN {offset:28; length:3;}">
+                <Coords points="501,2435 768,2395 994,2402 1063,2368 1109,2397 1132,2369 1295,2358 1288,2291 1245,2333 1096,2318 815,2377 690,2349 633,2355 598,2395 555,2378 498,2404"/>
+                <Baseline points="504,2414 543,2412 582,2408 621,2406 660,2404 699,2400 738,2397 778,2394 817,2391 856,2387 895,2383 934,2379 973,2376 1012,2372 1052,2366 1091,2362 1130,2359 1169,2353 1208,2349 1247,2344 1307,2332"/>
+                <TextEquiv>
+                    <Unicode>daruf imme von einem gwüßen man aus..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;} VINFZU {offset:19; length:5;} VFINAUX {offset:25; length:6;} PRON {offset:33; length:3;}">
+                <Coords points="523,2488 728,2494 801,2455 940,2474 1033,2429 1164,2444 1269,2416 1264,2371 1198,2363 1059,2415 963,2385 934,2407 518,2432"/>
+                <Baseline points="527,2474 563,2472 600,2468 637,2466 674,2464 710,2461 747,2458 784,2455 821,2452 857,2450 894,2447 931,2444 968,2440 1004,2437 1041,2432 1078,2428 1115,2424 1151,2420 1188,2415 1225,2410 1262,2405"/>
+                <TextEquiv>
+                    <Unicode>Brandholtz beurlch geben worden, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;} NN {offset:0; length:8;} VINFZU {offset:29; length:5;}">
+                <Coords points="520,2557 557,2539 713,2568 801,2521 969,2536 1075,2499 1191,2525 1288,2476 1284,2433 1233,2428 1162,2472 1034,2482 988,2459 941,2489 798,2465 731,2494 515,2494"/>
+                <Baseline points="525,2541 562,2538 600,2534 638,2531 676,2527 714,2523 751,2522 789,2518 827,2516 865,2513 903,2510 940,2507 978,2504 1016,2501 1054,2497 1092,2494 1129,2488 1167,2484 1205,2479 1243,2473 1306,2459"/>
+                <TextEquiv>
+                    <Unicode>Völcker zum hilf aufgemanen, haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;} PRON {offset:0; length:5;} ADJ {offset:10; length:5;} place {offset:23; length:5;}">
+                <Coords points="523,2622 576,2630 598,2606 658,2635 705,2591 904,2576 935,2597 1044,2555 1110,2575 1188,2539 1235,2554 1282,2539 1277,2486 1181,2529 1075,2498 1028,2542 986,2526 939,2553 794,2526 689,2572 516,2557"/>
+                <Baseline points="527,2609 564,2604 601,2600 639,2594 676,2591 714,2586 751,2583 788,2580 826,2577 863,2574 901,2570 938,2566 975,2563 1013,2559 1050,2556 1088,2552 1125,2549 1162,2544 1200,2539 1237,2535 1275,2529"/>
+                <TextEquiv>
+                    <Unicode>sich also baldt nacher Belpp vndt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;} PRON {offset:21; length:3;} NE {offset:25; length:4;} place {offset:25; length:4;}">
+                <Coords points="512,2687 602,2664 642,2692 695,2657 845,2635 1050,2621 1089,2643 1119,2619 1271,2607 1268,2576 1173,2581 1135,2556 897,2615 731,2600 658,2636 604,2608 507,2630"/>
+                <Baseline points="516,2664 553,2661 590,2657 628,2654 665,2649 702,2647 740,2643 777,2640 814,2637 852,2633 889,2630 926,2627 964,2624 1001,2621 1038,2617 1076,2613 1113,2609 1150,2604 1188,2600 1225,2595 1263,2591"/>
+                <TextEquiv>
+                    <Unicode>daselbst danner über die Ahre gan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;} place {offset:0; length:7;} NE {offset:0; length:7;} VFINAUX {offset:8; length:7;} PRON {offset:31; length:3;}">
+                <Coords points="508,2736 643,2735 705,2706 779,2731 814,2703 1038,2702 1056,2682 1145,2707 1182,2670 1268,2674 1261,2611 1222,2611 1197,2637 1116,2622 1086,2650 994,2628 886,2676 782,2655 702,2692 616,2676 577,2706 535,2683 505,2698"/>
+                <Baseline points="513,2730 550,2725 587,2720 625,2716 662,2711 699,2708 737,2704 774,2700 811,2697 849,2694 886,2691 923,2688 961,2685 998,2681 1035,2678 1073,2673 1110,2669 1147,2665 1185,2660 1222,2654 1260,2649"/>
+                <TextEquiv>
+                    <Unicode>Rubigen begeben, vndt daselbst dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;} ADJ {offset:0; length:7;}">
+                <Coords points="501,2801 618,2802 653,2778 702,2798 1013,2738 1211,2747 1285,2710 1275,2661 1032,2722 852,2704 804,2744 494,2738"/>
+                <Baseline points="506,2792 544,2785 583,2779 621,2773 660,2769 699,2765 737,2760 776,2756 814,2754 853,2750 892,2747 930,2743 969,2741 1007,2737 1046,2733 1085,2728 1123,2724 1162,2718 1200,2712 1239,2705 1278,2697"/>
+                <TextEquiv>
+                    <Unicode>beurlch nach aufgemannt. Wyterss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;} PRON {offset:4; length:4;} ADJ {offset:9; length:8;} NN {offset:19; length:9;} NN {offset:29; length:7;}">
+                <Coords points="497,2856 582,2871 647,2836 835,2814 894,2836 1023,2792 1196,2805 1313,2768 1307,2716 1210,2749 1019,2737 878,2780 831,2759 757,2797 635,2791 493,2829"/>
+                <Baseline points="501,2849 541,2842 581,2837 621,2832 661,2827 702,2822 742,2818 782,2814 822,2810 862,2807 903,2804 943,2799 983,2795 1023,2791 1063,2786 1104,2781 1144,2774 1184,2769 1224,2762 1264,2753 1305,2744"/>
+                <TextEquiv>
+                    <Unicode>nach dem moruderst Brudliche Schreye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:37;} place {offset:4; length:8;} NE {offset:4; length:8;} VINFZU {offset:16; length:5;} PRON {offset:21; length:3;} ADJ {offset:25; length:8;} NN {offset:34; length:3;}">
+                <Coords points="515,2926 765,2883 829,2917 955,2877 1006,2893 1067,2852 1248,2851 1289,2837 1282,2770 1145,2815 1025,2791 896,2838 844,2819 658,2843 599,2877 507,2856"/>
+                <Baseline points="519,2910 557,2904 595,2899 633,2894 671,2889 709,2885 747,2882 785,2877 823,2874 861,2871 900,2866 938,2863 976,2859 1014,2854 1052,2850 1090,2844 1128,2840 1166,2834 1204,2826 1242,2820 1281,2811"/>
+                <TextEquiv>
+                    <Unicode>von Oberbalm by sein deß gfangnen huß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:38;} ADV {offset:0; length:7;} VFINAUX {offset:8; length:6;} VFINAUX {offset:16; length:4;} PRON {offset:21; length:2;} NN {offset:29; length:6;}">
+                <Coords points="499,2977 691,2957 722,2977 785,2940 952,2951 1287,2888 1320,2905 1301,2835 1179,2871 1121,2857 1057,2899 950,2878 883,2916 705,2929 648,2906 601,2944 565,2917 495,2940"/>
+                <Baseline points="504,2969 544,2964 584,2958 624,2954 665,2949 705,2945 745,2941 786,2937 826,2934 866,2931 907,2927 947,2923 987,2919 1027,2914 1068,2910 1108,2904 1148,2899 1189,2891 1229,2884 1269,2876 1310,2867"/>
+                <TextEquiv>
+                    <Unicode>hürüber gangen, sige er imme schrey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:39;} VFINAUX {offset:0; length:12;} VINFZU {offset:19; length:6;} ADV {offset:26; length:5;} PRON {offset:32; length:2;} VFINAUX {offset:35; length:5;}">
+                <Coords points="499,3042 679,3041 750,2999 796,3019 907,3018 938,2988 1125,3001 1193,2953 1318,2940 1311,2878 1214,2925 1034,2921 959,2963 919,2937 865,2967 788,2947 627,2990 592,2970 496,3016"/>
+                <Baseline points="504,3030 544,3025 584,3020 624,3016 665,3011 705,3008 745,3004 786,3001 826,2997 866,2993 907,2988 947,2984 987,2979 1027,2973 1068,2967 1108,2960 1148,2953 1189,2946 1229,2937 1269,2927 1310,2916"/>
+                <TextEquiv>
+                    <Unicode>nachgeloffen umb zu wüßen wohiy er wolle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Im Huss Zansche ... hat doch b¨keinen
+des Schütten angeben, oder wüss wöllten
+4.
+Caspar Lüti
+von Bätterkinden
+Ist schon hinuon mit übrig Bätterkindnern
+yngelegt vndt bekandtlich gsin, daß er sich
+nebendt anderen auch im Tiergarten be
+funden vndt were mit denselben liberieren
+worden, wan nit er in verdacht kommen,
+ob hette er den her Wundinanten zuo Schü¬
+pfen hertnen wollen: Vngeacht ver¬
+neren examinis. hat er anders nit ge
+stendig sein wellen, so daß er den her
+gfragt, ob er hert oder lind sige?
+möcht inß Schallenwerck auf gnadhig
+K. R.
+erkeendt werden.
+It den 5. july 1653 auf abtrag Costens
+vndt ein gute Censur Liberiert
+
+Geörg Krebs
+15.
+Ein Tagner in der haldten
+der kilchöni Belpp.
+Hat bekendt, Nach den Immer eineß zienstags
+von synen frouwen anso auß der statt
+kommen, daß vil frombs volck by der
+gümmenen brug sye anzeigt, undt gans
+daruf imme von einem gwüßen man aus..
+Brandholtz beurlch geben worden, die
+Völcker zum hilf aufgemanen, haben
+sich also baldt nacher Belpp vndt
+daselbst danner über die Ahre gan
+Rubigen begeben, vndt daselbst dem
+beurlch nach aufgemannt. Wyterss
+nach dem moruderst Brudliche Schreye
+von Oberbalm by sein deß gfangnen huß
+hürüber gangen, sige er imme schrey
+nachgeloffen umb zu wüßen wohiy er wolle.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1368,1451 1368,1601 1413,1601 1413,1451"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1363,1556 1372,1557 1381,1565 1387,1565 1391,1570 1410,1562 1418,1564 1418,1500 1408,1502 1391,1515 1375,1514 1370,1519 1363,1519"/>
+                <Baseline points="1368,1551 1413,1551"/>
+                <TextEquiv>
+                    <Unicode>16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>16.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1367,905 1367,2341 1503,2341 1503,905"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;} organization {offset:0; length:5;} NN {offset:0; length:4;}">
+                <Coords points="1363,1037 1391,1035 1401,1040 1414,1033 1428,1038 1446,1027 1467,1034 1504,1029 1495,928 1426,947 1411,937 1390,939 1367,960 1356,961"/>
+                <Baseline points="1367,1019 1393,1016 1419,1014 1445,1012 1471,1009 1497,1005"/>
+                <TextEquiv>
+                    <Unicode>K. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;} organization {offset:0; length:4;} NN {offset:0; length:4;}">
+                <Coords points="1366,2321 1394,2306 1417,2308 1437,2289 1481,2302 1500,2290 1513,2291 1494,2191 1468,2205 1410,2199 1375,2227 1365,2224 1350,2233"/>
+                <Baseline points="1367,2291 1394,2287 1421,2281 1448,2275 1475,2271 1503,2268"/>
+                <TextEquiv>
+                    <Unicode>K: R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>K. R.
+K: R.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="1499,381 1499,2636 2375,2636 2375,381"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="2263,420 2270,422 2287,410 2300,425 2309,425 2314,421 2320,421 2323,374 2316,373 2312,368 2304,375 2298,375 2295,378 2292,376 2285,380 2275,372 2267,372"/>
+                <Baseline points="2270,405 2315,408"/>
+                <TextEquiv>
+                    <Unicode>45</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="1497,452 1503,451 1508,453 1522,441 1526,442 1531,436 1537,435 1532,380 1523,381 1515,390 1511,390 1506,395 1504,393 1491,395"/>
+                <Baseline points="1499,416 1529,413"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;} ADJ {offset:4; length:7;} ADV {offset:4; length:7;} NE {offset:16; length:8;} vpar {offset:30; length:12;}">
+                <Coords points="1508,498 2315,467 2286,410 2250,435 2175,405 2058,433 1628,417 1507,446"/>
+                <Baseline points="1514,480 1553,479 1593,476 1633,474 1673,473 1712,471 1752,470 1792,469 1832,468 1871,467 1911,465 1951,464 1991,464 2030,462 2070,462 2110,461 2150,461 2189,459 2229,458 2269,458 2309,456"/>
+                <TextEquiv>
+                    <Unicode>Alß darüber nun Schreier imme geandtwortet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;} PRON {offset:13; length:5;} ADJ {offset:19; length:6;} NN {offset:26; length:4;} NE {offset:37; length:4;}">
+                <Coords points="1515,546 1667,518 2321,513 2320,468 2195,462 1514,496"/>
+                <Baseline points="1520,527 1559,523 1599,520 1639,518 1679,515 1718,513 1758,512 1798,509 1838,509 1877,506 1917,506 1957,504 1997,504 2036,503 2076,503 2116,503 2156,503 2195,503 2235,503 2275,503 2315,503"/>
+                <TextEquiv>
+                    <Unicode>daß imme von einem gwüßen mann gutt. Hanß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;} PRON {offset:0; length:5;} NN {offset:5; length:7;} NE {offset:17; length:11;} NN {offset:33; length:3;} NN {offset:38; length:4; continued:true;}">
+                <Coords points="1534,605 1626,566 1758,575 1780,554 2258,567 2324,558 2323,513 1532,536"/>
+                <Baseline points="1539,570 1580,566 1621,563 1662,560 1703,557 1744,555 1785,552 1826,550 1867,548 1908,548 1949,546 1990,545 2031,545 2072,545 2113,545 2154,545 2195,545 2236,545 2277,546 2318,546"/>
+                <TextEquiv>
+                    <Unicode>deßen Vatter zuo Obenblacken zum huß, Zeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:5;} NN {offset:0; length:3; continued:true;} VINFZU {offset:4; length:6;} ADJ {offset:16; length:3;} ADJ {offset:20; length:8;} PRON {offset:29; length:5;}">
+                <Coords points="1532,629 1831,602 1876,632 1942,599 2092,589 2276,610 2303,596 2302,558 2145,570 2120,549 2083,573 1937,552 1531,590"/>
+                <Baseline points="1538,615 1577,611 1617,609 1657,605 1697,602 1737,599 1777,597 1817,594 1857,593 1897,591 1937,589 1977,588 2017,587 2057,587 2097,585 2137,585 2177,585 2217,585 2257,586 2297,587"/>
+                <TextEquiv>
+                    <Unicode>ung kommen, daß vil frömbdts volck bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:6;} PRON {offset:0; length:3;} NE {offset:4; length:11;} VFINAUX {offset:16; length:3;} VFINAUX {offset:21; length:5;}">
+                <Coords points="1539,680 1670,652 1815,653 1865,679 1983,637 2322,653 2320,607 2188,593 2004,627 1948,597 1876,632 1830,605 1537,632"/>
+                <Baseline points="1544,666 1582,660 1621,657 1659,653 1698,650 1736,647 1775,645 1813,644 1852,642 1890,641 1929,641 1968,639 2006,638 2045,638 2083,637 2122,636 2160,635 2199,633 2237,631 2276,627 2315,624"/>
+                <TextEquiv>
+                    <Unicode>der Gümmensbrug sye, welle deßwegn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:7;} NE {offset:4; length:13;} place {offset:4; length:13;} PRON {offset:37; length:3;}">
+                <Coords points="1530,743 1674,704 1955,696 2052,720 2175,683 2283,702 2342,689 2341,664 2248,634 2203,659 2010,645 1864,679 1816,653 1668,654 1611,698 1528,702"/>
+                <Baseline points="1535,719 1575,713 1615,709 1655,705 1695,702 1735,699 1775,697 1815,695 1855,692 1895,691 1935,689 1975,688 2015,686 2055,686 2095,684 2135,683 2175,682 2215,681 2255,680 2295,678 2336,677"/>
+                <TextEquiv>
+                    <Unicode>gan Ober-Mülleren, daselbst yllendts die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:8;} NN {offset:0; length:7;} NN {offset:12; length:4;} PRON {offset:28; length:2;} person {offset:31; length:5;} NE {offset:31; length:5;}">
+                <Coords points="1531,801 1620,762 1770,787 1877,750 1922,774 2326,742 2331,691 2018,729 1923,701 1779,742 1606,719 1528,741"/>
+                <Baseline points="1535,774 1574,769 1614,765 1653,762 1693,759 1733,757 1772,755 1812,753 1851,751 1891,750 1931,749 1970,747 2010,746 2049,744 2089,741 2129,740 2168,738 2208,734 2247,731 2287,727 2351,727"/>
+                <TextEquiv>
+                    <Unicode>Völcker zur hilf ufzumanen: Er Krebs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:9;} VFINAUX {offset:5; length:5;} place {offset:17; length:5;} NE {offset:17; length:5;} ADJ {offset:29; length:8;}">
+                <Coords points="1530,839 1621,844 1654,817 1749,849 1830,802 1904,845 1945,813 2051,803 2091,826 2162,803 2216,823 2282,801 2267,741 2170,770 2129,749 1982,776 1848,755 1701,794 1656,765 1609,803 1529,808"/>
+                <Baseline points="1535,825 1572,822 1609,817 1646,814 1683,810 1720,809 1757,806 1794,803 1831,802 1868,800 1905,798 1942,797 1979,796 2016,795 2053,794 2090,793 2127,791 2164,790 2201,788 2238,787 2276,785"/>
+                <TextEquiv>
+                    <Unicode>aber solle gegen Belpp, vndt gleiches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:10;} VINFZU {offset:0; length:10;}">
+                <Coords points="1534,909 1560,904 1583,885 1632,905 1675,873 1722,867 1718,814 1672,824 1649,819 1617,849 1601,852 1527,840"/>
+                <Baseline points="1536,876 1561,873 1587,870 1613,867 1638,865 1664,863 1690,861 1716,858"/>
+                <TextEquiv>
+                    <Unicode>verrichten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:11;} VFINAUX {offset:0; length:5;} NN {offset:17; length:7;} NN {offset:31; length:10;}">
+                <Coords points="1527,1017 1761,977 1828,1005 2120,965 2167,999 2255,972 2334,988 2332,918 2274,909 2053,929 1813,910 1526,956"/>
+                <Baseline points="1532,990 1571,987 1611,984 1651,981 1691,978 1730,977 1770,975 1810,974 1850,972 1889,971 1929,971 1969,969 2009,969 2048,968 2088,968 2128,968 2168,968 2207,966 2247,966 2287,965 2327,963"/>
+                <TextEquiv>
+                    <Unicode>Möcht auf abtrag Costenß, vndt abscherung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:12;} unclear {offset:4; length:6;} NN {offset:4; length:6;} ADV {offset:11; length:5;} VFINAUX {offset:17; length:7;} VFINAUX {offset:25; length:6;}">
+                <Coords points="1533,1070 1630,1072 1711,1029 1810,1031 1856,1060 2020,1054 2083,1026 2186,1043 2191,998 2125,973 1824,1006 1741,977 1705,999 1531,1015"/>
+                <Baseline points="1538,1049 1570,1043 1602,1038 1635,1034 1667,1031 1700,1028 1732,1026 1764,1025 1797,1023 1829,1023 1862,1023 1894,1022 1926,1022 1959,1022 1991,1022 2024,1022 2056,1020 2088,1019 2121,1019 2153,1016 2186,1014"/>
+                <TextEquiv>
+                    <Unicode>deß Wundts ledig gelaßen werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:13;} VFINAUX {offset:0; length:4;} ADJ {offset:15; length:6;} NN {offset:22; length:4;} NN {offset:38; length:7;}">
+                <Coords points="1536,1147 1611,1114 1760,1107 1790,1128 1824,1100 2013,1089 2304,1111 2302,1045 1882,1049 1783,1081 1719,1040 1594,1093 1534,1079"/>
+                <Baseline points="1541,1118 1578,1115 1616,1111 1654,1107 1692,1104 1730,1102 1767,1100 1805,1098 1843,1096 1881,1094 1919,1093 1956,1092 1994,1091 2032,1089 2070,1089 2108,1089 2145,1089 2183,1089 2221,1089 2259,1089 2297,1089"/>
+                <TextEquiv>
+                    <Unicode>Ist auch under obigem dato auf abtrag costens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:14;} PRON {offset:5; length:3;} ADJ {offset:9; length:4;} NN {offset:14; length:6;} NN {offset:26; length:8;} PRON {offset:35; length:5;}">
+                <Coords points="1541,1169 1931,1155 1995,1130 2119,1163 2223,1129 2337,1145 2335,1111 2224,1091 1540,1133"/>
+                <Baseline points="1547,1160 1586,1156 1625,1152 1664,1149 1703,1146 1742,1143 1781,1140 1821,1138 1860,1136 1899,1135 1938,1133 1977,1131 2016,1130 2055,1130 2095,1129 2134,1128 2173,1128 2212,1128 2251,1130 2290,1130 2330,1131"/>
+                <TextEquiv>
+                    <Unicode>vndt ein gute Censur, mit vorbhalt einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:15;} NN {offset:0; length:10;} PRON {offset:14; length:2;} NN {offset:17; length:6;} VFINAUX {offset:24; length:5;} ADV {offset:30; length:2;} ADV {offset:37; length:5;}">
+                <Coords points="1548,1222 1835,1180 1977,1218 2159,1182 2296,1203 2349,1193 2347,1142 1976,1134 1938,1157 1637,1154 1546,1177"/>
+                <Baseline points="1553,1205 1592,1200 1631,1195 1671,1192 1710,1188 1750,1185 1789,1183 1829,1181 1868,1179 1908,1176 1947,1176 1986,1175 2026,1173 2065,1173 2105,1172 2144,1172 2184,1171 2223,1170 2263,1170 2302,1170 2342,1170"/>
+                <TextEquiv>
+                    <Unicode>geltstraff so er mittel hette ehr und wehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:16;} ADV {offset:0; length:3;} VFINAUX {offset:4; length:7;}">
+                <Coords points="1549,1284 1572,1291 1620,1273 1632,1278 1697,1238 1778,1240 1775,1191 1757,1197 1732,1187 1701,1219 1676,1222 1658,1213 1642,1226 1626,1220 1614,1230 1590,1213 1544,1233"/>
+                <Baseline points="1551,1248 1578,1247 1606,1244 1634,1241 1662,1237 1689,1234 1717,1231 1745,1230 1773,1230"/>
+                <TextEquiv>
+                    <Unicode>loß erkendt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:17;} person {offset:0; length:11;} NE {offset:0; length:11;}">
+                <Coords points="1644,1513 1706,1512 1731,1495 1772,1514 1847,1498 1865,1511 1936,1490 2120,1506 2129,1444 2097,1460 2025,1453 1942,1411 1872,1435 1834,1414 1766,1445 1699,1414 1642,1414"/>
+                <Baseline points="1649,1491 1674,1494 1699,1495 1724,1496 1749,1496 1774,1496 1799,1496 1824,1494 1849,1494 1874,1493 1899,1491 1924,1491 1949,1490 1974,1489 1999,1488 2024,1488 2049,1488 2074,1490 2099,1490 2124,1491"/>
+                <TextEquiv>
+                    <Unicode>Ulli Pfäfli von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:18;} place {offset:0; length:9;} NE {offset:0; length:9;}">
+                <Coords points="1696,1566 1757,1567 1801,1586 1835,1565 1872,1566 1914,1545 1988,1563 1986,1495 1895,1493 1863,1514 1828,1503 1805,1517 1790,1506 1766,1517 1735,1498 1695,1511"/>
+                <Baseline points="1701,1544 1726,1545 1752,1545 1777,1545 1803,1544 1828,1544 1854,1543 1879,1542 1905,1541 1930,1541 1956,1541 1982,1542"/>
+                <TextEquiv>
+                    <Unicode>Langnouns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:19;} NE {offset:6; length:12;} person {offset:7; length:11;} place {offset:23; length:8;} NE {offset:23; length:8;}">
+                <Coords points="1512,1681 2318,1674 2318,1609 2238,1634 2143,1608 2048,1643 1864,1602 1615,1630 1512,1574"/>
+                <Baseline points="1518,1662 1557,1661 1597,1661 1637,1661 1676,1662 1716,1662 1756,1662 1795,1664 1835,1664 1875,1664 1915,1665 1954,1665 1994,1665 2034,1665 2073,1665 2113,1665 2153,1664 2192,1662 2232,1661 2272,1658 2312,1656"/>
+                <TextEquiv>
+                    <Unicode>Wiewol Ulli Pfälli von Langnous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:20;} PRON {offset:6; length:5;} NN {offset:12; length:10;} NN {offset:28; length:9;}">
+                <Coords points="1539,1732 1698,1701 1784,1738 1824,1716 2167,1741 2244,1717 2303,1731 2304,1683 1855,1666 1790,1684 1720,1662 1540,1685"/>
+                <Baseline points="1545,1706 1582,1704 1620,1704 1657,1704 1695,1704 1733,1706 1770,1706 1808,1707 1846,1709 1883,1710 1921,1711 1959,1712 1996,1713 2034,1715 2072,1715 2109,1715 2147,1715 2185,1714 2222,1713 2260,1711 2298,1709"/>
+                <TextEquiv>
+                    <Unicode>wegen diseß aufstandts undt rebellion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l22" custom="readingOrder {index:21;} ADV {offset:5; length:11;} VFINAUX {offset:17; length:10;} VFINAUX {offset:28; length:6;}">
+                <Coords points="1540,1777 1586,1784 1618,1755 1680,1788 1722,1759 1838,1781 1871,1757 2281,1774 2295,1733 1965,1745 1710,1713 1678,1742 1540,1732"/>
+                <Baseline points="1545,1758 1582,1758 1619,1757 1656,1757 1693,1755 1731,1755 1768,1755 1805,1755 1842,1756 1879,1757 1917,1757 1954,1757 1991,1757 2028,1758 2065,1758 2103,1758 2140,1758 2177,1758 2214,1758 2251,1758 2289,1758"/>
+                <TextEquiv>
+                    <Unicode>auch ernstwörtig examiniert worden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l23" custom="readingOrder {index:22;} VFINAUX {offset:0; length:3;} PRON {offset:4; length:8;} ADV {offset:13; length:6;} VFINAUX {offset:24; length:8;} VFINAUX {offset:33; length:6;}">
+                <Coords points="1547,1829 2305,1821 2284,1779 2215,1793 2015,1767 1872,1792 1807,1765 1697,1802 1621,1761 1547,1782"/>
+                <Baseline points="1513,1819 1590,1815 1627,1815 1665,1814 1702,1814 1739,1812 1777,1812 1814,1811 1851,1811 1889,1811 1926,1809 1963,1809 2001,1809 2038,1809 2075,1809 2113,1809 2150,1809 2187,1811 2225,1811 2262,1812 2300,1812"/>
+                <TextEquiv>
+                    <Unicode>hat Jeden er anders nüt bekennen wollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:23;} PRON {offset:9; length:7;} PRON {offset:20; length:3;} NN {offset:24; length:13;}">
+                <Coords points="1538,1897 1959,1865 2115,1906 2176,1873 2328,1875 2269,1822 2152,1850 2105,1814 1872,1852 1792,1827 1752,1848 1668,1826 1632,1852 1538,1839"/>
+                <Baseline points="1544,1875 1582,1874 1621,1872 1660,1871 1699,1869 1738,1868 1777,1868 1816,1866 1855,1866 1894,1866 1933,1865 1971,1865 2010,1865 2049,1865 2088,1865 2127,1866 2166,1866 2205,1868 2244,1869 2283,1870 2322,1871"/>
+                <TextEquiv>
+                    <Unicode>Denn daß er sich an der landts gmeind zuo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l25" custom="readingOrder {index:24;} place {offset:0; length:7;} NE {offset:0; length:7;} PRON {offset:30; length:7;}">
+                <Coords points="1549,1953 1647,1934 1734,1955 1799,1928 1902,1957 2130,1920 2181,1942 2318,1928 2327,1896 2238,1880 2060,1906 2022,1876 1961,1895 1920,1872 1827,1877 1797,1905 1601,1876 1548,1895"/>
+                <Baseline points="1554,1926 1592,1928 1630,1928 1669,1928 1707,1927 1746,1926 1784,1925 1822,1925 1861,1923 1899,1923 1938,1922 1976,1920 2014,1920 2053,1919 2091,1919 2130,1919 2168,1919 2206,1919 2245,1920 2283,1921 2322,1923"/>
+                <TextEquiv>
+                    <Unicode>huttwyl, vndt sunst an keiner anderen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l26" custom="readingOrder {index:25;} VFINAUX {offset:0; length:8;} VFINAUX {offset:30; length:11;}">
+                <Coords points="1553,1998 1636,2020 1694,1994 2062,2007 2090,1986 2254,2027 2320,1994 2379,2025 2365,1935 2184,1964 2100,1926 1901,1957 1795,1928 1714,1972 1655,1940 1553,1944"/>
+                <Baseline points="1559,1986 1599,1986 1640,1986 1681,1986 1721,1986 1762,1986 1803,1985 1843,1985 1884,1983 1925,1982 1966,1982 2006,1980 2047,1980 2088,1979 2128,1979 2169,1979 2210,1979 2250,1980 2291,1980 2332,1982 2373,1985"/>
+                <TextEquiv>
+                    <Unicode>befunden: Doch aber derselbig endtschafft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l27" custom="readingOrder {index:26;} VFINAUX {offset:4; length:8;}">
+                <Coords points="1557,2057 1640,2050 1677,2062 1700,2046 1795,2057 1795,1999 1779,2008 1762,1998 1747,2001 1733,2014 1702,2008 1655,2031 1587,1989 1556,2005"/>
+                <Baseline points="1562,2045 1587,2043 1612,2043 1638,2042 1663,2042 1688,2042 1714,2042 1739,2042 1764,2042 1790,2042"/>
+                <TextEquiv>
+                    <Unicode>nit erwartet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:27;} VFINAUX {offset:6; length:3;} PRON {offset:10; length:2;}">
+                <Coords points="1835,2048 1995,2051 2045,2085 2128,2049 2243,2067 2286,2046 2366,2058 2366,2030 2316,2000 2253,2030 2096,2006 2040,2019 1926,1994 1835,2009"/>
+                <Baseline points="1841,2043 1868,2043 1895,2043 1922,2043 1950,2042 1977,2042 2004,2042 2032,2042 2059,2042 2086,2043 2114,2043 2141,2043 2168,2043 2196,2045 2223,2045 2250,2045 2278,2046 2305,2046 2332,2048 2360,2049"/>
+                <TextEquiv>
+                    <Unicode>Ihtem sye er auch von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l29" custom="readingOrder {index:28;} place {offset:0; length:14;} NE {offset:0; length:14;} VFINAUX {offset:15; length:4;} VFINAUX {offset:21; length:4;}">
+                <Coords points="1546,2131 1719,2106 1906,2143 2011,2106 2228,2123 2262,2147 2317,2121 2318,2058 2165,2055 2046,2086 1755,2048 1546,2090"/>
+                <Baseline points="1551,2102 1589,2102 1627,2103 1665,2103 1703,2103 1741,2105 1779,2105 1817,2105 1855,2105 1893,2105 1931,2103 1969,2103 2007,2103 2045,2103 2083,2103 2121,2105 2159,2105 2197,2105 2235,2106 2273,2107 2312,2109"/>
+                <TextEquiv>
+                    <Unicode>Herzogenbuchse gsiy, habe aber daselbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l30" custom="readingOrder {index:29;} ADV {offset:4; length:10;} VFINAUX {offset:15; length:10;}">
+                <Coords points="1543,2196 1799,2205 1851,2170 1924,2197 2005,2169 2045,2177 2046,2108 1910,2144 1865,2126 1830,2136 1803,2113 1769,2135 1722,2107 1544,2131"/>
+                <Baseline points="1550,2160 1575,2159 1601,2159 1627,2159 1653,2159 1678,2160 1704,2160 1730,2160 1756,2160 1782,2162 1807,2162 1833,2162 1859,2162 1885,2163 1911,2163 1936,2163 1962,2163 1988,2164 2014,2165 2040,2165"/>
+                <TextEquiv>
+                    <Unicode>nüt shädtlichß verrichtet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l31" custom="readingOrder {index:30;} VFINAUX {offset:4; length:9;} NN {offset:23; length:11;} PRON {offset:35; length:5;}">
+                <Coords points="1549,2295 1584,2303 1625,2267 1709,2301 1776,2274 1949,2319 2172,2327 2267,2293 2360,2310 2361,2265 2121,2215 1995,2240 1893,2204 1740,2232 1684,2206 1552,2213"/>
+                <Baseline points="1556,2259 1598,2261 1640,2262 1682,2263 1724,2264 1766,2265 1808,2265 1850,2267 1892,2267 1934,2268 1976,2270 2018,2271 2060,2272 2102,2274 2144,2276 2186,2278 2228,2282 2270,2286 2312,2288 2355,2294"/>
+                <TextEquiv>
+                    <Unicode>Ist yngestelt biß nach inquisition syner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l32" custom="readingOrder {index:31;} NN {offset:0; length:6;}">
+                <Coords points="1566,2324 1578,2328 1590,2323 1593,2327 1609,2323 1615,2329 1626,2326 1630,2330 1638,2327 1646,2332 1661,2329 1667,2334 1684,2334 1686,2298 1672,2295 1664,2286 1640,2284 1624,2267 1584,2303 1567,2300"/>
+                <Baseline points="1572,2315 1598,2317 1625,2319 1652,2319 1679,2322"/>
+                <TextEquiv>
+                    <Unicode>mitles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l33" custom="readingOrder {index:32;} VFINAUX {offset:0; length:3;} ADJ {offset:14; length:8;} NN {offset:23; length:4;}">
+                <Coords points="1507,2444 1559,2412 1656,2432 1787,2399 1858,2432 2068,2410 2349,2443 2351,2364 2225,2331 1936,2367 1872,2345 1809,2364 1732,2330 1608,2360 1511,2321"/>
+                <Baseline points="1514,2403 1555,2402 1596,2402 1638,2400 1679,2400 1721,2400 1762,2400 1804,2401 1845,2402 1887,2403 1928,2403 1969,2405 2011,2406 2052,2408 2094,2409 2135,2412 2177,2414 2218,2415 2260,2418 2301,2420 2343,2421"/>
+                <TextEquiv>
+                    <Unicode>Ist auch unde gleichen dato ente abtrag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l34" custom="readingOrder {index:33;} NN {offset:0; length:7;} PRON {offset:13; length:5;} ADJ {offset:19; length:5;} NN {offset:25; length:6;}">
+                <Coords points="1544,2459 1656,2483 1733,2455 1979,2482 2265,2467 2380,2510 2381,2436 2262,2455 2027,2413 1843,2439 1789,2399 1656,2432 1545,2415"/>
+                <Baseline points="1550,2457 1591,2455 1632,2453 1673,2451 1715,2450 1756,2450 1797,2450 1838,2450 1880,2451 1921,2453 1962,2454 2003,2456 2045,2457 2086,2459 2127,2461 2168,2463 2210,2464 2251,2466 2292,2466 2333,2468 2375,2468"/>
+                <TextEquiv>
+                    <Unicode>Costenß vndt einer guten Censur- 100 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l35" custom="readingOrder {index:34;} NN {offset:4; length:10;} person {offset:27; length:9;} NE {offset:27; length:9;}">
+                <Coords points="1544,2531 1612,2502 1687,2537 1730,2509 1833,2526 1884,2507 1924,2539 1979,2503 2276,2529 2298,2526 2299,2476 2150,2494 2081,2465 2041,2492 1979,2488 1900,2455 1717,2460 1669,2484 1602,2453 1545,2471"/>
+                <Baseline points="1550,2505 1587,2504 1624,2502 1661,2501 1698,2501 1735,2501 1772,2501 1809,2501 1846,2501 1883,2502 1921,2502 1958,2504 1995,2504 2032,2505 2069,2507 2106,2508 2143,2509 2180,2510 2217,2511 2254,2512 2292,2513"/>
+                <TextEquiv>
+                    <Unicode>zur geltstraff selbige auf Michaelis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l36" custom="readingOrder {index:35;} VINFZU {offset:0; length:10;} PRON {offset:20; length:8;} VFINAUX {offset:33; length:3; continued:true;}">
+                <Coords points="1534,2592 1607,2563 1697,2583 1744,2550 1779,2571 2269,2584 2310,2572 2311,2525 2241,2520 2188,2549 2133,2517 1973,2509 1924,2542 1892,2516 1689,2539 1667,2516 1593,2539 1565,2517 1535,2540"/>
+                <Baseline points="1541,2553 1579,2553 1617,2553 1655,2553 1693,2553 1731,2553 1769,2553 1808,2555 1846,2555 1884,2556 1922,2556 1960,2558 1998,2558 2036,2559 2075,2561 2113,2562 2151,2564 2189,2564 2227,2566 2265,2568 2304,2570"/>
+                <TextEquiv>
+                    <Unicode>zuobezalen, wo aber dasselbe nit be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l37" custom="readingOrder {index:36;} VFINAUX {offset:0; length:7; continued:true;} PRON {offset:13; length:2;} NN {offset:20; length:6;} VFINAUX {offset:27; length:8;} VINFZU {offset:36; length:6;}">
+                <Coords points="1551,2630 1746,2616 1865,2650 1971,2621 2322,2650 2373,2632 2374,2578 2349,2576 2293,2600 2052,2566 1929,2600 1884,2567 1771,2588 1714,2567 1689,2591 1553,2573"/>
+                <Baseline points="1557,2607 1597,2607 1638,2607 1678,2609 1719,2609 1759,2609 1800,2610 1840,2610 1881,2612 1921,2612 1962,2613 2002,2615 2043,2615 2083,2616 2124,2618 2164,2618 2205,2619 2245,2621 2286,2622 2326,2622 2367,2624"/>
+                <TextEquiv>
+                    <Unicode>schöche, sol er deß Landts verwisen werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>45
+
+Alß darüber nun Schreier imme geandtwortet
+daß imme von einem gwüßen mann gutt. Hanß
+deßen Vatter zuo Obenblacken zum huß, Zeit
+ung kommen, daß vil frömbdts volck bis
+der Gümmensbrug sye, welle deßwegn
+gan Ober-Mülleren, daselbst yllendts die
+Völcker zur hilf ufzumanen: Er Krebs
+aber solle gegen Belpp, vndt gleiches
+verrichten.
+Möcht auf abtrag Costenß, vndt abscherung
+deß Wundts ledig gelaßen werden.
+Ist auch under obigem dato auf abtrag costens
+vndt ein gute Censur, mit vorbhalt einer
+geltstraff so er mittel hette ehr und wehr
+loß erkendt.
+Ulli Pfäfli von
+Langnouns
+Wiewol Ulli Pfälli von Langnous
+wegen diseß aufstandts undt rebellion
+auch ernstwörtig examiniert worden,
+hat Jeden er anders nüt bekennen wollen
+Denn daß er sich an der landts gmeind zuo
+huttwyl, vndt sunst an keiner anderen,
+befunden: Doch aber derselbig endtschafft
+nit erwartet.
+Ihtem sye er auch von
+Herzogenbuchse gsiy, habe aber daselbst
+nüt shädtlichß verrichtet
+Ist yngestelt biß nach inquisition syner
+mitles
+Ist auch unde gleichen dato ente abtrag
+Costenß vndt einer guten Censur- 100 
+zur geltstraff selbige auf Michaelis
+zuobezalen, wo aber dasselbe nit be-
+schöche, sol er deß Landts verwisen werden</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

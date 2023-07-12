@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-09-05T12:46:03.156+02:00</Created>
+        <LastChange>2021-10-11T11:07:14.510+02:00</LastChange>
+        <TranskribusMetadata docId="772822" pageId="29283400" pageNr="77" tsid="66272842" status="IN_PROGRESS" userId="99914" imgUrl="https://files.transkribus.eu/Get?id=DLODHYOLAZKYMJGZXETIVOYE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OSOZQAWHYBJHJIDFDDWGMWGK" imageId="22980998"/>
+    </Metadata>
+    <Page imageFilename="IMG_4282.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687514927614" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1611,1910 1611,2063 1632,2063 1632,1910"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1611,2060 1632,2063 1632,1913 1611,1910"/>
+                <Baseline points="1611,2010 1632,2013"/>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2034,2474 2034,2734 2204,2734 2204,2474"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2034,2535 2062,2536 2090,2535 2119,2534 2147,2532 2175,2532 2204,2533 2204,2475 2175,2474 2147,2474 2119,2476 2090,2477 2062,2478 2034,2477"/>
+                <Baseline points="2034,2516 2062,2517 2090,2516 2119,2515 2147,2513 2175,2513 2204,2514"/>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2054,2616 2084,2614 2115,2614 2146,2614 2177,2613 2177,2555 2146,2556 2115,2556 2084,2556 2054,2558"/>
+                <Baseline points="2054,2597 2084,2595 2115,2595 2146,2595 2177,2594"/>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2055,2734 2081,2734 2107,2734 2133,2734 2160,2734 2160,2667 2133,2667 2107,2667 2081,2667 2055,2667"/>
+                <Baseline points="2055,2712 2081,2712 2107,2712 2133,2712 2160,2712"/>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

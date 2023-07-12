@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T16:14:03.205+02:00</Created>
+        <LastChange>2023-05-09T22:42:43.590+02:00</LastChange>
+        <TranskribusMetadata docId="1336519" pageId="52421452" pageNr="114" tsid="121359168" status="IN_PROGRESS" userId="68497" imgUrl="https://files.transkribus.eu/Get?id=ZIVLNVJPNOXSDSTDKLXIWHEO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WYXULZQNZWORANALUMFOUPGV" imageId="30695019"/>
+    </Metadata>
+    <Page imageFilename="IMG_7316.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513558828" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1673951486324_1172"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="813,505 813,658 885,658 885,505"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="808,648 845,650 866,628 893,631 890,554 879,555 874,550 862,556 847,554 830,573 823,570 805,572"/>
+                <Baseline points="813,608 849,608 885,605"/>
+                <TextEquiv>
+                    <Unicode>220</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>220</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r2" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="924,628 856,2025 1911,2026 1915,641"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="929,712 1091,724 1142,704 1194,729 1232,714 1298,747 1437,717 1440,653 1279,661 1237,680 1212,654 1179,667 1115,636 1071,656 1025,634 932,637"/>
+                <Baseline points="936,698 962,698 988,698 1014,698 1040,698 1066,699 1092,699 1118,701 1144,701 1170,702 1196,704 1222,705 1248,706 1274,708 1300,710 1326,711 1352,713 1378,714 1404,717 1431,719"/>
+                <TextEquiv>
+                    <Unicode>Abends im Stall gsin?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="930,827 986,818 1002,831 1046,801 1095,789 1159,801 1189,787 1227,806 1287,797 1289,752 1239,771 1203,745 1163,763 1135,739 1033,731 1008,744 980,726 934,723"/>
+                <Baseline points="939,785 965,785 991,786 1017,786 1043,786 1070,788 1096,788 1122,789 1148,789 1175,791 1201,792 1227,795 1253,795 1280,798"/>
+                <TextEquiv>
+                    <Unicode>Er wüße es nit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:2;}">
+                <Coords points="965,913 1206,906 1320,952 1431,907 1590,936 1660,914 1662,873 1515,864 1439,890 1367,866 1239,875 1183,843 1069,866 1030,836 968,838"/>
+                <Baseline points="972,893 1006,894 1040,896 1074,896 1108,898 1142,900 1176,901 1210,903 1244,905 1278,906 1312,907 1346,909 1380,911 1414,912 1448,914 1482,915 1516,916 1550,917 1584,918 1618,918 1653,918"/>
+                <TextEquiv>
+                    <Unicode>Vnd am Mittwochen Abends</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:3;}">
+                <Coords points="941,1009 1163,1007 1244,1057 1469,1032 1559,1069 1908,1072 1910,1024 1729,1001 1669,960 1456,960 1372,995 1206,929 944,947"/>
+                <Baseline points="948,1001 995,1002 1043,1004 1091,1007 1138,1008 1186,1011 1234,1013 1281,1014 1329,1016 1377,1018 1425,1020 1472,1022 1520,1023 1568,1026 1615,1029 1663,1031 1711,1034 1758,1037 1806,1040 1854,1044 1902,1047"/>
+                <TextEquiv>
+                    <Unicode>Am Mittwuchen Abends seye Erdarung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="916,1113 923,1112 945,1088 950,1092 956,1088 972,1091 978,1086 1005,1102 1014,1089 1029,1085 1020,1013 987,1006 975,1014 956,1005 941,1012 910,995 899,997"/>
+                <Baseline points="918,1077 943,1066 969,1059 994,1059 1020,1062"/>
+                <TextEquiv>
+                    <Unicode>Gsi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:5;}">
+                <Coords points="920,1177 993,1153 1261,1196 1471,1174 1661,1222 1852,1204 1855,1136 1783,1127 1744,1148 1617,1108 1496,1140 1370,1092 1200,1093 1149,1126 1026,1084 924,1093"/>
+                <Baseline points="927,1158 972,1157 1018,1155 1064,1155 1110,1155 1156,1155 1202,1157 1248,1158 1294,1160 1340,1161 1386,1164 1431,1167 1477,1169 1523,1172 1569,1175 1615,1179 1661,1182 1707,1184 1753,1187 1799,1189 1845,1191"/>
+                <TextEquiv>
+                    <Unicode>Waß Er damahlen im Stall Zuthun ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:6;}">
+                <Coords points="910,1226 937,1222 945,1215 956,1223 982,1216 991,1220 996,1217 1007,1227 1023,1226 1022,1157 1008,1160 1001,1156 991,1167 962,1166 955,1172 940,1164 920,1185 909,1183"/>
+                <Baseline points="917,1214 950,1211 983,1212 1016,1211"/>
+                <TextEquiv>
+                    <Unicode>habt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:7;}">
+                <Coords points="917,1317 1173,1302 1570,1361 1887,1340 1888,1313 1767,1282 1704,1313 1436,1260 1308,1292 1225,1251 1128,1290 1055,1238 921,1220"/>
+                <Baseline points="924,1302 971,1302 1019,1304 1067,1304 1115,1305 1163,1307 1211,1308 1258,1310 1306,1312 1354,1314 1402,1317 1450,1319 1498,1322 1546,1325 1593,1327 1641,1329 1689,1330 1737,1332 1785,1332 1833,1334 1881,1334"/>
+                <TextEquiv>
+                    <Unicode>Er seye nach dem Nachteßen Hangen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:8;}">
+                <Coords points="899,1377 1893,1406 1878,1342 1569,1361 1173,1302 1039,1345 902,1306"/>
+                <Baseline points="906,1361 955,1362 1004,1363 1053,1364 1102,1365 1151,1367 1200,1368 1249,1370 1298,1372 1347,1374 1396,1375 1445,1377 1494,1379 1543,1381 1592,1383 1641,1386 1690,1388 1739,1390 1788,1392 1837,1394 1887,1397"/>
+                <TextEquiv>
+                    <Unicode>Mader bestellen und bey seiner rückkundt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:9;}">
+                <Coords points="899,1442 1081,1406 1148,1450 1549,1440 1783,1487 1878,1435 1731,1393 1489,1422 1376,1376 901,1377"/>
+                <Baseline points="906,1416 954,1416 1002,1418 1050,1418 1099,1420 1147,1422 1195,1423 1243,1425 1292,1428 1340,1430 1388,1431 1436,1434 1485,1436 1533,1439 1581,1441 1629,1443 1678,1445 1726,1447 1774,1449 1822,1451 1871,1454"/>
+                <TextEquiv>
+                    <Unicode>gehördt, daß das Veich im Stall so starck ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:10;}">
+                <Coords points="905,1490 979,1514 1146,1488 1226,1526 1446,1497 1503,1537 1647,1514 1834,1550 1917,1538 1919,1507 1847,1467 1799,1492 1729,1465 1331,1474 1077,1406 907,1436"/>
+                <Baseline points="912,1478 964,1479 1017,1482 1069,1484 1122,1485 1174,1487 1227,1488 1280,1490 1332,1491 1385,1493 1437,1494 1490,1496 1542,1498 1595,1500 1648,1503 1700,1507 1753,1509 1805,1514 1858,1517 1911,1523"/>
+                <TextEquiv>
+                    <Unicode>bartzet, deßtwegen Er hineingangen genlugen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:11;}">
+                <Coords points="903,1557 1519,1560 1693,1599 1847,1551 1773,1522 1686,1547 1614,1514 1504,1538 1296,1506 1241,1533 906,1490"/>
+                <Baseline points="911,1539 957,1541 1003,1542 1050,1544 1096,1545 1143,1547 1189,1549 1235,1551 1282,1553 1328,1554 1375,1556 1421,1557 1467,1559 1514,1560 1560,1562 1607,1563 1653,1564 1699,1566 1746,1567 1792,1569 1839,1569"/>
+                <TextEquiv>
+                    <Unicode>waß es mache, da habe Er das Maydtlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:12;}">
+                <Coords points="897,1633 1099,1650 1186,1609 1308,1606 1436,1616 1508,1657 1640,1629 1730,1668 1796,1657 1798,1573 1662,1600 1542,1562 1420,1581 1205,1549 898,1577"/>
+                <Baseline points="905,1599 949,1601 993,1602 1037,1604 1082,1605 1126,1606 1170,1608 1214,1610 1259,1611 1303,1611 1347,1613 1391,1615 1436,1616 1480,1617 1524,1619 1568,1620 1613,1622 1657,1622 1701,1623 1745,1625 1790,1626"/>
+                <TextEquiv>
+                    <Unicode>im Stall gfunden und mit Ihm geredt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:13;}">
+                <Coords points="901,1705 1693,1718 1769,1760 1878,1731 1852,1670 1521,1656 1465,1691 1295,1652 1187,1675 1128,1642 1037,1676 984,1636 903,1651"/>
+                <Baseline points="908,1692 956,1692 1004,1691 1052,1691 1100,1692 1149,1693 1197,1694 1245,1697 1293,1698 1341,1700 1390,1702 1438,1704 1486,1706 1534,1708 1582,1710 1631,1711 1679,1713 1727,1713 1775,1713 1823,1713 1872,1712"/>
+                <TextEquiv>
+                    <Unicode>Ob Er nit damahlen i Stall hin vnd her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:14;}">
+                <Coords points="908,1764 1201,1749 1372,1789 1514,1769 1611,1814 1701,1777 1845,1798 1839,1732 1598,1753 1407,1705 1315,1731 910,1703"/>
+                <Baseline points="915,1751 961,1751 1007,1751 1053,1751 1099,1752 1146,1753 1192,1754 1238,1755 1284,1757 1330,1760 1377,1761 1423,1763 1469,1766 1515,1767 1561,1769 1608,1772 1654,1772 1700,1773 1746,1775 1792,1776 1839,1776"/>
+                <TextEquiv>
+                    <Unicode>twas gesucht, waß Er dann so genann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:15;}">
+                <Coords points="890,1827 938,1827 950,1817 980,1837 1003,1827 1042,1838 1077,1810 1100,1819 1156,1810 1156,1755 1119,1748 1070,1775 995,1753 971,1760 950,1781 910,1770 891,1775"/>
+                <Baseline points="897,1805 922,1806 947,1806 972,1806 997,1805 1023,1805 1048,1805 1073,1805 1098,1806 1123,1806 1149,1808"/>
+                <TextEquiv>
+                    <Unicode>gesucht habe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:16;}">
+                <Coords points="811,1948 1293,1901 1473,1956 1622,1923 1839,1956 1841,1880 1557,1854 1409,1883 1204,1843 1038,1866 814,1828"/>
+                <Baseline points="818,1908 868,1905 919,1902 970,1899 1021,1899 1071,1898 1122,1899 1173,1899 1224,1901 1274,1902 1325,1905 1376,1907 1427,1909 1477,1912 1528,1914 1579,1916 1630,1919 1680,1920 1731,1922 1782,1922 1833,1922"/>
+                <TextEquiv>
+                    <Unicode>R. Er habe mit anders gesucht, als daß Er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:17;}">
+                <Coords points="1558,2034 1571,2036 1589,2024 1633,2036 1643,2031 1654,2040 1683,2038 1697,2028 1712,2031 1738,2015 1738,1949 1682,1948 1653,1965 1633,1958 1601,1977 1558,1970"/>
+                <Baseline points="1565,2007 1592,2006 1620,2004 1648,2006 1675,2006 1703,2007 1731,2006"/>
+                <TextEquiv>
+                    <Unicode>gelugt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Abends im Stall gsin?&#13;
+Er wüße es nit&#13;
+Vnd am Mittwochen Abends&#13;
+Am Mittwuchen Abends seye Erdarung.&#13;
+Gsi&#13;
+Waß Er damahlen im Stall Zuthun ge¬&#13;
+habt:&#13;
+Er seye nach dem Nachteßen Hangen den&#13;
+Mader bestellen und bey seiner rückkundt&#13;
+gehördt, daß das Veich im Stall so starck ge¬&#13;
+bartzet, deßtwegen Er hineingangen genlugen&#13;
+waß es mache, da habe Er das Maydtlin&#13;
+im Stall gfunden und mit Ihm geredt.&#13;
+Ob Er nit damahlen i Stall hin vnd her&#13;
+twas gesucht, waß Er dann so genann&#13;
+gesucht habe&#13;
+R. Er habe mit anders gesucht, als daß Er&#13;
+gelugt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1673951486324_1172" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2156,766 2008,766 2008,640 2156,640"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2070,760 2085,758 2091,751 2106,747 2114,740 2129,743 2141,751 2149,749 2144,658 2136,659 2122,672 2116,669 2101,686 2096,682 2076,687 2067,685"/>
+                <Baseline points="2075,728 2108,725 2141,725"/>
+                <TextEquiv>
+                    <Unicode>U1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>U1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r4" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="2173,740 2117,2105 3242,2103 3242,737"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="2155,802 2336,816 2511,768 2726,826 2912,788 3023,824 3195,805 3197,756 2936,728 2821,753 2778,723 2712,751 2570,708 2505,743 2159,680"/>
+                <Baseline points="2163,777 2214,774 2265,771 2316,770 2368,768 2419,768 2470,768 2522,768 2573,770 2624,771 2676,774 2727,776 2778,778 2829,782 2881,784 2932,787 2983,789 3035,793 3086,795 3137,798 3189,800"/>
+                <TextEquiv>
+                    <Unicode>gelugdt, ob das Veich noch zu freßen habe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="2174,884 2801,876 3005,937 3062,906 3200,923 3249,897 3250,840 2770,846 2425,798 2174,836"/>
+                <Baseline points="2181,879 2234,876 2287,873 2340,872 2393,870 2446,869 2499,869 2552,870 2605,870 2658,872 2711,873 2764,875 2817,876 2870,879 2923,881 2976,882 3029,885 3082,887 3135,888 3188,890 3242,891"/>
+                <TextEquiv>
+                    <Unicode>Ob Er nit von deßt wegen in Stall gangen, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="2149,975 2228,940 2450,975 2626,937 2708,975 2881,941 2948,971 3002,965 3003,903 2542,904 2456,869 2407,891 2298,868 2245,906 2150,892"/>
+                <Baseline points="2156,941 2198,938 2240,936 2282,935 2324,933 2366,933 2408,933 2450,933 2492,933 2534,933 2576,933 2618,935 2660,935 2702,935 2744,936 2786,938 2828,938 2870,939 2912,939 2954,939 2996,941"/>
+                <TextEquiv>
+                    <Unicode>Er etwas Schlimmes verüben wollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="2171,1078 2285,1040 2517,1061 2641,1032 3007,1084 3107,1039 3172,1076 3225,1050 3225,997 3024,975 2870,1019 2760,969 2574,1006 2476,973 2409,1019 2303,990 2171,1019"/>
+                <Baseline points="2177,1038 2229,1037 2281,1035 2333,1035 2385,1035 2437,1035 2489,1035 2541,1035 2593,1035 2645,1035 2698,1037 2750,1037 2802,1038 2854,1038 2906,1038 2958,1038 3010,1040 3062,1039 3114,1038 3166,1038 3219,1037"/>
+                <TextEquiv>
+                    <Unicode>Er habe mit schlimmes im Sinngehabt, seye auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;}">
+                <Coords points="2167,1115 2207,1103 2297,1142 2364,1107 2440,1128 2540,1090 2643,1135 2729,1103 2786,1138 2879,1105 2989,1121 2989,1065 2876,1075 2786,1039 2710,1065 2642,1032 2530,1064 2474,1045 2450,1067 2304,1038 2168,1077"/>
+                <Baseline points="2174,1098 2214,1096 2254,1095 2295,1094 2335,1093 2376,1092 2416,1092 2456,1092 2497,1092 2537,1092 2578,1092 2618,1092 2658,1094 2699,1094 2739,1094 2780,1095 2820,1095 2860,1095 2901,1097 2941,1097 2982,1097"/>
+                <TextEquiv>
+                    <Unicode>mit guhten gedancken in Stall gangen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:5;}">
+                <Coords points="2185,1207 2906,1180 2957,1218 3207,1208 3207,1153 3144,1125 2934,1156 2768,1129 2678,1163 2559,1120 2457,1158 2185,1145"/>
+                <Baseline points="2192,1188 2242,1187 2292,1185 2343,1184 2393,1182 2444,1181 2494,1181 2544,1181 2595,1179 2645,1179 2696,1179 2746,1180 2796,1181 2847,1181 2897,1181 2948,1182 2998,1182 3048,1184 3099,1184 3149,1185 3200,1187"/>
+                <TextEquiv>
+                    <Unicode>Ob Er dann nit damahlen dem Mäydtlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:6;}">
+                <Coords points="2162,1277 2278,1277 2332,1256 2364,1273 2489,1243 2544,1270 2580,1251 2647,1278 2646,1207 2620,1194 2537,1223 2492,1195 2387,1210 2288,1195 2254,1214 2161,1204"/>
+                <Baseline points="2169,1242 2195,1241 2221,1241 2247,1241 2273,1241 2299,1241 2326,1241 2352,1241 2378,1240 2404,1239 2430,1239 2456,1239 2483,1238 2509,1238 2535,1238 2561,1236 2587,1236 2613,1236 2640,1236"/>
+                <TextEquiv>
+                    <Unicode>inZucht zu gemihtet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:7;}">
+                <Coords points="2167,1360 2445,1321 2647,1361 2734,1322 2832,1369 3062,1328 3159,1367 3243,1331 3244,1254 3114,1292 2998,1248 2802,1303 2472,1261 2167,1296"/>
+                <Baseline points="2174,1328 2227,1326 2280,1325 2333,1324 2386,1323 2439,1323 2492,1322 2546,1322 2599,1322 2652,1322 2705,1322 2758,1322 2811,1323 2864,1323 2918,1323 2971,1325 3024,1325 3077,1326 3130,1328 3183,1328 3237,1329"/>
+                <TextEquiv>
+                    <Unicode>Er bekenne daß Er Ja dem Mäydtlin und zucht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:8;}">
+                <Coords points="2153,1415 2176,1399 2220,1411 2267,1388 2289,1397 2311,1384 2354,1420 2376,1398 2404,1404 2429,1387 2454,1390 2453,1331 2436,1327 2367,1363 2340,1354 2272,1362 2225,1338 2193,1357 2152,1359"/>
+                <Baseline points="2159,1391 2185,1388 2211,1386 2237,1383 2263,1383 2289,1383 2316,1382 2342,1382 2368,1383 2394,1383 2420,1383 2447,1382"/>
+                <TextEquiv>
+                    <Unicode>zu gemihtet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:9;}">
+                <Coords points="2132,1483 2409,1506 2541,1470 2672,1508 2736,1473 2920,1471 3116,1509 3180,1482 3179,1416 3149,1413 3050,1455 2731,1405 2537,1446 2435,1408 2132,1412"/>
+                <Baseline points="2139,1482 2190,1479 2242,1478 2294,1475 2345,1473 2397,1472 2449,1472 2500,1470 2552,1470 2604,1470 2656,1470 2707,1470 2759,1470 2811,1471 2862,1472 2914,1472 2966,1472 3017,1472 3069,1472 3121,1472 3173,1472"/>
+                <TextEquiv>
+                    <Unicode>Repliciert hierauß seye nun heiter am Tag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:10;}">
+                <Coords points="2152,1558 2473,1539 2518,1569 2647,1532 3133,1564 3237,1542 3237,1492 2152,1495"/>
+                <Baseline points="2159,1538 2212,1536 2266,1535 2319,1533 2373,1533 2427,1532 2480,1532 2534,1532 2587,1532 2641,1532 2695,1532 2748,1532 2802,1532 2855,1533 2909,1533 2963,1533 3016,1535 3070,1535 3123,1535 3177,1536 3231,1536"/>
+                <TextEquiv>
+                    <Unicode>daß Er Ja damahlen mit Einem unteuschen Geist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:11;}">
+                <Coords points="2147,1603 3169,1602 3169,1561 3079,1544 2758,1573 2526,1574 2473,1539 2409,1574 2147,1556"/>
+                <Baseline points="2154,1596 2204,1595 2254,1595 2305,1593 2355,1593 2406,1593 2456,1592 2506,1592 2557,1592 2607,1592 2658,1592 2708,1592 2758,1592 2809,1592 2859,1592 2910,1592 2960,1592 3010,1592 3061,1592 3111,1592 3162,1592"/>
+                <TextEquiv>
+                    <Unicode>in stall gangen, aber wegen anwesenheit des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:12;}">
+                <Coords points="2144,1656 2523,1648 2911,1696 3246,1662 3246,1617 3135,1604 2144,1608"/>
+                <Baseline points="2150,1652 2204,1650 2258,1649 2313,1647 2367,1647 2422,1647 2476,1647 2531,1647 2585,1647 2640,1647 2694,1649 2748,1649 2803,1650 2857,1650 2912,1652 2966,1653 3021,1654 3075,1655 3130,1655 3184,1656 3239,1656"/>
+                <TextEquiv>
+                    <Unicode>Mäydtlins an seinem Bösen vorhaben verhindertt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:13;}">
+                <Coords points="2154,1713 2169,1716 2184,1709 2201,1709 2222,1715 2238,1708 2268,1723 2293,1716 2292,1686 2276,1688 2260,1677 2255,1680 2227,1656 2218,1662 2196,1650 2181,1659 2163,1655 2152,1660"/>
+                <Baseline points="2160,1710 2185,1708 2210,1707 2235,1706 2260,1706 2286,1707"/>
+                <TextEquiv>
+                    <Unicode>orden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:14;}">
+                <Coords points="2123,1802 2189,1774 2373,1805 2622,1773 2693,1807 3046,1769 3177,1803 3177,1731 2963,1692 2753,1748 2586,1722 2365,1752 2122,1711"/>
+                <Baseline points="2129,1776 2181,1775 2233,1773 2285,1772 2337,1772 2389,1772 2441,1772 2493,1772 2545,1772 2597,1772 2649,1772 2701,1772 2753,1773 2805,1773 2857,1773 2909,1773 2961,1772 3013,1772 3065,1770 3117,1770 3170,1767"/>
+                <TextEquiv>
+                    <Unicode>Worüber Er nochmahlen geantwortet, daß Er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:15;} place {offset:21; length:9;}">
+                <Coords points="2138,1838 2965,1854 2965,1787 2830,1812 2740,1780 2669,1809 2461,1775 2420,1809 2327,1779 2269,1809 2138,1802"/>
+                <Baseline points="2144,1826 2184,1824 2225,1824 2266,1824 2306,1824 2347,1824 2388,1825 2428,1826 2469,1827 2510,1827 2551,1829 2591,1829 2632,1830 2673,1830 2713,1830 2754,1830 2795,1830 2835,1830 2876,1829 2917,1827 2958,1824"/>
+                <TextEquiv>
+                    <Unicode>einmahl mit boses im Sungehabt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:16;}">
+                <Coords points="2093,1957 2440,1928 2620,1975 2724,1934 2794,1971 3175,1957 3175,1886 3105,1871 2755,1907 2093,1849"/>
+                <Baseline points="2099,1931 2152,1931 2205,1931 2259,1931 2312,1932 2366,1932 2419,1932 2473,1932 2526,1932 2580,1932 2633,1932 2686,1934 2740,1934 2793,1934 2847,1934 2900,1934 2954,1934 3007,1934 3061,1934 3114,1932 3168,1932"/>
+                <TextEquiv>
+                    <Unicode>E. Eb. Er nit am Freytag nachts abermahlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:17;}">
+                <Coords points="2123,2010 2210,1988 2309,1985 2346,2017 2397,2007 2457,2014 2457,1943 2427,1930 2375,1932 2288,1965 2244,1935 2195,1959 2172,1942 2123,1961"/>
+                <Baseline points="2129,1985 2155,1986 2182,1988 2209,1988 2236,1986 2262,1986 2289,1986 2316,1985 2343,1985 2369,1985 2396,1986 2423,1987 2450,1991"/>
+                <TextEquiv>
+                    <Unicode>im Stall gsin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:18;}">
+                <Coords points="3062,2118 3070,2115 3076,2118 3082,2117 3085,2113 3090,2115 3097,2114 3083,2039 3073,2039 3070,2043 3067,2042 3062,2046 3054,2043 3048,2044"/>
+                <Baseline points="3063,2088 3084,2084"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gelugdt, ob das Veich noch zu freßen habe.
+Ob Er nit von deßt wegen in Stall gangen, daß
+Er etwas Schlimmes verüben wollen
+Er habe mit schlimmes im Sinngehabt, seye auch
+mit guhten gedancken in Stall gangen
+Ob Er dann nit damahlen dem Mäydtlin
+inZucht zu gemihtet
+Er bekenne daß Er Ja dem Mäydtlin und zucht
+zu gemihtet
+Repliciert hierauß seye nun heiter am Tag
+daß Er Ja damahlen mit Einem unteuschen Geist
+in stall gangen, aber wegen anwesenheit des
+Mäydtlins an seinem Bösen vorhaben verhindertt
+orden
+Worüber Er nochmahlen geantwortet, daß Er
+einmahl mit boses im Sungehabt
+E. Eb. Er nit am Freytag nachts abermahlen
+im Stall gsin.
+2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

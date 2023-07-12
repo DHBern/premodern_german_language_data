@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>P2PaLA-PRHLT</Creator>
+        <Created>2023-06-22T11:31:15</Created>
+        <LastChange>2023-06-22T11:31:34.617+02:00</LastChange>
+        <TranskribusMetadata docId="1334839" pageId="52361833" pageNr="47" tsid="127498915" status="IN_PROGRESS" userId="42748" imgUrl="https://files.transkribus.eu/Get?id=ZIHYLXZOXQUVECPAPCMJQMZP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SARCZSKXUKATUINZSTTDZCVV" imageId="19027489"/>
+    </Metadata>
+    <Page imageFilename="IMG_9622.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513687495" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rSm7G_1"/>
+                <RegionRefIndexed index="1" regionRef="re4wL_2"/>
+                <RegionRefIndexed index="2" regionRef="rVU6P_4"/>
+                <RegionRefIndexed index="3" regionRef="rSxE7_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="rSm7G_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="177,2901 299,2901 299,3114 177,3114"/>
+        </TextRegion>
+        <TextRegion id="re4wL_2" custom="readingOrder {index:1;} structure {type:marginalia;}">
+            <Coords points="248,657 385,657 385,826 248,826"/>
+        </TextRegion>
+        <TextRegion id="rVU6P_4" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="307,693 1456,693 1456,3449 307,3449"/>
+        </TextRegion>
+        <TextRegion id="rSxE7_3" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1515,712 2618,712 2618,3394 1515,3394"/>
+        </TextRegion>
+    </Page>
+</PcGts>

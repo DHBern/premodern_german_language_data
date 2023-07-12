@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:42:02.099+02:00</Created>
+        <LastChange>2022-09-12T15:35:24.465+02:00</LastChange>
+        <TranskribusMetadata docId="1334851" pageId="52363583" pageNr="185" tsid="114645607" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=UHBCTZBICFHEDNKUVMPBYSMV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MUGJGJKITCQFTCRVFJUUATUG" imageId="30691768"/>
+    </Metadata>
+    <Page imageFilename="IMG_7188.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513624258" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1656,454 1656,623 1803,623 1803,454"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1653,588 1676,582 1704,563 1723,568 1731,560 1789,581 1811,575 1798,476 1779,472 1759,483 1730,471 1715,479 1704,476 1679,495 1664,493 1643,503"/>
+                <Baseline points="1656,573 1685,565 1714,560 1744,557 1773,554 1803,554"/>
+                <TextEquiv>
+                    <Unicode>Bir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bir</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1868,500 1868,638 2637,638 2637,500"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} place {offset:13; length:8;}">
+                <Coords points="1862,551 1893,569 2036,527 2169,533 2221,583 2256,555 2406,567 2494,608 2641,598 2646,546 2501,550 2465,513 2378,539 2290,485 2217,476 2178,505 2114,468 2076,492 2016,456 1955,484 1870,457"/>
+                <Baseline points="1868,536 1906,532 1944,530 1983,528 2021,528 2060,530 2098,531 2137,534 2175,537 2214,541 2252,545 2290,550 2329,555 2367,560 2406,565 2444,570 2483,575 2521,579 2560,584 2598,586 2637,590"/>
+                <TextEquiv>
+                    <Unicode>Christen von Kopfigen Pag. 108.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1955,595 1997,624 2076,596 2129,632 2237,601 2325,657 2424,660 2429,602 2374,569 2319,569 2290,589 2254,556 2219,583 2195,556 2120,542 2056,563 2027,549 1995,569 1958,564"/>
+                <Baseline points="1961,588 1986,587 2012,587 2038,588 2063,588 2089,590 2115,591 2140,593 2166,595 2192,598 2217,600 2243,603 2269,606 2294,609 2320,611 2346,615 2371,618 2397,621 2423,624"/>
+                <TextEquiv>
+                    <Unicode>nehreibilliger Todstchlag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Christen von Kopfigen Pag. 108.
+nehreibilliger Todstchlag.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2669,3452 2669,3607 2721,3607 2721,3452"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2662,3566 2670,3568 2675,3564 2688,3563 2698,3569 2708,3562 2717,3572 2724,3573 2734,3475 2709,3473 2699,3466 2690,3472 2682,3468 2672,3469"/>
+                <Baseline points="2669,3552 2695,3554 2721,3557"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

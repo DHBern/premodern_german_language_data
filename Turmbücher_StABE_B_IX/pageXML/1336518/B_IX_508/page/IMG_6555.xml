@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T16:07:26.534+02:00</Created>
+        <LastChange>2022-09-12T15:59:56.240+02:00</LastChange>
+        <TranskribusMetadata docId="1336518" pageId="52420855" pageNr="1" tsid="114799144" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=GDPYYOEYDTNDAPGWCWSKLKAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LQJZHHNPWKUBQJAMZIEKDHBD" imageId="30694198"/>
+    </Metadata>
+    <Page imageFilename="IMG_6555.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513564516" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1907,2339 1907,2583 2132,2583 2132,2339"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1893,2406 1926,2397 1941,2412 1956,2403 1995,2412 2061,2382 2085,2397 2115,2394 2127,2406 2148,2406 2148,2298 2052,2328 2031,2328 1995,2301 1935,2319 1893,2313"/>
+                <Baseline points="1907,2381 1932,2382 1957,2382 1982,2382 2007,2382 2032,2382 2057,2382 2082,2382 2107,2382 2132,2382"/>
+                <TextEquiv>
+                    <Unicode>St. A. 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1946,2482 1985,2488 2003,2470 2021,2485 2036,2479 2054,2488 2066,2479 2075,2488 2099,2491 2099,2407 2054,2395 2006,2404 1997,2413 1991,2407 1946,2407"/>
+                <Baseline points="1962,2469 1992,2468 2023,2468 2053,2469 2084,2468"/>
+                <TextEquiv>
+                    <Unicode>81X</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1925,2586 1982,2565 2006,2586 2030,2571 2045,2580 2060,2571 2072,2580 2099,2564 2126,2567 2126,2501 2099,2492 2084,2499 2063,2481 2051,2490 2012,2469 1982,2493 1946,2472 1925,2472"/>
+                <Baseline points="1940,2561 1968,2562 1997,2562 2025,2561 2054,2561 2082,2561 2111,2562"/>
+                <TextEquiv>
+                    <Unicode>500</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>St. A. 6.
+81X
+500</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

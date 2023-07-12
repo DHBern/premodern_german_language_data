@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:58:46.023+02:00</Created>
+        <LastChange>2022-09-12T15:59:53.323+02:00</LastChange>
+        <TranskribusMetadata docId="1336520" pageId="52421523" pageNr="140" tsid="114799817" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=FQFSYAIYOTBPMVUELMNEENNV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LJFSMXXYOJLVLFFPBSYPEHVR" imageId="30694114"/>
+    </Metadata>
+    <Page imageFilename="IMG_6551.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513550851" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2099,1155 2099,1308 2805,1308 2805,1155"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:6; length:5; continued:true;}">
+                <Coords points="2090,1236 2144,1216 2194,1232 2292,1202 2487,1216 2537,1190 2535,1134 2492,1139 2444,1116 2413,1129 2363,1101 2329,1136 2278,1132 2232,1164 2198,1139 2173,1154 2126,1125 2086,1140"/>
+                <Baseline points="2099,1214 2124,1211 2149,1209 2174,1207 2199,1206 2225,1205 2250,1205 2275,1203 2300,1202 2326,1202 2351,1200 2376,1200 2401,1199 2427,1199 2452,1197 2477,1196 2502,1194 2528,1193"/>
+                <TextEquiv>
+                    <Unicode>Wasem Peter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:7; continued:true;} person {offset:9; length:12;}">
+                <Coords points="2111,1310 2199,1296 2264,1323 2346,1281 2614,1337 2675,1301 2814,1301 2814,1207 2688,1209 2618,1249 2516,1200 2314,1225 2241,1211 2191,1235 2110,1216"/>
+                <Baseline points="2120,1289 2154,1287 2188,1285 2222,1283 2257,1282 2291,1280 2325,1280 2359,1278 2394,1278 2428,1278 2462,1278 2496,1278 2531,1278 2565,1279 2599,1280 2633,1280 2668,1281 2702,1281 2736,1281 2770,1283 2805,1283"/>
+                <TextEquiv>
+                    <Unicode>Berbung, David Varneg, p. 17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wasem Peter
+Berbung, David Varneg, p. 17</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2985,1083 2985,1219 3086,1219 3086,1083"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2994,1134 3003,1134 3009,1138 3025,1125 3035,1125 3035,1076 3023,1076 3015,1081 3007,1078 2994,1078"/>
+                <Baseline points="3003,1121 3024,1121"/>
+                <TextEquiv>
+                    <Unicode>F</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2982,1241 3007,1238 3054,1195 3068,1191 3072,1195 3075,1190 3097,1185 3088,1127 3075,1129 3056,1120 3035,1129 3023,1125 3009,1138 2998,1134 2985,1150 2969,1154"/>
+                <Baseline points="2985,1200 3010,1198 3035,1194 3060,1190 3086,1187"/>
+                <TextEquiv>
+                    <Unicode>194 a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>F
+194 a</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T15:03:46.692+02:00</Created>
+        <LastChange>2022-09-09T15:58:52.352+02:00</LastChange>
+        <TranskribusMetadata docId="1334831" pageId="52360819" pageNr="2" tsid="114642589" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=LKYFJCMROLQSZESSQKWQWEBO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GEFQUADRXHSGFPDJCZECXIAR" imageId="16066407">
+            <Property key="mdSetName" value="myMdSet"/>
+            <Property key="property2"/>
+            <Property key="property1"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="Turmbuch_StAB B IX 476_00002-20200925_081956.jpg" imageWidth="5472" imageHeight="7296">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513720142" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="3626,1724 3626,1884 4582,1884 4582,1724"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} unclear {offset:1; length:19;} person {offset:3; length:11;}">
+                <Coords points="3615,1904 3679,1926 3756,1891 3928,1963 4203,1924 4274,1944 4595,1838 4594,1736 4341,1743 4218,1785 4038,1766 3967,1796 3750,1750 3696,1780 3614,1767"/>
+                <Baseline points="3626,1834 3673,1832 3721,1832 3769,1832 3817,1832 3865,1832 3912,1832 3960,1832 4008,1832 4056,1830 4104,1830 4151,1830 4199,1830 4247,1830 4295,1828 4343,1828 4390,1828 4438,1826 4486,1826 4534,1824 4582,1824"/>
+                <TextEquiv>
+                    <Unicode>h. Leuenberger di 30f</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>h. Leuenberger di 30f</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

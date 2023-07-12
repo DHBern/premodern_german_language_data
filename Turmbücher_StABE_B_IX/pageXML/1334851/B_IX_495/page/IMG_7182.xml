@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:42:01.997+02:00</Created>
+        <LastChange>2022-09-12T15:35:19.427+02:00</LastChange>
+        <TranskribusMetadata docId="1334851" pageId="52363552" pageNr="179" tsid="114645571" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=YAKHUPMJJIIZKNMVEYKIXHCZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LZHFDEARRHNJXAXADHXFWCMM" imageId="30691762"/>
+    </Metadata>
+    <Page imageFilename="IMG_7182.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513624073" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1638,474 1638,614 2447,614 2447,474"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:20;}">
+                <Coords points="1633,595 1916,518 2452,539 2447,443 2388,480 2322,442 2264,478 2195,434 2149,471 1988,423 1954,448 1888,434 1789,517 1707,476 1628,514"/>
+                <Baseline points="1638,588 1678,573 1718,561 1759,549 1799,540 1840,532 1880,525 1921,520 1961,515 2002,512 2042,510 2082,509 2123,509 2163,509 2204,510 2244,512 2285,514 2325,516 2366,521 2406,522 2447,527"/>
+                <TextEquiv>
+                    <Unicode>Amni Davidton Cornod, de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} place {offset:0; length:9;}">
+                <Coords points="1858,596 2019,607 2043,591 2106,634 2200,604 2236,623 2295,606 2329,630 2441,603 2432,528 2361,548 2342,533 2315,554 2211,513 2162,542 2114,543 2081,517 1993,549 1916,517 1858,536"/>
+                <Baseline points="1863,597 1891,595 1920,592 1948,590 1977,588 2006,586 2034,585 2063,584 2092,584 2120,584 2149,584 2178,584 2206,584 2235,585 2264,585 2292,587 2321,588 2350,590 2378,591 2407,593 2436,594"/>
+                <TextEquiv>
+                    <Unicode>Neuenburg Pag: 69.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Amni Davidton Cornod, de
+Neuenburg Pag: 69.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

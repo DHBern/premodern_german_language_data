@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-29T23:31:52.718+01:00</Created>
+        <LastChange>2022-09-09T14:36:52.897+02:00</LastChange>
+        <TranskribusMetadata docId="1334843" pageId="52361758" pageNr="1" tsid="114643550" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=QJFYZNJDHKAHQHAFIZDJIUPC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NDUJFBASYSCTDDKYMHLQKXMN" imageId="17821921"/>
+    </Metadata>
+    <Page imageFilename="IMG_4830.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513666242" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1650,1200 1650,1798 1883,1798 1883,1200"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:2; continued:true;}">
+                <Coords points="1640,1318 1672,1319 1691,1300 1746,1317 1760,1308 1778,1318 1810,1317 1818,1308 1844,1320 1864,1317 1860,1187 1822,1172 1740,1195 1691,1152 1667,1143 1635,1148"/>
+                <Baseline points="1650,1293 1675,1287 1700,1283 1726,1283 1751,1281 1776,1281 1802,1283 1827,1283 1853,1283"/>
+                <TextEquiv>
+                    <Unicode>lu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:6; continued:true;}">
+                <Coords points="1678,1476 1698,1471 1710,1478 1720,1471 1740,1478 1754,1470 1772,1479 1800,1471 1835,1485 1876,1477 1882,1361 1816,1328 1784,1356 1769,1349 1758,1356 1735,1347 1710,1320 1686,1320"/>
+                <Baseline points="1689,1449 1714,1448 1739,1447 1764,1446 1790,1446 1815,1448 1840,1454 1866,1463"/>
+                <TextEquiv>
+                    <Unicode>buchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1654,1768 1698,1772 1730,1753 1782,1792 1810,1798 1894,1779 1892,1635 1866,1629 1833,1598 1821,1596 1780,1634 1652,1642"/>
+                <Baseline points="1664,1755 1691,1757 1718,1758 1746,1757 1773,1755 1800,1753 1828,1753 1855,1754 1883,1758"/>
+                <TextEquiv>
+                    <Unicode>172 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lu
+buchen
+172 </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

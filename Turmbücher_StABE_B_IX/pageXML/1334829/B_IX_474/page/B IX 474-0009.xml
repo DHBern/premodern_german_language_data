@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>P2PaLA-PRHLT</Creator>
+        <Created>2023-06-21T16:14:04</Created>
+        <LastChange>2023-06-21T16:17:34.444+02:00</LastChange>
+        <TranskribusMetadata docId="1334829" pageId="52360805" pageNr="9" tsid="127446971" status="IN_PROGRESS" userId="42748" imgUrl="https://files.transkribus.eu/Get?id=DGDDXLCZUDXNDVVSCFTCYCLI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WJINSWAGWVXOHKAZYHUAQBDI" imageId="16045362"/>
+    </Metadata>
+    <Page imageFilename="B IX 474-0009.jpg" imageWidth="2481" imageHeight="3308">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513737906" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rPCX9_4"/>
+                <RegionRefIndexed index="1" regionRef="rt7RA_1"/>
+                <RegionRefIndexed index="2" regionRef="rX0YZ_3"/>
+                <RegionRefIndexed index="3" regionRef="rfrF1_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="rPCX9_4" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="74,345 1098,345 1098,2648 74,2648"/>
+        </TextRegion>
+        <TextRegion id="rt7RA_1" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="209,268 2145,268 2145,684 209,684"/>
+        </TextRegion>
+        <TextRegion id="rX0YZ_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="597,361 646,361 646,394 597,394"/>
+        </TextRegion>
+        <TextRegion id="rfrF1_2" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1185,578 2183,578 2183,3224 1185,3224"/>
+        </TextRegion>
+    </Page>
+</PcGts>

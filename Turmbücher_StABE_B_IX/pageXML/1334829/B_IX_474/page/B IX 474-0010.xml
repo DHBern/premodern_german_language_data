@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>P2PaLA-PRHLT</Creator>
+        <Created>2023-06-21T16:16:55</Created>
+        <LastChange>2023-06-21T16:17:34.739+02:00</LastChange>
+        <TranskribusMetadata docId="1334829" pageId="52360812" pageNr="10" tsid="127446974" status="IN_PROGRESS" userId="42748" imgUrl="https://files.transkribus.eu/Get?id=MOEWHGJOVXWLFSAJUMIXGHHE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RMVQPZQFVQGVSZXKHUFLPUEE" imageId="16045366"/>
+    </Metadata>
+    <Page imageFilename="B IX 474-0010.jpg" imageWidth="2481" imageHeight="3308">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513737955" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r6caW_3"/>
+                <RegionRefIndexed index="1" regionRef="rY41Y_5"/>
+                <RegionRefIndexed index="2" regionRef="rVaSA_1"/>
+                <RegionRefIndexed index="3" regionRef="rGMxC_4"/>
+                <RegionRefIndexed index="4" regionRef="ro2i8_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r6caW_3" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="132,2109 155,2109 155,2174 132,2174"/>
+        </TextRegion>
+        <TextRegion id="rY41Y_5" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="197,229 2132,229 2132,3043 197,3043"/>
+        </TextRegion>
+        <TextRegion id="rVaSA_1" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="222,197 1130,197 1130,613 222,613"/>
+        </TextRegion>
+        <TextRegion id="rGMxC_4" custom="readingOrder {index:3;} structure {type:marginalia;}">
+            <Coords points="1166,2090 1185,2090 1185,2164 1166,2164"/>
+        </TextRegion>
+        <TextRegion id="ro2i8_2" custom="readingOrder {index:4;} structure {type:marginalia;}">
+            <Coords points="1166,2183 1198,2183 1198,2338 1166,2338"/>
+        </TextRegion>
+    </Page>
+</PcGts>

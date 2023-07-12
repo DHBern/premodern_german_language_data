@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-29T22:51:09.812+01:00</Created>
+        <LastChange>2022-09-09T14:37:58.220+02:00</LastChange>
+        <TranskribusMetadata docId="1334841" pageId="52361624" pageNr="1" tsid="114643411" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=PLLXYFNKLKHZBEWZXLMBMAEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XIJXRESHSBDOUTDCZKDACVBU" imageId="17821757"/>
+    </Metadata>
+    <Page imageFilename="IMG_4873.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513675449" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1286,424 1286,1116 1602,1116 1602,424"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1293,526 1339,523 1376,500 1480,501 1496,487 1520,506 1540,498 1611,526 1614,410 1555,389 1507,397 1475,379 1423,393 1372,348 1297,394"/>
+                <Baseline points="1304,489 1331,486 1358,486 1385,486 1412,487 1439,488 1466,489 1493,491 1520,492 1547,492 1574,492 1602,491"/>
+                <TextEquiv>
+                    <Unicode>hurn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1277,680 1359,658 1383,674 1409,664 1477,678 1545,726 1545,530 1445,584 1403,588 1335,532 1277,524"/>
+                <Baseline points="1286,662 1313,660 1341,659 1369,659 1396,659 1424,659 1452,660 1479,660 1507,660 1535,659"/>
+                <TextEquiv>
+                    <Unicode>Buch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1280,886 1300,878 1319,893 1337,891 1354,874 1382,877 1402,860 1440,881 1460,867 1504,869 1499,705 1473,704 1409,760 1382,755 1327,777 1307,767 1277,784"/>
+                <Baseline points="1290,864 1315,866 1341,864 1366,864 1392,861 1417,861 1443,860 1468,860 1494,861"/>
+                <TextEquiv>
+                    <Unicode>1705</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1306,950 1316,950 1326,958 1332,952 1350,953 1354,949 1377,964 1382,958 1391,962 1398,956 1406,960 1418,957 1417,891 1403,894 1392,884 1374,880 1355,895 1304,888"/>
+                <Baseline points="1316,944 1346,938 1376,940 1407,939"/>
+                <TextEquiv>
+                    <Unicode>613</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1287,1103 1316,1114 1370,1070 1396,1090 1425,1075 1450,1085 1471,1075 1500,1082 1490,977 1461,973 1433,996 1388,964 1381,973 1344,966 1321,977 1275,977"/>
+                <Baseline points="1295,1085 1322,1082 1350,1079 1377,1076 1405,1073 1432,1071 1460,1068 1488,1068"/>
+                <TextEquiv>
+                    <Unicode>1711</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hurn
+Buch
+1705
+613
+1711</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

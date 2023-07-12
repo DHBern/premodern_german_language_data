@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-04-27T18:46:23.244+02:00</Created>
+        <LastChange>2023-06-19T09:46:47.636+02:00</LastChange>
+        <TranskribusMetadata docId="1334845" pageId="52362024" pageNr="2" tsid="127236520" status="IN_PROGRESS" userId="68497" imgUrl="https://files.transkribus.eu/Get?id=RVPYSXDXBLBRPNRKLJBOTCIC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AKBWKZAMOPEVDVILAYXREJJI" imageId="19734345"/>
+    </Metadata>
+    <Page imageFilename="IMG_5001.JPG" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513655066" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="729,499 725,1538 2022,1538 2026,499"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="992,847 1229,787 1445,850 1580,809 1798,876 1810,546 1765,524 1662,553 1483,698 1381,654 1212,649 990,757"/>
+                <Baseline points="999,806 1039,801 1079,797 1120,792 1160,788 1201,785 1241,782 1282,780 1322,779 1363,777 1403,775 1443,774 1484,774 1524,774 1565,774 1605,774 1646,775 1686,776 1727,777 1767,779 1808,780"/>
+                <TextEquiv>
+                    <Unicode>rubun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="717,1115 1000,1054 1207,1125 1610,1046 1859,1105 2030,1080 2029,948 1818,881 1693,910 1429,835 1375,873 1280,845 1054,965 888,883 718,874"/>
+                <Baseline points="725,1071 789,1067 854,1062 919,1059 984,1058 1049,1056 1114,1055 1178,1053 1243,1053 1308,1053 1373,1055 1438,1056 1503,1056 1568,1058 1632,1059 1697,1062 1762,1064 1827,1065 1892,1067 1957,1068 2022,1070"/>
+                <TextEquiv>
+                    <Unicode>Vom Dan: 1721</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1323,1411 1357,1395 1419,1432 1531,1357 1552,1368 1568,1352 1589,1360 1589,1143 1566,1141 1537,1164 1467,1133 1383,1184 1360,1174 1323,1190"/>
+                <Baseline points="1331,1314 1356,1313 1381,1313 1406,1313 1431,1313 1456,1314 1481,1314 1506,1314 1531,1314 1556,1313 1581,1310"/>
+                <TextEquiv>
+                    <Unicode>blß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="718,1522 1499,1501 1800,1628 2029,1560 2030,1378 1917,1350 1617,1338 1449,1433 1321,1339 1024,1397 848,1297 720,1293"/>
+                <Baseline points="726,1485 790,1488 855,1490 920,1491 985,1493 1049,1494 1114,1494 1179,1496 1244,1496 1308,1496 1373,1496 1438,1497 1503,1497 1567,1497 1632,1497 1697,1497 1762,1497 1826,1497 1891,1497 1956,1497 2021,1497"/>
+                <TextEquiv>
+                    <Unicode>Decemb. 1729.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rubun
+Vom Dan: 1721
+blß
+Decemb. 1729.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

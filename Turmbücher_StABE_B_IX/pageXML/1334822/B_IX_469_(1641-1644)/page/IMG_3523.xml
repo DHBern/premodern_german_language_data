@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XIX_comb-Huber_M2(htr_id=23847)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T12:43:11.240+02:00</Created>
+        <LastChange>2022-09-09T16:31:45.587+02:00</LastChange>
+        <TranskribusMetadata docId="1334822" pageId="52360020" pageNr="13" tsid="114641776" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=GRFPZKRUELMHABADXKQVQNQD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RDRNZPKKGWBVVMHGHKYROYCE" imageId="16048927"/>
+    </Metadata>
+    <Page imageFilename="IMG_3523.jpeg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513761086" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="region_1602108978186_98"/>
+                <RegionRefIndexed index="2" regionRef="r2"/>
+                <RegionRefIndexed index="3" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="209,313 209,859 1353,859 1353,313"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="589,368 599,368 603,373 616,372 624,381 631,380 643,370 652,381 668,383 671,314 661,317 653,313 645,315 634,305 631,307 606,280 593,282"/>
+                <Baseline points="596,354 629,357 662,357"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:18;} person {offset:37; length:1; continued:true;}">
+                <Coords points="202,421 766,496 874,453 925,495 1059,464 1252,533 1358,532 1365,444 1144,391 866,419 763,343 581,398 210,311"/>
+                <Baseline points="210,407 267,413 324,419 381,423 438,428 495,431 552,433 610,437 667,440 724,443 781,446 838,449 895,452 952,456 1010,461 1067,467 1124,473 1181,480 1238,488 1295,497 1353,509"/>
+                <TextEquiv>
+                    <Unicode>Schwärt schmuacher ein angebner bub- s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} person {offset:0; length:16; continued:true;} person {offset:32; length:1; continued:true;}">
+                <Coords points="202,519 268,514 411,584 508,522 695,588 924,543 1069,587 1137,568 1139,526 993,470 905,514 858,467 759,502 661,463 513,497 390,441 204,459"/>
+                <Baseline points="209,504 255,507 301,509 347,512 393,513 439,515 485,516 531,518 577,519 623,521 670,522 716,524 762,526 808,528 854,530 900,532 946,536 992,539 1038,542 1084,546 1131,551"/>
+                <TextEquiv>
+                    <Unicode>Steffisbinger hanß angebhn sol 93</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} person {offset:0; length:11; continued:true;} person {offset:17; length:1; continued:true;}">
+                <Coords points="244,608 335,631 502,612 588,645 885,618 1042,645 1038,583 705,603 594,536 389,588 247,524"/>
+                <Baseline points="252,608 291,609 330,609 369,611 408,612 447,612 486,614 526,615 565,616 604,617 643,618 682,618 721,620 760,621 800,623 839,624 878,624 917,626 956,627 995,630 1035,632"/>
+                <TextEquiv>
+                    <Unicode>Salome Müller 222.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} person {offset:0; length:12; continued:true;} person {offset:13; length:1; continued:true;}">
+                <Coords points="243,705 569,714 707,691 930,744 976,725 978,665 956,657 755,682 598,668 532,634 372,661 246,627"/>
+                <Baseline points="251,693 286,692 322,690 358,690 394,690 430,690 466,691 502,692 538,693 574,695 610,696 645,698 681,700 717,702 753,704 789,706 825,707 861,709 897,710 933,711 969,711"/>
+                <TextEquiv>
+                    <Unicode>Salome Rede238</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} person {offset:0; length:15; continued:true;} person {offset:21; length:1; continued:true;}">
+                <Coords points="240,820 369,849 434,819 543,867 669,817 736,849 839,815 1047,842 1103,879 1197,837 1200,794 848,794 797,748 666,782 580,717 438,772 379,716 246,721"/>
+                <Baseline points="249,788 296,789 343,791 390,793 437,795 484,797 531,800 578,803 625,806 672,807 719,810 766,813 813,816 860,819 907,822 954,825 1001,827 1048,831 1095,833 1142,836 1190,839"/>
+                <TextEquiv>
+                    <Unicode>Susanna Spennigli 248.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+Schwärt schmuacher ein angebner bub- s
+Steffisbinger hanß angebhn sol 93
+Salome Müller 222.
+Salome Rede238
+Susanna Spennigli 248.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602108978186_98" custom="readingOrder {index:1;}">
+            <Coords points="1880,1962 2103,1962 2103,2096 1880,2096"/>
+            <TextLine id="line_1602109118165_132" custom="readingOrder {index:0;}">
+                <Coords points="2002,2088 2074,2084 2074,2060 2060,2060 2046,2074 2002,2072"/>
+                <Baseline points="2011,2087 2063,2087"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602109122753_135" custom="readingOrder {index:1;}">
+                <Coords points="1906,2102 1944,2098 1956,2104 1966,2094 1990,2094 2006,2106 2028,2094 2046,2106 2056,2098 2076,2096 2076,2064 1954,2064 1942,2076 1906,2072"/>
+                <Baseline points="1916,2093 2016,2093 2066,2093"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602109112610_129" custom="readingOrder {index:2;}">
+                <Coords points="1934,2088 2008,2088 2014,2082 2030,2086 2036,2080 2084,2080 2084,2062 2072,2060 2062,2060 2048,2070 2030,2060 2026,2064 2014,2060 1998,2072 1972,2060 1934,2062"/>
+                <Baseline points="1944,2088 2044,2088 2073,2088"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602109106234_126" custom="readingOrder {index:3;}">
+                <Coords points="1934,2092 2066,2092 2088,2096 2088,2066 1934,2068"/>
+                <Baseline points="1944,2089 2044,2089 2078,2089"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:2;}">
+            <Coords points="1583,2185 1583,2994 2564,2994 2564,2185"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} person {offset:0; length:11; continued:true;} person {offset:16; length:1; continued:true;}">
+                <Coords points="1577,2264 1659,2228 1718,2253 1779,2222 1875,2240 2065,2222 2146,2242 2144,2165 1985,2191 1895,2134 1725,2148 1676,2125 1575,2129"/>
+                <Baseline points="1583,2232 1610,2230 1638,2228 1666,2226 1694,2224 1721,2223 1749,2222 1777,2220 1805,2220 1832,2220 1860,2219 1888,2219 1916,2219 1943,2219 1971,2219 1999,2219 2027,2219 2054,2220 2082,2220 2110,2220 2138,2220"/>
+                <TextEquiv>
+                    <Unicode>Verena Müller 26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} person {offset:0; length:11; continued:true;} person {offset:29; length:1; continued:true;}">
+                <Coords points="1618,2323 2028,2303 2130,2354 2186,2306 2354,2287 2556,2325 2571,2223 2471,2259 2195,2236 2151,2271 1954,2251 1895,2277 1825,2230 1749,2273 1669,2227 1617,2252"/>
+                <Baseline points="1625,2295 1674,2295 1723,2295 1773,2295 1822,2295 1872,2295 1921,2294 1970,2292 2020,2292 2069,2291 2119,2291 2168,2289 2218,2289 2267,2288 2316,2288 2366,2288 2415,2288 2465,2288 2514,2288 2564,2289"/>
+                <TextEquiv>
+                    <Unicode>Vrena Brunner 29 iterum 40 83.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} person {offset:0; length:8; continued:true;} person {offset:16; length:1; continued:true;}">
+                <Coords points="1619,2417 1836,2396 1920,2438 1954,2412 1998,2429 2052,2390 2207,2403 2207,2366 2111,2353 2032,2304 1752,2358 1663,2298 1619,2319"/>
+                <Baseline points="1626,2390 1654,2390 1683,2390 1711,2390 1740,2389 1769,2388 1797,2388 1826,2388 1855,2387 1883,2387 1912,2386 1941,2385 1969,2385 1998,2385 2027,2385 2055,2385 2084,2385 2113,2387 2141,2387 2170,2388 2199,2390"/>
+                <TextEquiv>
+                    <Unicode>Verena Mas fol 42</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;} person {offset:0; length:11; continued:true;} person {offset:21; length:1; continued:true;}">
+                <Coords points="1636,2487 1701,2500 1813,2473 1883,2508 1972,2469 2075,2498 2147,2473 2314,2488 2314,2435 2296,2432 1981,2452 1846,2397 1803,2415 1743,2397 1688,2428 1637,2414"/>
+                <Baseline points="1643,2469 1676,2468 1709,2467 1742,2466 1775,2466 1809,2467 1842,2468 1875,2468 1908,2469 1941,2470 1975,2471 2008,2472 2041,2472 2074,2474 2107,2474 2141,2474 2174,2475 2207,2474 2240,2474 2273,2472 2307,2471"/>
+                <TextEquiv>
+                    <Unicode>Uersula Schor 150 152.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;} person {offset:0; length:8; continued:true;} person {offset:12; length:1; continued:true;}">
+                <Coords points="1637,2561 1827,2613 1962,2550 2159,2578 2238,2546 2238,2505 2186,2482 2062,2536 1960,2537 1883,2531 1855,2502 1817,2511 1770,2478 1637,2522"/>
+                <Baseline points="1644,2558 1670,2558 1696,2556 1722,2556 1748,2556 1774,2556 1801,2556 1827,2556 1853,2556 1879,2558 1905,2559 2231,2557"/>
+                <TextEquiv>
+                    <Unicode>Ulli Jaggn 16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;} person {offset:0; length:4; continued:true;} person {offset:18; length:1; continued:true;}">
+                <Coords points="1633,2657 1756,2675 1791,2654 1850,2685 2004,2663 2055,2699 2120,2654 2410,2677 2410,2638 2305,2615 2108,2633 1972,2582 1927,2620 1867,2590 1781,2619 1635,2557"/>
+                <Baseline points="1640,2651 1668,2651 1697,2651 1726,2651 1755,2651 1784,2652 1812,2652 1841,2652 1870,2652 1899,2652 1928,2654 1956,2654 1985,2654 2014,2654 2043,2655 2072,2655 2100,2655 2129,2655 2158,2655 2187,2656 2403,2661"/>
+                <TextEquiv>
+                    <Unicode>Berena Im Seeg 102.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:6;} person {offset:0; length:16; continued:true;} person {offset:17; length:1; continued:true;}">
+                <Coords points="1639,2738 1732,2785 1853,2731 1988,2776 2262,2751 2344,2799 2443,2789 2444,2726 2308,2692 2137,2731 2013,2719 1910,2668 1803,2701 1641,2657"/>
+                <Baseline points="1646,2733 1676,2733 1707,2735 1738,2735 1769,2736 1800,2736 1831,2738 1862,2738 1893,2739 1924,2740 1955,2741 1985,2742 2016,2744 2047,2744 2078,2745 2109,2747 2140,2747 2171,2748 2202,2749 2233,2749 2436,2754"/>
+                <TextEquiv>
+                    <Unicode>Vrsula Bilgrein222</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:7;} person {offset:0; length:13; continued:true;}">
+                <Coords points="1639,2845 1794,2865 1897,2834 2410,2896 2413,2820 2126,2827 1964,2756 1914,2774 1858,2735 1733,2786 1643,2733"/>
+                <Baseline points="1646,2832 1672,2833 1699,2834 1726,2834 1752,2835 1779,2835 1806,2837 1832,2837 1859,2837 1886,2838 1913,2838 1939,2840 1966,2840 1993,2841 2019,2843 2046,2843 2073,2844 2099,2846 2126,2848 2153,2849 2404,2863"/>
+                <TextEquiv>
+                    <Unicode>Peronica Müller 247.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:8;}">
+                <Coords points="1672,2917 1766,2943 1858,2924 1900,2954 2122,2937 2436,2998 2440,2937 2398,2917 2187,2923 2030,2876 1915,2905 1859,2854 1775,2879 1676,2849"/>
+                <Baseline points="1680,2915 1706,2915 1732,2916 1759,2916 1785,2918 1812,2918 1838,2920 1865,2923 1891,2924 1918,2927 1944,2930 2432,2957"/>
+                <TextEquiv>
+                    <Unicode>Vas Bng255</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verena Müller 26.
+Vrena Brunner 29 iterum 40 83.
+Verena Mas fol 42
+Uersula Schor 150 152.
+Ulli Jaggn 16
+Berena Im Seeg 102.
+Vrsula Bilgrein222
+Peronica Müller 247.
+Vas Bng255</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:3;}">
+            <Coords points="2916,3628 2916,3784 2982,3784 2982,3628"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2908,3747 2916,3748 2928,3758 2940,3757 2952,3763 2972,3750 2987,3756 2997,3645 2971,3647 2962,3653 2953,3647 2937,3650 2917,3642"/>
+                <Baseline points="2916,3728 2949,3731 2982,3734"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <LineDrawingRegion id="LineDrawing_1602109186686_145" custom="readingOrder {index:4;}">
+            <Coords points="1931,2087 2079,2087 2079,2086 1931,2086"/>
+        </LineDrawingRegion>
+    </Page>
+</PcGts>

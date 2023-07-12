@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:21:57.321+02:00</Created>
+        <LastChange>2022-09-12T15:25:47.736+02:00</LastChange>
+        <TranskribusMetadata docId="1334850" pageId="52362459" pageNr="1" tsid="114644264" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=OUKGYQOYHHKYWQMHOHOAYKGH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EGRHCQZKUSTYXOKZJJGCPEEU" imageId="30687492"/>
+    </Metadata>
+    <Page imageFilename="IMG_6814.jpg" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513624967" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1287,312 1287,963 1715,963 1715,312"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1314,411 1334,409 1344,399 1370,413 1384,413 1384,259 1370,257 1364,263 1356,255 1332,269 1314,265"/>
+                <Baseline points="1323,374 1348,372 1374,374"/>
+                <TextEquiv>
+                    <Unicode>.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1283,717 1337,713 1364,688 1416,686 1472,652 1499,669 1545,665 1632,704 1639,528 1617,525 1527,570 1466,530 1413,563 1358,535 1290,547"/>
+                <Baseline points="1295,666 1320,664 1345,659 1370,658 1395,657 1420,657 1445,658 1471,659 1496,662 1521,664 1546,667 1571,670 1596,672 1622,675"/>
+                <TextEquiv>
+                    <Unicode>1751. u</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1408,771 1452,774 1481,800 1498,791 1552,812 1678,806 1722,820 1737,693 1639,693 1607,706 1593,688 1559,698 1529,682 1461,699 1448,683 1419,678"/>
+                <Baseline points="1419,768 1445,770 1472,773 1499,775 1526,777 1553,780 1580,783 1607,786 1634,790 1661,794 1688,799 1715,804"/>
+                <TextEquiv>
+                    <Unicode>iet d. 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1276,911 1300,906 1392,946 1424,944 1457,981 1544,925 1563,939 1588,925 1658,952 1666,850 1644,851 1602,821 1528,844 1485,830 1459,851 1411,849 1360,811 1284,805"/>
+                <Baseline points="1287,905 1312,905 1338,906 1364,908 1390,908 1416,909 1442,911 1468,912 1494,915 1520,917 1546,919 1572,923 1598,926 1624,930 1650,933"/>
+                <TextEquiv>
+                    <Unicode>Jan. 1753.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>.
+1751. u
+iet d. 22.
+Jan. 1753.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

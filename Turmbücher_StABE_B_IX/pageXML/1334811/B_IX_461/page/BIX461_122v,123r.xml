@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Turmbücher_StaBe_3_A.Funk(htr_id=27278)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-03T12:26:26.011+02:00</Created>
+        <LastChange>2022-09-12T14:25:08.189+02:00</LastChange>
+        <TranskribusMetadata docId="1334811" pageId="52359459" pageNr="129" tsid="114641205" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=LNTWGEEKLGIIFGFBAMUBVFZU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMIFUIIXBUBWBYEDYULMOGOU" imageId="15997979"/>
+    </Metadata>
+    <Page imageFilename="BIX461_122v,123r.jpg" imageWidth="4000" imageHeight="3000">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513819883" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="243,153 243,1720 1104,1720 1104,153"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:14; continued:true;}">
+                <Coords points="286,192 388,220 653,216 755,268 800,244 858,297 950,283 1072,350 1101,300 925,158 769,185 671,136 517,117 406,164 290,167"/>
+                <Baseline points="293,183 332,187 372,191 412,193 452,196 492,199 532,203 572,206 612,210 652,214 692,219 731,224 771,230 811,238 851,246 891,256 931,267 971,279 1011,293 1051,309 1091,326"/>
+                <TextEquiv>
+                    <Unicode>anns sieslerne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:11; continued:true;}">
+                <Coords points="489,280 545,291 615,280 629,296 665,289 719,308 747,299 805,332 853,321 860,261 753,268 721,233 692,226 611,248 519,213 496,220"/>
+                <Baseline points="495,269 520,271 545,273 570,275 596,278 621,281 646,283 672,287 697,290 722,293 747,297 773,301 798,304 823,308 849,312"/>
+                <TextEquiv>
+                    <Unicode>Vhaldtkirch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="238,1591 586,1590 675,1624 754,1582 908,1611 1000,1586 1095,1631 1111,1368 1011,1455 940,1422 858,1477 692,1483 651,1454 580,1504 481,1423 239,1421"/>
+                <Baseline points="243,1572 286,1574 329,1577 372,1578 415,1580 458,1580 501,1581 544,1581 587,1581 630,1581 673,1581 716,1581 759,1581 802,1581 845,1581 888,1581 931,1581 974,1581 1017,1581 1060,1581 1104,1583"/>
+                <TextEquiv>
+                    <Unicode>Abichen G</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="424,1628 480,1665 532,1654 608,1687 643,1656 1023,1674 1086,1658 1085,1615 1024,1618 975,1588 845,1621 752,1583 698,1623 626,1593 424,1612"/>
+                <Baseline points="429,1652 461,1653 494,1653 526,1653 559,1653 591,1653 624,1652 656,1652 689,1652 721,1652 754,1650 787,1650 819,1650 852,1650 884,1650 917,1650 949,1650 982,1650 1014,1650 1047,1652 1080,1652"/>
+                <TextEquiv>
+                    <Unicode>eYsenkrämer Burger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} place {offset:10; length:5;}">
+                <Coords points="445,1720 718,1728 779,1702 831,1721 988,1718 988,1679 923,1683 899,1659 841,1652 779,1693 717,1652 675,1679 633,1665 611,1688 532,1654 505,1675 445,1665"/>
+                <Baseline points="450,1704 476,1705 503,1706 529,1706 556,1707 583,1707 609,1707 636,1707 663,1707 689,1707 716,1707 743,1706 769,1706 796,1706 823,1704 849,1704 876,1704 903,1704 929,1703 956,1703 983,1703"/>
+                <TextEquiv>
+                    <Unicode>Allhie zu Bärnn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>anns sieslerne
+Vhaldtkirch
+Abichen G
+eYsenkrämer Burger
+Allhie zu Bärnn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2010,10 2010,164 2097,164 2097,10"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2004,134 2031,140 2050,150 2054,147 2072,150 2084,138 2101,139 2103,92 2087,89 2071,73 2057,77 2023,77 2013,86 2006,85"/>
+                <Baseline points="2010,110 2039,112 2068,114 2097,113"/>
+                <TextEquiv>
+                    <Unicode>12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>12</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

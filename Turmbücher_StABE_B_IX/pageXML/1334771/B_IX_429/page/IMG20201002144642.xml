@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.3.1:model_id=26190:lm=provided:date=06_10_2020_13:09
+prov=READ-Coop:name=PyLaia@Transkribus:version=0.3.1:model_id=26190:lm=provided:date=06_10_2020_13:08
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6</Creator>
+        <Created>2020-10-06T08:15:08.077+02:00</Created>
+        <LastChange>2022-09-09T15:39:43.823+02:00</LastChange>
+        <TranskribusMetadata docId="1334771" pageId="52353450" pageNr="80" tsid="114635005" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=SUFZUINGIRSUXFQWMLQAXLGJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OEHWEQCPMBGYUMFNHLEODYRI" imageId="16110676"/>
+    </Metadata>
+    <Page imageFilename="IMG20201002144642.jpg" imageWidth="4000" imageHeight="3000">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687514087675" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="591,1928 591,2087 702,2087 702,1928"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="582,2042 630,2040 633,2036 712,2037 710,2001 698,2001 678,1984 647,2013 626,1996 618,2000 606,1989 592,2001 580,2002"/>
+                <Baseline points="591,2037 618,2030 646,2028 674,2029 702,2031"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1677,513 1677,2485 2358,2485 2358,513"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} person {offset:0; length:15;}">
+                <Coords points="1676,562 1901,536 1969,580 2059,538 2161,540 2199,566 2326,550 2326,494 2219,464 2091,518 2043,488 1983,504 1931,478 1869,510 1822,506 1732,452 1676,472"/>
+                <Baseline points="1686,542 1717,540 1748,539 1780,538 1811,537 1843,536 1874,536 1906,536 1937,536 1969,536 2000,536 2031,536 2063,536 2094,536 2126,537 2157,537 2189,537 2220,539 2252,539 2283,540 2315,540"/>
+                <TextEquiv>
+                    <Unicode>Damel intzeller us dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} place {offset:0; length:14;} place {offset:18; length:6;}">
+                <Coords points="1730,617 1802,596 1851,621 1886,594 1979,633 2013,604 2073,619 2097,602 2141,622 2223,584 2269,589 2268,547 2196,566 2138,539 2052,541 1994,568 1969,545 1934,563 1897,536 1853,557 1729,565"/>
+                <Baseline points="1739,597 1766,597 1793,596 1820,596 1848,596 1875,594 1902,594 1930,594 1957,594 1984,594 2012,593 2039,593 2066,593 2094,591 2121,591 2148,590 2176,590 2203,588 2230,588 2258,585"/>
+                <TextEquiv>
+                    <Unicode>Nidersibenhall zu marfil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1707,668 1747,656 1793,684 1829,660 2088,670 2128,650 2172,674 2204,644 2291,677 2313,667 2313,591 2223,584 2088,628 2048,599 1984,627 1954,601 1846,622 1802,596 1707,620"/>
+                <Baseline points="1718,644 1747,647 1776,648 1805,648 1835,650 1864,650 1893,651 1922,651 1952,651 1981,651 2010,651 2039,651 2069,651 2098,650 2127,650 2156,650 2186,650 2215,650 2244,650 2273,651 2303,651"/>
+                <TextEquiv>
+                    <Unicode>befragt unnd im dis drach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1716,711 1816,713 1842,738 1895,711 1946,732 2005,719 2046,750 2083,728 2187,739 2207,721 2301,737 2302,689 2197,659 2098,683 2038,655 1996,671 1717,671"/>
+                <Baseline points="1727,699 1755,701 1783,703 1811,704 1840,704 1868,705 1896,705 1924,707 1953,707 1981,707 2009,707 2037,708 2066,708 2094,708 2122,709 2150,710 2179,710 2207,711 2235,712 2263,713 2292,714"/>
+                <TextEquiv>
+                    <Unicode>volgend dabf artickell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="1699,784 1723,780 1767,801 1812,776 1839,802 1890,803 1946,769 2022,777 2023,724 1939,743 1901,711 1883,722 1869,716 1842,738 1817,711 1778,719 1753,705 1734,720 1700,720"/>
+                <Baseline points="1710,761 1735,762 1760,762 1785,762 1811,763 1836,764 1861,764 1886,764 1912,765 1937,765 1962,765 1987,765 2013,765"/>
+                <TextEquiv>
+                    <Unicode>fürgehaltene.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="1670,896 1699,887 1708,893 1738,894 1750,904 1780,889 1804,893 1802,822 1780,827 1754,810 1726,818 1720,825 1700,825 1683,809 1667,810"/>
+                <Baseline points="1680,878 1708,879 1737,877 1765,875 1794,878"/>
+                <TextEquiv>
+                    <Unicode>Er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="1832,893 1876,905 1912,884 1942,910 2059,880 2073,894 2125,887 2187,921 2221,891 2295,888 2296,825 2167,857 2063,828 2035,846 1967,850 1881,811 1833,825"/>
+                <Baseline points="1842,878 1868,879 1894,881 1920,881 1946,882 1972,882 1998,883 2024,884 2050,884 2077,884 2103,884 2129,884 2155,884 2181,883 2207,882 2233,882 2259,881 2286,881"/>
+                <TextEquiv>
+                    <Unicode>lich, das er vergangner us</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="1699,936 1719,932 1731,943 1751,945 1765,958 1775,958 1791,942 1801,943 1803,893 1793,892 1780,900 1768,898 1750,905 1738,895 1700,896"/>
+                <Baseline points="1710,929 1737,930 1764,930 1791,932"/>
+                <TextEquiv>
+                    <Unicode>tag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="1823,961 1921,973 1984,940 2017,963 2036,949 2071,980 2110,954 2290,958 2291,902 2261,891 2172,920 2125,887 2095,898 2059,881 1954,911 1900,884 1824,895"/>
+                <Baseline points="1833,935 1859,934 1885,933 1911,933 1938,933 1964,933 1990,935 2017,935 2043,936 2069,938 2095,938 2122,939 2148,939 2174,941 2201,941 2227,939 2253,939 2280,938"/>
+                <TextEquiv>
+                    <Unicode>zu smb strffvatters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="1688,1008 1798,1026 1821,1005 1843,1019 1877,1004 1939,1034 1999,1035 2027,1009 2097,1023 2164,990 2190,1007 2260,997 2261,964 2225,956 2111,953 2066,978 2011,947 1920,973 1850,965 1806,932 1776,958 1690,948"/>
+                <Baseline points="1700,983 1727,984 1755,986 1782,987 1810,989 1837,990 1865,990 1892,992 1920,993 1947,993 1975,995 2002,995 2030,995 2057,996 2085,996 2112,996 2140,996 2167,996 2195,995 2222,995 2250,995"/>
+                <TextEquiv>
+                    <Unicode>husz gantz₎ als aber nie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="1721,1063 1917,1051 2025,1075 2096,1056 2118,1070 2144,1049 2191,1092 2234,1060 2266,1063 2267,1013 2235,998 2166,1029 2140,1013 2044,1021 1974,990 1944,1016 1721,1016"/>
+                <Baseline points="1731,1043 1757,1043 1783,1044 1809,1046 1836,1046 1862,1047 1888,1047 1914,1047 1941,1049 1967,1049 1993,1049 2019,1049 2046,1050 2072,1050 2098,1050 2124,1050 2151,1050 2177,1050 2203,1050 2229,1052 2256,1052"/>
+                <TextEquiv>
+                    <Unicode>mandts daheim gwasen sye</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="1709,1113 1754,1100 1797,1117 1908,1111 1923,1128 2008,1115 2029,1138 2072,1109 2200,1136 2263,1119 2263,1079 2236,1060 2191,1091 2140,1054 2017,1084 1917,1051 1832,1078 1803,1049 1710,1071"/>
+                <Baseline points="1719,1097 1745,1099 1772,1101 1799,1104 1825,1104 1852,1106 1879,1107 1905,1108 1932,1109 1959,1109 1986,1109 2012,1109 2039,1109 2066,1110 2092,1110 2119,1110 2146,1110 2172,1110 2199,1110 2226,1112 2253,1112"/>
+                <TextEquiv>
+                    <Unicode>er in deselben sub stieff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="1699,1158 1973,1188 2008,1159 2113,1201 2174,1157 2200,1178 2252,1175 2253,1121 2179,1142 2119,1114 2018,1139 1969,1116 1830,1134 1700,1117"/>
+                <Baseline points="1710,1151 1736,1154 1763,1157 1789,1159 1816,1161 1843,1163 1869,1164 1896,1165 1923,1166 1949,1166 1976,1166 2003,1166 2029,1166 2056,1166 2083,1166 2109,1166 2136,1166 2163,1164 2189,1164 2216,1164 2243,1164"/>
+                <TextEquiv>
+                    <Unicode>vatters sppicher brochten ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="1682,1219 1876,1228 1898,1250 1993,1222 2051,1259 2095,1231 2187,1223 2305,1241 2306,1161 2215,1185 2173,1159 2123,1199 2043,1168 1997,1196 1923,1166 1832,1188 1682,1175"/>
+                <Baseline points="1691,1214 1721,1215 1751,1216 1781,1217 1811,1218 1842,1219 1872,1220 1902,1220 1932,1221 1962,1221 1993,1221 2023,1221 2053,1221 2083,1221 2113,1221 2144,1221 2174,1220 2204,1218 2234,1218 2264,1217 2295,1215"/>
+                <TextEquiv>
+                    <Unicode>Mordacts derus gnommen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="1667,1291 1760,1278 1806,1308 1828,1286 1894,1302 1926,1280 2040,1317 2109,1289 2175,1321 2229,1279 2289,1296 2289,1251 2199,1227 2093,1233 2051,1257 1993,1222 1920,1228 1898,1250 1874,1228 1766,1248 1734,1223 1668,1235"/>
+                <Baseline points="1677,1271 1707,1272 1737,1274 1767,1275 1797,1277 1827,1277 1857,1278 1888,1278 1918,1280 1948,1280 1978,1280 2008,1280 2038,1280 2068,1280 2099,1280 2129,1279 2159,1278 2189,1277 2219,1275 2249,1274 2280,1272"/>
+                <TextEquiv>
+                    <Unicode>Deeselbig zu dhnu verthane</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="1689,1336 1793,1363 1891,1348 1929,1370 2060,1347 2116,1384 2166,1342 2310,1349 2311,1311 2271,1295 2170,1320 2092,1289 2040,1319 2016,1295 1922,1282 1888,1309 1838,1287 1811,1309 1689,1312"/>
+                <Baseline points="1698,1337 1728,1337 1758,1337 1788,1337 1818,1338 1848,1338 1878,1340 1908,1340 1938,1341 1968,1341 1999,1342 2029,1343 2059,1343 2089,1343 2119,1343 2149,1343 2179,1343 2209,1341 2239,1341 2269,1340 2300,1338"/>
+                <TextEquiv>
+                    <Unicode>hat daruff bscheyd geben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="1687,1405 1717,1418 1748,1399 1910,1410 1928,1396 1968,1420 2062,1404 2098,1424 2186,1426 2239,1404 2240,1356 2211,1343 2113,1384 2028,1345 2003,1367 1954,1357 1933,1372 1892,1349 1791,1364 1689,1337"/>
+                <Baseline points="1697,1395 1723,1395 1750,1394 1776,1394 1803,1394 1829,1394 1856,1395 1882,1396 1909,1397 1935,1398 1962,1400 1989,1401 2015,1403 2042,1404 2068,1404 2095,1406 2121,1406 2148,1407 2174,1407 2201,1406 2228,1406"/>
+                <TextEquiv>
+                    <Unicode>da er mit seiner mutter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="1680,1446 1789,1472 1826,1455 2010,1463 2075,1495 2116,1473 2159,1504 2282,1484 2285,1416 1970,1420 1934,1402 1773,1417 1748,1394 1681,1420"/>
+                <Baseline points="1689,1445 1718,1445 1747,1446 1776,1446 1806,1447 1835,1449 1864,1450 1893,1451 1923,1454 1952,1454 1981,1456 2010,1458 2040,1460 2069,1461 2098,1461 2127,1461 2157,1463 2186,1461 2215,1461 2244,1460 2274,1458"/>
+                <TextEquiv>
+                    <Unicode>und seinem bruder in spicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="1689,1532 1745,1510 1838,1540 1888,1528 1931,1554 1971,1524 2021,1534 2082,1514 2179,1547 2277,1543 2277,1486 2148,1505 2111,1477 2074,1496 2011,1463 1933,1460 1906,1479 1805,1453 1692,1472"/>
+                <Baseline points="1701,1503 1729,1503 1757,1505 1786,1505 1814,1506 1842,1508 1871,1508 1899,1509 1927,1511 1956,1512 1984,1513 2012,1515 2041,1516 2069,1517 2097,1518 2126,1519 2154,1521 2182,1522 2211,1523 2239,1525 2268,1526"/>
+                <TextEquiv>
+                    <Unicode>gangt da hab im dundtger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="1689,1577 1876,1563 1921,1602 1958,1583 1979,1604 2034,1574 2071,1594 2159,1576 2206,1598 2208,1550 2081,1514 2036,1542 1966,1529 1941,1546 1914,1517 1886,1530 1813,1498 1767,1529 1736,1517 1691,1533"/>
+                <Baseline points="1700,1557 1726,1557 1752,1559 1778,1559 1804,1559 1830,1560 1856,1561 1882,1562 1908,1563 1934,1564 1961,1566 1987,1568 2013,1569 2039,1569 2065,1571 2091,1572 2117,1574 2143,1575 2169,1577 2196,1577"/>
+                <TextEquiv>
+                    <Unicode>die mordach geben, die er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;} place {offset:4; length:4;}">
+                <Coords points="1693,1649 1730,1658 1800,1612 1843,1657 1882,1632 1933,1662 1996,1640 2085,1663 2124,1648 2186,1662 2188,1590 2160,1577 2085,1597 2032,1575 1927,1600 1884,1568 1795,1596 1769,1581 1695,1585"/>
+                <Baseline points="1703,1617 1729,1618 1755,1619 1782,1619 1808,1619 1834,1620 1861,1620 1887,1620 1913,1622 1940,1623 1966,1623 1992,1624 2019,1625 2045,1626 2071,1628 2098,1629 2124,1629 2150,1631 2177,1632"/>
+                <TextEquiv>
+                    <Unicode>gan thun getragen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;} person {offset:13; length:12;}">
+                <Coords points="1671,1757 2018,1764 2063,1786 2166,1766 2201,1804 2235,1807 2286,1789 2288,1721 2241,1709 2185,1739 2154,1724 2113,1740 2049,1697 2005,1734 1908,1698 1819,1727 1742,1675 1674,1667"/>
+                <Baseline points="1682,1743 1711,1745 1741,1746 1771,1747 1801,1748 1830,1750 1860,1751 1890,1753 1920,1755 1949,1756 1979,1758 2009,1759 2039,1760 2068,1761 2098,1763 2128,1763 2158,1764 2187,1764 2217,1764 2247,1764 2277,1763"/>
+                <TextEquiv>
+                    <Unicode>Denne das er Hanns ascher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="1684,1823 1869,1814 1962,1833 2053,1814 2086,1844 2111,1827 2203,1865 2229,1842 2300,1851 2303,1799 2259,1787 2200,1805 2148,1766 2060,1793 2013,1762 1976,1787 1878,1779 1861,1760 1686,1768"/>
+                <Baseline points="1695,1806 1724,1806 1754,1806 1784,1806 1814,1806 1844,1806 1874,1806 1903,1808 1933,1809 1963,1810 1993,1811 2023,1812 2053,1815 2083,1816 2112,1818 2142,1820 2172,1821 2202,1824 2232,1826 2262,1829 2292,1830"/>
+                <TextEquiv>
+                    <Unicode>der in vormaln hetffn sach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="1696,1877 1785,1891 1866,1871 1955,1910 2015,1875 2136,1903 2209,1883 2324,1911 2339,1863 2229,1842 2194,1864 2064,1819 2025,1841 1865,1811 1804,1840 1698,1821"/>
+                <Baseline points="1707,1862 1738,1862 1769,1863 1800,1863 1831,1865 1862,1866 1893,1866 1924,1868 1955,1869 1986,1871 2017,1873 2048,1874 2079,1875 2110,1878 2141,1880 2172,1881 2203,1884 2234,1886 2265,1888 2296,1890 2328,1892"/>
+                <TextEquiv>
+                    <Unicode>getromen hab, und im den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="1682,1923 1720,1939 1777,1926 1839,1967 1963,1936 2041,1972 2141,1947 2168,1976 2211,1956 2268,1977 2271,1915 2249,1910 2145,1913 2024,1875 1948,1908 1868,1870 1796,1894 1685,1873"/>
+                <Baseline points="1692,1916 1720,1918 1748,1921 1777,1923 1805,1925 1833,1926 1862,1928 1890,1929 1918,1930 1947,1931 1975,1931 2003,1932 2032,1934 2060,1934 2088,1935 2117,1937 2145,1938 2173,1941 2202,1942 2230,1945 2259,1949"/>
+                <TextEquiv>
+                    <Unicode>tod gschworen, ist er ganntz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="1671,1986 1811,2004 1882,1982 2013,2026 2048,1997 2330,2019 2331,1944 2254,1975 2145,1947 1925,1968 1674,1920"/>
+                <Baseline points="1682,1977 1715,1979 1749,1981 1782,1982 1816,1985 1850,1986 1883,1987 1917,1988 1951,1989 1984,1991 2018,1992 2051,1992 2085,1994 2119,1995 2152,1996 2186,1998 2220,2000 2253,2001 2287,2004 2321,2006"/>
+                <TextEquiv>
+                    <Unicode>und gar mit sthantkch wiewol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="1690,2055 1949,2054 2004,2090 2055,2066 2142,2087 2177,2066 2277,2066 2279,2011 2049,1997 1998,2026 1947,1996 1860,2013 1792,1992 1692,1999"/>
+                <Baseline points="1700,2034 1728,2037 1756,2038 1785,2040 1813,2043 1842,2044 1870,2045 1898,2046 1927,2048 1955,2048 1984,2049 2012,2051 2040,2051 2069,2051 2097,2052 2126,2053 2154,2054 2182,2054 2211,2055 2239,2055 2268,2055"/>
+                <TextEquiv>
+                    <Unicode>Im derselb achster für und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="1674,2120 1714,2138 1780,2098 1836,2145 2011,2124 2145,2153 2174,2126 2243,2111 2244,2079 2043,2073 2009,2092 1902,2053 1887,2067 1840,2049 1677,2056"/>
+                <Baseline points="1686,2090 1713,2093 1740,2094 1767,2096 1795,2099 1822,2100 1849,2102 1877,2105 1904,2106 1931,2108 1959,2109 1986,2109 2013,2111 2040,2111 2068,2112 2095,2112 2122,2112 2150,2112 2177,2112 2204,2112 2232,2111"/>
+                <TextEquiv>
+                    <Unicode>für uffsetzig zwasenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="1666,2205 1837,2248 1904,2223 1953,2244 2022,2235 2051,2259 2116,2238 2221,2270 2278,2253 2281,2203 2194,2172 2127,2179 2088,2158 2037,2184 1981,2175 1954,2200 1869,2161 1772,2174 1742,2144 1700,2140 1669,2155"/>
+                <Baseline points="1677,2204 1706,2207 1736,2212 1765,2214 1795,2217 1824,2219 1854,2221 1883,2223 1913,2225 1942,2226 1972,2228 2002,2228 2031,2229 2061,2230 2090,2231 2120,2232 2149,2233 2179,2235 2208,2236 2238,2238 2268,2240"/>
+                <TextEquiv>
+                    <Unicode>44. das er ouch dennen so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;} person {offset:3; length:12;}">
+                <Coords points="1687,2289 1750,2265 1787,2288 1847,2269 1980,2314 2068,2285 2280,2315 2282,2275 2206,2268 2187,2247 2050,2260 1998,2231 1836,2245 1691,2215"/>
+                <Baseline points="1698,2261 1726,2263 1755,2264 1783,2267 1812,2268 1841,2271 1869,2273 1898,2276 1927,2277 1955,2279 1984,2280 2013,2283 2041,2285 2070,2286 2099,2288 2127,2290 2156,2291 2185,2293 2213,2294 2242,2295 2271,2295"/>
+                <TextEquiv>
+                    <Unicode>Dn jenmalu fart werdin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="1689,2355 1711,2362 1783,2330 1860,2364 1888,2355 1945,2375 2005,2354 2187,2366 2190,2304 2152,2295 2057,2284 1963,2311 1928,2293 1811,2305 1752,2266 1713,2290 1693,2281"/>
+                <Baseline points="1701,2321 1726,2324 1751,2326 1776,2328 1801,2330 1826,2331 1851,2333 1876,2334 1901,2334 1926,2336 1951,2337 1976,2337 2001,2339 2026,2340 2051,2342 2076,2342 2101,2344 2126,2347 2151,2349 2177,2352"/>
+                <TextEquiv>
+                    <Unicode>pfangen getraüte sy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="1683,2408 1762,2429 1937,2395 2021,2428 2129,2412 2170,2434 2233,2419 2274,2441 2317,2419 2366,2436 2370,2352 2282,2345 2233,2377 2119,2350 2076,2374 1979,2355 1920,2375 1769,2331 1685,2362"/>
+                <Baseline points="1694,2385 1727,2385 1760,2387 1793,2387 1826,2388 1860,2391 1893,2393 1926,2394 1959,2396 1992,2399 2026,2402 2059,2403 2092,2405 2125,2408 2158,2409 2192,2409 2225,2411 2258,2411 2291,2411 2324,2409 2358,2408"/>
+                <TextEquiv>
+                    <Unicode>müssen in mir min gnossuem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="1677,2470 1736,2456 1859,2498 2029,2466 2095,2509 2288,2499 2290,2453 2239,2425 2169,2434 2139,2416 2034,2440 1963,2404 1853,2401 1816,2422 1680,2406"/>
+                <Baseline points="1689,2451 1718,2451 1748,2451 1777,2451 1807,2453 1836,2453 1866,2455 1895,2457 1925,2458 1954,2459 1984,2462 2014,2463 2043,2465 2073,2467 2102,2468 2132,2469 2161,2471 2191,2471 2220,2472 2250,2472 2280,2472"/>
+                <TextEquiv>
+                    <Unicode>Suhriff Git er solichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Damel intzeller us dem
+Nidersibenhall zu marfil
+befragt unnd im dis drach
+volgend dabf artickell
+fürgehaltene.
+Er
+lich, das er vergangner us
+tag
+zu smb strffvatters
+husz gantz₎ als aber nie
+mandts daheim gwasen sye
+er in deselben sub stieff
+vatters sppicher brochten ein
+Mordacts derus gnommen und
+Deeselbig zu dhnu verthane
+hat daruff bscheyd geben
+da er mit seiner mutter
+und seinem bruder in spicher
+gangt da hab im dundtger
+die mordach geben, die er
+gan thun getragen
+Denne das er Hanns ascher
+der in vormaln hetffn sach
+getromen hab, und im den
+tod gschworen, ist er ganntz
+und gar mit sthantkch wiewol
+Im derselb achster für und
+für uffsetzig zwasenn
+44. das er ouch dennen so
+Dn jenmalu fart werdin
+pfangen getraüte sy
+müssen in mir min gnossuem
+Suhriff Git er solichen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2427,1097 2427,1689 2607,1689 2607,1097"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2452,1153 2468,1153 2478,1147 2490,1147 2490,1085 2480,1085 2478,1087 2474,1085 2464,1089 2452,1089"/>
+                <Baseline points="2463,1134 2481,1134"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="2433,1246 2447,1244 2455,1233 2476,1234 2485,1224 2495,1229 2514,1204 2535,1207 2524,1139 2511,1141 2498,1152 2484,1143 2457,1178 2448,1173 2440,1185 2424,1185"/>
+                <Baseline points="2439,1212 2467,1209 2495,1204 2523,1200"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="2465,1295 2483,1296 2495,1292 2516,1308 2547,1305 2551,1215 2533,1210 2529,1214 2517,1203 2484,1230 2468,1231"/>
+                <Baseline points="2475,1286 2506,1289 2538,1289"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="2422,1303 2432,1303 2436,1307 2448,1295 2458,1295 2458,1243 2444,1243 2438,1247 2432,1241 2422,1241"/>
+                <Baseline points="2433,1289 2448,1289"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="2434,1377 2444,1378 2450,1372 2460,1381 2475,1367 2495,1364 2514,1353 2541,1369 2555,1363 2575,1366 2579,1290 2563,1289 2540,1308 2536,1304 2520,1309 2494,1294 2472,1295 2462,1302 2449,1290 2438,1289"/>
+                <Baseline points="2445,1346 2475,1350 2505,1352 2535,1353 2565,1352"/>
+                <TextEquiv>
+                    <Unicode>g</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="2417,1403 2460,1425 2481,1451 2504,1444 2519,1457 2551,1445 2570,1467 2615,1451 2621,1399 2590,1399 2568,1387 2548,1396 2535,1392 2516,1406 2498,1380 2491,1385 2478,1367 2460,1379 2422,1373"/>
+                <Baseline points="2427,1404 2452,1412 2478,1417 2504,1422 2529,1426 2555,1429 2581,1431 2607,1433"/>
+                <TextEquiv>
+                    <Unicode>e sees</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="2445,1512 2453,1511 2462,1506 2469,1507 2474,1502 2484,1499 2464,1415 2447,1421 2437,1415 2434,1420 2425,1423"/>
+                <Baseline points="2448,1476 2466,1472"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="2489,1508 2519,1505 2526,1514 2540,1517 2551,1511 2563,1512 2567,1440 2555,1439 2536,1456 2526,1451 2514,1455 2504,1444 2492,1443"/>
+                <Baseline points="2499,1497 2526,1499 2553,1500"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="2558,1685 2582,1685 2584,1687 2595,1677 2609,1676 2604,1630 2586,1630 2571,1617 2569,1620 2551,1622"/>
+                <Baseline points="2567,1670 2597,1667"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+5
+g
+e sees
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

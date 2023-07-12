@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T16:07:28.884+02:00</Created>
+        <LastChange>2023-06-17T17:16:27.035+02:00</LastChange>
+        <TranskribusMetadata docId="1336518" pageId="52421561" pageNr="145" tsid="127191498" status="IN_PROGRESS" userId="42748" imgUrl="https://files.transkribus.eu/Get?id=EMQRZJZNMJKBABOGKYBHSWTB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCXBDFXRMXKTUOWTALUHGZFO" imageId="30694569"/>
+    </Metadata>
+    <Page imageFilename="IMG_6699.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513576715" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1687014974954_2281"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1687014974954_2281" custom="readingOrder {index:0;}">
+            <Coords points="778,989 1912,1051 1890,1291 801,1298"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="832,1093 841,1095 864,1079 872,1078 879,1024 863,1022 853,1015 851,1016 848,1013 843,1013"/>
+                <Baseline points="843,1061 867,1064"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="924,1168 1492,1165 1541,1193 1643,1165 1811,1200 1895,1188 1897,1132 1748,1112 1574,1140 1460,1103 1368,1140 1238,1092 1150,1118 1080,1076 927,1059"/>
+                <Baseline points="930,1149 978,1149 1026,1149 1074,1149 1122,1149 1170,1150 1218,1151 1266,1152 1314,1153 1362,1154 1410,1155 1458,1157 1506,1158 1554,1160 1602,1162 1650,1164 1698,1166 1746,1168 1794,1169 1842,1172 1890,1173"/>
+                <TextEquiv>
+                    <Unicode>Ist Er doch allwegen beständig darauff behar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="930,1222 1293,1252 1476,1215 1552,1251 1599,1225 1869,1265 1871,1170 1724,1203 1490,1164 1336,1193 1286,1159 931,1170"/>
+                <Baseline points="936,1205 982,1205 1028,1206 1075,1206 1121,1207 1167,1208 1214,1208 1260,1209 1306,1211 1353,1211 1399,1212 1445,1214 1492,1214 1538,1215 1584,1217 1631,1219 1677,1221 1723,1223 1770,1225 1816,1227 1863,1230"/>
+                <TextEquiv>
+                    <Unicode>ret, daß Er weder dieses Kohrn genommen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;}">
+                <Coords points="928,1299 1803,1302 1803,1258 1552,1251 1477,1216 1294,1251 929,1221"/>
+                <Baseline points="935,1260 978,1262 1021,1263 1064,1265 1107,1266 1150,1266 1193,1268 1236,1268 1279,1268 1322,1268 1366,1269 1409,1269 1452,1269 1495,1271 1538,1271 1581,1271 1624,1272 1667,1274 1710,1275 1753,1277 1797,1278"/>
+                <TextEquiv>
+                    <Unicode>noch einihen anderen diesstahl begangen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4
+Ist Er doch allwegen beständig darauff behar¬
+ret, daß Er weder dieses Kohrn genommen,
+noch einihen anderen diesstahl begangen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

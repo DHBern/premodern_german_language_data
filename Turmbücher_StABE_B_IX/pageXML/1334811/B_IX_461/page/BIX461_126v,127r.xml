@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=TurmbÃ¼cher_StaBe_3_A.Funk(htr_id=27278)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-03T12:26:26.066+02:00</Created>
+        <LastChange>2022-09-12T14:25:09.180+02:00</LastChange>
+        <TranskribusMetadata docId="1334811" pageId="52359464" pageNr="130" tsid="114641211" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=XYDZVJZPBUEJNTVKBJKJBZQT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WHJOKSSYNPIOGXHTHKKMRQOD" imageId="15997981"/>
+    </Metadata>
+    <Page imageFilename="BIX461_126v,127r.jpg" imageWidth="4000" imageHeight="3000">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513819940" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1208,142 1208,309 2067,309 2067,142"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} person {offset:0; length:12; continued:true;}">
+                <Coords points="1228,257 1457,240 1500,203 1625,186 1671,210 2073,167 2060,47 1995,66 1910,19 1859,64 1680,98 1455,68 1336,140 1214,126"/>
+                <Baseline points="1233,258 1274,247 1316,237 1358,227 1399,219 1441,212 1483,204 1524,198 1566,193 1608,188 1650,183 1691,180 1733,177 1775,174 1816,171 1858,169 1900,167 1941,165 1983,164 2025,163 2067,162"/>
+                <TextEquiv>
+                    <Unicode>jnis Smonder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:0; length:10; continued:true;}">
+                <Coords points="1205,314 1262,287 1324,339 1358,313 1705,296 1735,271 1829,282 1910,249 1907,212 1799,207 1693,241 1524,225 1468,253 1385,234 1310,275 1256,251 1201,260"/>
+                <Baseline points="1208,287 1242,290 1277,293 1312,296 1347,298 1382,299 1417,297 1451,296 1486,294 1521,291 1556,288 1591,285 1626,279 1661,276 1695,271 1730,268 1765,263 1800,260 1835,257 1870,254 1905,251"/>
+                <TextEquiv>
+                    <Unicode>Reinhouwer alhie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>jnis Smonder
+Reinhouwer alhie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

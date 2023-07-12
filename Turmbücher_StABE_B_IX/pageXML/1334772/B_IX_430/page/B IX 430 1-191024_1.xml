@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=TurmbÃ¼cher Anna Witschi V2(htr_id=27066)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T21:23:53.790+02:00</Created>
+        <LastChange>2022-09-09T15:53:12.113+02:00</LastChange>
+        <TranskribusMetadata docId="1334772" pageId="52352995" pageNr="1" tsid="114634538" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=VYOXFRQRZEJWBUVCMYPALQDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IJYARYDWDRRCCAILIUTVQBZI" imageId="16091156"/>
+    </Metadata>
+    <Page imageFilename="B IX 430 1-191024_1.jpg" imageWidth="352" imageHeight="1024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687514064107" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="146,249 146,354 242,354 242,249"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="141,298 150,295 155,298 159,294 164,297 170,295 179,304 191,299 197,301 200,298 206,298 206,258 196,261 189,257 179,258 166,264 162,260 152,266 141,266"/>
+                <Baseline points="146,278 173,280 201,278"/>
+                <TextEquiv>
+                    <Unicode>156</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="157,346 173,351 189,341 194,346 205,343 213,350 230,347 238,352 246,349 247,311 235,314 223,308 206,321 181,320 172,312 158,313"/>
+                <Baseline points="163,339 189,337 215,338 242,340"/>
+                <TextEquiv>
+                    <Unicode>B. 1568.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>156
+B. 1568.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

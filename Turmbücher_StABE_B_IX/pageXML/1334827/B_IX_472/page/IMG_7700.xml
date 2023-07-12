@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T11:30:00.138+02:00</Created>
+        <LastChange>2022-09-12T14:37:50.510+02:00</LastChange>
+        <TranskribusMetadata docId="1334827" pageId="52360334" pageNr="6" tsid="114642094" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=XCMITCHNSMNLKEAUXPFZAOZY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GUQXJZNMNQHAIVLGFZSXBGZD" imageId="16042864"/>
+    </Metadata>
+    <Page imageFilename="IMG_7700.JPG" imageWidth="3024" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513745878" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1698,410 1698,957 2804,957 2804,410"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1697,608 1735,575 1856,589 1915,556 2027,593 2116,507 2229,484 2367,509 2559,462 2550,367 2468,426 2328,450 2159,470 2098,426 2024,486 1918,487 1872,454 1797,503 1731,462 1686,497"/>
+                <Baseline points="1698,548 1740,542 1783,536 1826,530 1868,525 1911,521 1954,517 1996,513 2039,510 2082,506 2125,504 2167,500 2210,496 2253,492 2295,489 2338,484 2381,479 2423,473 2466,467 2509,460 2552,452"/>
+                <TextEquiv>
+                    <Unicode>samd jann  15 16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} person {offset:8; length:5;} person {offset:24; length:16;}">
+                <Coords points="1742,781 1884,816 1939,766 2813,712 2806,631 2689,620 2551,624 2405,687 2325,645 1898,711 1801,670 1736,708"/>
+                <Baseline points="1748,770 1800,766 1853,764 1906,760 1959,755 2012,752 2064,747 2117,743 2170,739 2223,734 2276,729 2328,726 2381,722 2434,717 2487,713 2540,708 2592,705 2645,699 2698,696 2751,692 2804,687"/>
+                <TextEquiv>
+                    <Unicode>Bubach, Madle, v. Taus, Peter Schneiders Frau,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1918,872 1971,887 2174,840 2287,878 2382,820 2518,846 2569,806 2672,830 2760,783 2757,751 2688,725 2650,747 2499,734 2452,779 2395,755 2328,783 2256,746 2196,775 2092,766 2039,808 1952,768 1911,780"/>
+                <Baseline points="1923,840 1964,838 2006,834 2047,831 2089,829 2130,825 2172,823 2213,820 2255,816 2296,814 2338,811 2379,807 2421,805 2462,801 2504,799 2545,795 2587,792 2628,788 2670,783 2711,780 2753,776"/>
+                <TextEquiv>
+                    <Unicode>wegen Anweisung ihrer Tochter zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1915,956 1993,971 2038,947 2061,954 2087,934 2134,942 2170,924 2193,937 2228,931 2222,821 2180,860 2152,859 2126,885 2077,891 2027,861 1993,887 1909,880"/>
+                <Baseline points="1920,936 1945,934 1970,932 1995,930 2020,928 2045,926 2071,924 2096,921 2121,919 2146,918 2171,917 2196,916 2222,915"/>
+                <TextEquiv>
+                    <Unicode>Stehlen. 60</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>samd jann  15 16.
+Bubach, Madle, v. Taus, Peter Schneiders Frau,
+wegen Anweisung ihrer Tochter zum
+Stehlen. 60</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

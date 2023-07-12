@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Turmbücher Anna Witschi V2(htr_id=27066)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-10-05T21:24:11.364+02:00</Created>
+        <LastChange>2022-09-09T15:57:42.042+02:00</LastChange>
+        <TranskribusMetadata docId="1334772" pageId="52354766" pageNr="304" tsid="114636363" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=YZSNWRTBFDMSYJBTRFBYOIRZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PTBREYWIUBVVMXUVOYDUOZSQ" imageId="16091459"/>
+    </Metadata>
+    <Page imageFilename="B IX 430 1-191024_304.jpg" imageWidth="335" imageHeight="1024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687514081890" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="37,1 37,66 302,66 302,1"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="145,33 168,34 181,26 190,34 228,36 242,27 261,26 277,36 288,26 307,26 306,-1 296,-1 286,11 272,12 264,6 217,14 196,6 184,15 143,8"/>
+                <Baseline points="149,27 174,26 200,24 225,23 251,22 276,21 302,21"/>
+                <TextEquiv>
+                    <Unicode>den v. tag mortzous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="33,44 48,43 53,47 67,35 81,44 88,41 97,49 112,43 110,18 101,17 94,20 88,15 83,15 77,20 63,18 60,22 31,21"/>
+                <Baseline points="37,32 71,33 106,28"/>
+                <TextEquiv>
+                    <Unicode>uff füyn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="74,66 101,56 114,66 164,66 192,51 216,67 246,66 260,51 281,50 280,27 213,36 192,35 180,26 167,37 139,32 132,38 123,29 117,35 103,31 91,42 72,41"/>
+                <Baseline points="78,53 106,52 134,50 162,49 191,47 219,46 247,44 276,42"/>
+                <TextEquiv>
+                    <Unicode>2x 17 jar in gegen wu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="39,66 72,65 71,41 58,43 57,45 53,47 49,47 45,43 38,44"/>
+                <Baseline points="44,56 67,55"/>
+                <TextEquiv>
+                    <Unicode>m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den v. tag mortzous
+uff füyn
+2x 17 jar in gegen wu
+m</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus German Kurrent M2(htr_id=29820)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-02T15:58:43.803+02:00</Created>
+        <LastChange>2022-09-12T15:57:15.667+02:00</LastChange>
+        <TranskribusMetadata docId="1336520" pageId="52420857" pageNr="1" tsid="114799146" status="IN_PROGRESS" userId="9570" imgUrl="https://files.transkribus.eu/Get?id=QMTILWWVPDBXKAAPSDKAHCGT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWYAKDSUOGWITVCKKEZUDRSA" imageId="30693281"/>
+    </Metadata>
+    <Page imageFilename="IMG_6412 2.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687513545609" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1823,2088 1823,2337 2040,2337 2040,2088"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1806,2155 1858,2142 1876,2152 1891,2140 1950,2161 1969,2152 2001,2163 2014,2154 2025,2164 2055,2159 2059,2075 1993,2069 1975,2078 1951,2065 1939,2076 1924,2067 1884,2086 1852,2061 1810,2053"/>
+                <Baseline points="1823,2130 1850,2132 1877,2133 1904,2133 1931,2133 1958,2134 1985,2135 2012,2138 2040,2141"/>
+                <TextEquiv>
+                    <Unicode>St. A. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1845,2243 1866,2244 1900,2228 1942,2236 1950,2246 1972,2232 1986,2242 2001,2243 2006,2165 1979,2160 1968,2151 1955,2159 1937,2152 1913,2163 1892,2152 1877,2152 1872,2145 1850,2150"/>
+                <Baseline points="1862,2217 1887,2216 1912,2217 1937,2219 1962,2221 1988,2223"/>
+                <TextEquiv>
+                    <Unicode>612</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1837,2338 1864,2346 1896,2328 1921,2342 1957,2330 1978,2350 1990,2341 2014,2343 2012,2244 1994,2245 1970,2233 1955,2246 1940,2246 1925,2231 1868,2244 1849,2227 1834,2227"/>
+                <Baseline points="1851,2316 1880,2315 1909,2313 1938,2312 1967,2312 1997,2315"/>
+                <TextEquiv>
+                    <Unicode>507</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>St. A. B.
+612
+507</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1934,187 1934,340 1997,340 1997,187"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1920,341 1977,341 1992,329 2013,332 2013,245 1974,248 1956,236 1920,236"/>
+                <Baseline points="1934,290 1965,287 1997,290"/>
+                <TextEquiv>
+                    <Unicode>713</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>713</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

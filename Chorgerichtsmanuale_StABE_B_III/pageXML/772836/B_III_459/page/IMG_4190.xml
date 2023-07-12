@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=German_Kurrent_XVI-XVIII_M1(htr_id=19584)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-09-05T13:04:27.174+02:00</Created>
+        <LastChange>2021-10-11T11:19:05.373+02:00</LastChange>
+        <TranskribusMetadata docId="772836" pageId="29283268" pageNr="1" tsid="66275777" status="IN_PROGRESS" userId="101546" imgUrl="https://files.transkribus.eu/Get?id=CYVHPHPKDUHLNCXIQHEJPAXD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FFYXFVCXBXYBFTZMPOLNOLIK" imageId="22980866"/>
+    </Metadata>
+    <Page imageFilename="IMG_4190.jpg" imageWidth="4032" imageHeight="3024">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687514892758" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2343,396 2343,1147 2622,1147 2622,396"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2441,487 2468,481 2480,485 2494,474 2504,479 2519,477 2503,352 2485,351 2473,359 2463,351 2454,352 2447,362 2426,365"/>
+                <Baseline points="2450,446 2499,440"/>
+                <TextEquiv>
+                    <Unicode>s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2328,952 2346,950 2382,973 2399,962 2457,965 2493,940 2509,945 2569,920 2623,914 2615,840 2571,826 2558,843 2504,815 2406,829 2360,876 2321,883"/>
+                <Baseline points="2343,942 2369,936 2396,930 2422,925 2449,923 2476,920 2502,918 2529,915 2555,914 2582,913 2609,911"/>
+                <TextEquiv>
+                    <Unicode>gunder ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="2503,1013 2533,1008 2543,1016 2564,1014 2576,1022 2615,1019 2606,914 2589,916 2583,922 2568,921 2557,931 2535,929 2530,936 2511,928 2496,930"/>
+                <Baseline points="2517,978 2543,974 2569,971 2595,972"/>
+                <TextEquiv>
+                    <Unicode>bald</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2460,1175 2508,1171 2544,1147 2568,1153 2586,1141 2616,1153 2637,1150 2637,1093 2610,1090 2592,1078 2583,1084 2529,1087 2475,1049 2460,1049"/>
+                <Baseline points="2474,1124 2503,1124 2533,1122 2562,1122 2592,1122 2622,1125"/>
+                <TextEquiv>
+                    <Unicode>ryburge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>s
+gunder ein
+bald
+ryburge</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
